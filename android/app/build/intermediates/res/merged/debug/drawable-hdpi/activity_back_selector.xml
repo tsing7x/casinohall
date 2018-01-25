@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/scenc_back" android:state_pressed="true"/>
+    <item android:drawable="@drawable/scenc_back" android:state_focused="true"/>
+    <item android:drawable="@drawable/scenc_back" android:state_selected="true"/>
+	<item android:state_enabled="false" android:drawable="@drawable/scenc_back" />
+    <item android:drawable="@drawable/scenc_back"/>
+
+</selector><!-- From: file:/F:/gitWork/CasinoHall/android/app/src/main/res/drawable-hdpi/activity_back_selector.xml -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ป๊อกเด้ง</string>
+    
+	<!-- fackbook begin -->
+	<string name="facebook_app_id">1468603136785474</string>
+ 	<!-- fackbook end -->
+   <string name="notification_number">1337</string>
+   <string name="project_number">616018999400</string>
+    <!-- umeng key-->
+    <string name="umengkey">59ad5351ae1bf8136700013c</string> 
+    <string name="unityAdGameId">1395802</string>
+    <string name="applovinSDKkey">ef0itBueOqMA6dJoEX26gXDOzbm9fO5I350wHuZfiwrpX9angduL95l7hUHLuMdxSerkWOODJE1rNcb2ETOOZ7</string>
+
+    <string name="loading_tip">Đang tải , vui lòng chờ</string>
+    
+</resources>

@@ -1,0 +1,11 @@
+<item label="propIcon" compress="0" asset="popu/shop/propIcon" isDirectory="true">
+  <item atlasType="0" compress="0" key="1b5be3363498b50c9d3dae199f4ed108" label="tips" asset="popu/shop/propIcon/tips.png"/>
+  <item atlasType="0" compress="0" key="2d9e3d1b0acb08f05c73dd741d90c25a" label="elephant" asset="popu/shop/propIcon/elephant.png"/>
+  <item atlasType="0" compress="0" key="708fa0b69d35eb37406be2c8ad928d8a" label="King" asset="popu/shop/propIcon/King.png"/>
+  <item atlasType="0" compress="0" key="72b44e1a610c615edf83cf6a694fd6e5" label="shop_chip" asset="popu/shop/propIcon/shop_chip.png"/>
+  <item atlasType="0" compress="0" key="80d6473b84079fee2db701599628cf81" label="mahaTickets" asset="popu/shop/propIcon/mahaTickets.png"/>
+  <item atlasType="0" compress="0" key="875c29e2527bd50b44dd321ed20ccd6c" label="privateRoomCard" asset="popu/shop/propIcon/privateRoomCard.png"/>
+  <item atlasType="0" compress="0" key="a92908707ce2177881c3b724e9e85612" label="interProps" asset="popu/shop/propIcon/interProps.png"/>
+  <item atlasType="0" compress="0" key="aa74264e9a748e108e330d7654e8bd04" label="speakers" asset="popu/shop/propIcon/speakers.png"/>
+  <item atlasType="0" compress="0" key="ca6077cf86b1517a5a63d2a9a9d2c68d" label="cash_coins" asset="popu/shop/propIcon/cash_coins.png"/>
+</item>

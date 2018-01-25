@@ -1,0 +1,11 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="510" height="120" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" isGenerateLocal="true">
+  <btn_bg type="1" typeName="Button" time="0" x="0" y="0" width="510" height="120" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="d51041861e7c70f46a26dc867b5a48eb" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+    <img_head_bg type="1" typeName="Image" time="0" x="20" y="0" width="96" height="96" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="9fea7c99ad7d03de5e1932e26eb46a65" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <view_head type="0" typeName="View" time="0" x="0" y="0" width="85" height="85" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0"/>
+    </img_head_bg>
+    <txt_name type="4" typeName="Text" time="0" x="128" y="14" width="159.35" height="41" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="30" textAlign="7" color="0xfcffff" colorA="1" string="Robter"/>
+    <img_chip_icon type="1" typeName="Image" time="0" x="121" y="59" width="50" height="50" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="27715e4cbdfaedb3a9681612228b9d7a" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <text_chip type="4" typeName="Text" time="0" x="173" y="65" width="136" height="43" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="24" textAlign="7" color="0x19cdff" string="10000" colorA="1"/>
+    <txt_win_money type="4" typeName="Text" time="0" x="326" y="29" width="163.35" height="62" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="30" textAlign="3" color="0x16cefb" colorA="1" string="+20000"/>
+  </btn_bg>
+</root>

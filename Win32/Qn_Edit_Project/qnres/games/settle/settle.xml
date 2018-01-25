@@ -1,0 +1,14 @@
+<item label="settle" compress="0" asset="games/settle" isDirectory="true">
+  <item atlasType="0" compress="0" key="1700bb6e2a6da481b05fe2247d81ada4" label="igm_guang" asset="games/settle/igm_guang.png"/>
+  <item atlasType="0" compress="0" key="4d6c4e3653d2b84c9749d5ae54d4fedb" label="img_rank_2" asset="games/settle/img_rank_2.png"/>
+  <item atlasType="0" compress="0" key="70078d2652043f237c86e5caf508a398" label="img_guang" asset="games/settle/img_guang.png"/>
+  <item atlasType="0" compress="0" key="7638105e18d46ee1e39d2a4e81577539" label="img_rank_3" asset="games/settle/img_rank_3.png"/>
+  <item atlasType="0" compress="0" key="847a629020904a65c82d19e80433f3b8" label="img_rank_1" asset="games/settle/img_rank_1.png"/>
+  <item atlasType="0" compress="0" key="9f45cf1f7fb915ae44c1a6bb08708dae" label="img_counter_bg" asset="games/settle/img_counter_bg.png"/>
+  <item atlasType="0" compress="0" key="9fc01dc5e1f446c91411982c6bdc94de" label="img_bg" asset="games/settle/img_bg.png"/>
+  <item atlasType="0" compress="0" key="c28fe3addbc9e56bd492632e84f83eb8" label="img_title" asset="games/settle/img_title.png"/>
+  <item atlasType="0" compress="0" key="ca0ba6accb4e4e4cc644f7573dc0cb8a" label="img_item_guang" asset="games/settle/img_item_guang.png"/>
+  <item atlasType="0" compress="0" key="cc333e8ff7153db79c11c5aff59ace2b" label="img_item_bg_1" asset="games/settle/img_item_bg_1.png"/>
+  <item atlasType="0" compress="0" key="dfa8944bc56e3653dedcfbb76ece33c0" label="img_item_bg_2" asset="games/settle/img_item_bg_2.png"/>
+  <item atlasType="0" compress="0" key="f012ef43af7b0cd2d90362d35fceb980" label="img_devide" asset="games/settle/img_devide.png"/>
+</item>

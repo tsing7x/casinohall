@@ -1,0 +1,23 @@
+<item label="chat" compress="0" asset="room/chat" isDirectory="true">
+  <item atlasType="0" compress="0" key="06e374e269abae1ce403ca8560f0e80d" label="img_mark" asset="room/chat/img_mark.png"/>
+  <item atlasType="0" compress="0" key="10511cc176dfbc31c3c840142c8af838" label="img_speakerIconHover" asset="room/chat/img_speakerIconHover.png"/>
+  <item atlasType="0" compress="0" key="2df691a17bd6eb8d7b14f5b56cabf412" label="img_dialogBoxHover" asset="room/chat/img_dialogBoxHover.png"/>
+  <item atlasType="0" compress="0" key="30ecd9d3b2f5d2a583ea485671da8b9d" label="img_smailHover" asset="room/chat/img_smailHover.png"/>
+  <item atlasType="0" compress="0" key="38359d477e7b5a0040c05e12c2176187" label="faceq_res" asset="room/chat/faceq_res.png"/>
+  <item atlasType="0" compress="0" key="5797967ffb9fc583e6fad8233008848c" label="img_dialogBox" asset="room/chat/img_dialogBox.png"/>
+  <item atlasType="0" compress="0" key="5ae54ce6c553a62560195eafae9ca9c8" label="img_send" asset="room/chat/img_send.png"/>
+  <item atlasType="0" compress="0" key="5f6d97fa27b01a3630a912853b57e8a8" label="img_line" asset="room/chat/img_line.png"/>
+  <item atlasType="0" compress="0" key="66ea869e130536764a905fa2780966a3" label="button_bg" asset="room/chat/button_bg.png"/>
+  <item atlasType="0" compress="0" key="67190c74fc0e9dea24d4eacb406ad02f" label="img_speaker" asset="room/chat/img_speaker.png"/>
+  <item atlasType="0" compress="0" key="6fd37fe8082a93448ead63fec4738c90" label="img_speakerNotEnough" asset="room/chat/img_speakerNotEnough.png"/>
+  <item atlasType="0" compress="0" key="70ee5dcaad556b39a4b79a664e7c405d" label="img_middle" asset="room/chat/img_middle.png"/>
+  <item atlasType="0" compress="0" key="730588e47f3164a9711f56f4af629515" label="img_speakerIcon" asset="room/chat/img_speakerIcon.png"/>
+  <item atlasType="0" compress="0" key="85f815d4b45b6f7092c6462f4196a067" label="img_selectedUpper" asset="room/chat/img_selectedUpper.png"/>
+  <item atlasType="0" compress="0" key="97760882c01399feca9d5e48d4fa7a32" label="img_selectedMiddle" asset="room/chat/img_selectedMiddle.png"/>
+  <item atlasType="0" compress="0" key="9bf77911d4de5f4c4ad91bb637f159dc" label="img_inputEditText" asset="room/chat/img_inputEditText.png"/>
+  <item atlasType="0" compress="0" key="be9b42801a5711c26c65f7517934e070" label="img_upper" asset="room/chat/img_upper.png"/>
+  <item atlasType="0" compress="0" key="de075ffb456ae55b0c0f7ea368bbea09" label="img_selectedButtom" asset="room/chat/img_selectedButtom.png"/>
+  <item atlasType="0" compress="0" key="e6b6a4354fe00ccfff7d1785d97d8728" label="img_smail" asset="room/chat/img_smail.png"/>
+  <item atlasType="0" compress="0" key="f753c3c471b853011e8eb25b852f2dc9" label="img_buttom" asset="room/chat/img_buttom.png"/>
+  <item atlasType="0" compress="0" key="f9e4feaea0203d8d72531d2b0b48a2f3" label="img_textSend" asset="room/chat/img_textSend.png"/>
+</item>

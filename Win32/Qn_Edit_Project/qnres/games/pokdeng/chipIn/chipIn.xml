@@ -1,0 +1,14 @@
+<item label="chipIn" compress="0" asset="games/pokdeng/chipIn" isDirectory="true">
+  <item atlasType="0" compress="0" key="0babbece75f5881123b4e4cb647654d5" label="btn_chip_1" asset="games/pokdeng/chipIn/btn_chip_1.png"/>
+  <item atlasType="0" compress="0" key="0cb86578195b4f63765e10f9cdcabdd6" label="btn_allin" asset="games/pokdeng/chipIn/btn_allin.png"/>
+  <item atlasType="0" compress="0" key="19ce9ec75eb10532f3402fed95117a04" label="img_add_select" asset="games/pokdeng/chipIn/img_add_select.png"/>
+  <item atlasType="0" compress="0" key="2f230388b6a48bda26023a09889ec390" label="img_chipView_bg" asset="games/pokdeng/chipIn/img_chipView_bg.png"/>
+  <item atlasType="0" compress="0" key="35b7f091b78ec9d090e74551c3adfe44" label="slider_btn" asset="games/pokdeng/chipIn/slider_btn.png"/>
+  <item atlasType="0" compress="0" key="8d85f37d39416d977745db669aa10786" label="slider_bg_2" asset="games/pokdeng/chipIn/slider_bg_2.png"/>
+  <item atlasType="0" compress="0" key="9c3c4d69e0b51611e5bf21e0b5eb7017" label="slider_bg" asset="games/pokdeng/chipIn/slider_bg.png"/>
+  <item atlasType="0" compress="0" key="b1bbf665a0ef892f0cf9d3b2de8fa221" label="btn_chip_3" asset="games/pokdeng/chipIn/btn_chip_3.png"/>
+  <item atlasType="0" compress="0" key="bc4dc9bde1fb2a6fb3bd3ca5ec1344a7" label="btn_chip_2" asset="games/pokdeng/chipIn/btn_chip_2.png"/>
+  <item atlasType="0" compress="0" key="cd041ca382d6cc733ee41aac1650e6ed" label="slider_fg" asset="games/pokdeng/chipIn/slider_fg.png"/>
+  <item atlasType="0" compress="0" key="d0d51b4f5cb26959e86168e46549c21d" label="img_addChip_bg" asset="games/pokdeng/chipIn/img_addChip_bg.png"/>
+  <item atlasType="0" compress="0" key="e624f27ad6f3a585d1340e92b111cf1d" label="img_add_normal" asset="games/pokdeng/chipIn/img_add_normal.png"/>
+</item>

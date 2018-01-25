@@ -1,0 +1,22 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <view_bg type="0" typeName="View" time="0" x="0" y="0" width="720" height="296" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+    <Image12 type="1" typeName="Image" time="0" x="0" y="0" width="720" height="296" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" file="2f230388b6a48bda26023a09889ec390" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <btn_chip_1 type="1" typeName="Button" time="0" x="34" y="76" width="136" height="140" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="0babbece75f5881123b4e4cb647654d5" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+      <text_chip_1 type="4" typeName="Text" time="0" x="0" y="0" width="61.25" height="51" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="38" textAlign="0" color="0xffffff" string="1M" colorA="1"/>
+    </btn_chip_1>
+    <btn_chip_2 type="1" typeName="Button" time="0" x="205" y="76" width="136" height="140" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="bc4dc9bde1fb2a6fb3bd3ca5ec1344a7" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+      <text_chip_2 type="4" typeName="Text" time="0" x="0" y="0" width="61.25" height="51" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="38" textAlign="0" color="0xffffff" string="1M" colorA="1"/>
+    </btn_chip_2>
+    <btn_chip_3 type="1" typeName="Button" time="0" x="376" y="76" width="136" height="140" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="b1bbf665a0ef892f0cf9d3b2de8fa221" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+      <text_chip_3 type="4" typeName="Text" time="0" x="0" y="0" width="83.75" height="51" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="38" textAlign="0" color="0xffffff" string="10M" colorA="1"/>
+    </btn_chip_3>
+    <btn_repeat type="1" typeName="Button" time="0" x="541" y="172" width="146" height="72" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="f029ff6207ff0f2676563fd926e51570" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20" file2="">
+      <text_repeat type="4" typeName="Text" time="0" x="0" y="0" width="130" height="38" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="32" textAlign="0" color="0xFFFFFF" string="重复上轮" colorA="1"/>
+    </btn_repeat>
+    <btn_addChip type="1" typeName="Button" time="0" x="541" y="79" width="146" height="72" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="e5df13b1c72f5ddab69d974023292b65" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20" file2="">
+      <text_addChip type="4" typeName="Text" time="0" x="0" y="0" width="128" height="38" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="32" textAlign="0" color="0xFFFFFF" string="加 注"/>
+    </btn_addChip>
+    <text_in_min type="4" typeName="Text" time="0" x="100" y="12" width="144" height="39" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="6" fontName="" fontSize="24" textAlign="7" color="0x3284ad" string="MIN : 100" colorA="1"/>
+    <text_in_max type="4" typeName="Text" time="0" x="272" y="12" width="192" height="39" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="6" fontName="" fontSize="24" textAlign="7" color="0x3284ad" string="MAX : 10000" colorA="1"/>
+  </view_bg>
+</root>

@@ -1,0 +1,13 @@
+<item label="usrInfo" compress="0" asset="language/thai/popu/usrInfo" isDirectory="true">
+  <item atlasType="0" compress="0" key="2e5f5248deda0ea5276b85580e812465" label="usrInfo_dscTabIdx1_nor" asset="language/thai/popu/usrInfo/usrInfo_dscTabIdx1_nor.png"/>
+  <item atlasType="0" compress="0" key="45d5d4864874e07c7d51718bf0525f2e" label="usrInfo_dscFromCamera" asset="language/thai/popu/usrInfo/usrInfo_dscFromCamera.png"/>
+  <item atlasType="0" compress="0" key="5fc7b3728fbee411a58288c57e0c947c" label="usrInfo_dscTabIdx2_sel" asset="language/thai/popu/usrInfo/usrInfo_dscTabIdx2_sel.png"/>
+  <item atlasType="0" compress="0" key="6f1fa265979e8a5480d71f329583c9f9" label="usrInfo_dscGameInfoName_1018" asset="language/thai/popu/usrInfo/usrInfo_dscGameInfoName_1018.png"/>
+  <item atlasType="0" compress="0" key="76a1a3d616085139e3e332c3c6a54250" label="usrInfo_dscFromGallery" asset="language/thai/popu/usrInfo/usrInfo_dscFromGallery.png"/>
+  <item atlasType="0" compress="0" key="7d6479e414c721d354397d8d55179931" label="usrInfo_dscGameInfoName_1017" asset="language/thai/popu/usrInfo/usrInfo_dscGameInfoName_1017.png"/>
+  <item atlasType="0" compress="0" key="7f4620fcc04573ad2c93ac2d4e6ee154" label="usrInfo_dscTabIdx2_nor" asset="language/thai/popu/usrInfo/usrInfo_dscTabIdx2_nor.png"/>
+  <item atlasType="0" compress="0" key="a85bb3da70acc8013278b2b71e56a691" label="usrInfo_dscTitleHeadImgChange" asset="language/thai/popu/usrInfo/usrInfo_dscTitleHeadImgChange.png"/>
+  <item atlasType="0" compress="0" key="d8f5c821a0907d70c8869ad8a21efb3b" label="usrInfo_dscTitle" asset="language/thai/popu/usrInfo/usrInfo_dscTitle.png"/>
+  <item atlasType="0" compress="0" key="df61511fb1a477e57b4c778c764d9a35" label="usrInfo_dscTabIdx1_sel" asset="language/thai/popu/usrInfo/usrInfo_dscTabIdx1_sel.png"/>
+  <item atlasType="0" compress="0" key="ff3d3d158fdbc8b40c20860001927124" label="usrInfo_dscTitleNameSexChange" asset="language/thai/popu/usrInfo/usrInfo_dscTitleNameSexChange.png"/>
+</item>

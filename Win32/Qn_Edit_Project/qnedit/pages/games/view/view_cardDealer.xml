@@ -1,0 +1,9 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <view_dealer type="0" typeName="View" time="0" x="0" y="0" width="0" height="0" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+    <img_down type="1" typeName="Image" time="0" x="30" y="3" width="143" height="75" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="c952b9e3c03ca4d05bdcdd9aae92a75b" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <card_view type="0" typeName="View" time="0" x="0" y="0" width="0" height="0" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7">
+      <Image6 type="1" typeName="Image" time="0" x="0" y="0" width="58" height="67" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="489495e91577c8c181e3d7594a6aba98" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </card_view>
+    <img_up type="1" typeName="Image" time="0" x="25" y="9" width="131" height="88" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="b8e58fe616c7dee51105f2d5eae88605" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+  </view_dealer>
+</root>

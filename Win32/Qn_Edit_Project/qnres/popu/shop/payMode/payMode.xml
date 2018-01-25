@@ -1,0 +1,4 @@
+<item label="payMode" compress="0" asset="popu/shop/payMode" isDirectory="true">
+  <item atlasType="0" compress="0" key="25678242f9b8226955d0c5733e4cdd4d" label="google_1" asset="popu/shop/payMode/google_1.png"/>
+  <item atlasType="0" compress="0" key="f55d5a23e52e98a9c51d76f1d01381c9" label="google_0" asset="popu/shop/payMode/google_0.png"/>
+</item>

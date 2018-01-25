@@ -1,0 +1,26 @@
+<item label="friends" asset="popu/friends" compress="0">
+  <item atlasType="0" compress="0" key="035a9871e2b66192ab784136638e0553" label="tag_chip" asset="popu/friends/tag_chip.png"/>
+  <item atlasType="0" compress="0" key="118c217a42d83921996fff4c4a6d09d4" label="female" asset="popu/friends/female.png"/>
+  <item atlasType="0" compress="0" key="14d88e1b86ddad40b87db54c842961a7" label="empty" asset="popu/friends/empty.png"/>
+  <item atlasType="0" compress="0" key="157127df0c10e15b67cc3cc8711b266a" label="not_online" asset="popu/friends/not_online.png"/>
+  <item atlasType="0" compress="0" key="27ac039240873b318df8266f5513f897" label="recall" asset="popu/friends/recall.png"/>
+  <item atlasType="0" compress="0" key="2b2997814d5ff69182d4ae3216377f3a" label="accept" asset="popu/friends/accept.png"/>
+  <item atlasType="0" compress="0" key="2c62d765c825d6369cfb470919c732c1" label="tab_friend_add_1" asset="popu/friends/tab_friend_add_1.png"/>
+  <item atlasType="0" compress="0" key="30dcdbd7bff962cd941a4edc082d54f8" label="follow" asset="popu/friends/follow.png"/>
+  <item atlasType="0" compress="0" key="3c0a760bebdaa8725d03deeeaad083a5" label="refuse" asset="popu/friends/refuse.png"/>
+  <item atlasType="0" compress="0" key="43ec2297d3e4cd0d7b50b01c98570a78" label="online" asset="popu/friends/online.png"/>
+  <item atlasType="0" compress="0" key="552c846085aa4710ae3dead3e42ab6c3" label="avatar_male" asset="popu/friends/avatar_male.png"/>
+  <item atlasType="0" compress="0" key="564e37e8426e400712f2d85b2aa47f48" label="friend_item_bg" asset="popu/friends/friend_item_bg.png"/>
+  <item atlasType="0" compress="0" key="58097de9100d4bdbc879f987e6ebe457" label="cancel" asset="popu/friends/cancel.png"/>
+  <item atlasType="0" compress="0" key="7a3982fe0201b6ab043d89368348b9f6" label="separate_lines" asset="popu/friends/separate_lines.png"/>
+  <item atlasType="0" compress="0" key="871d1e84baa0fd25bfd9533b1f7bdd35" label="input_bg" asset="popu/friends/input_bg.png" grid="32,32,0,0"/>
+  <item atlasType="0" compress="0" key="bcfbb37386c597ff72e4d67396e74bc3" label="male" asset="popu/friends/male.png"/>
+  <item atlasType="0" compress="0" key="d2cdbce1d4dbbecf8eeee6fd47d53b53" label="add" asset="popu/friends/add.png"/>
+  <item atlasType="0" compress="0" key="d68a436ae06e9a4c65f72e4df34290a8" label="tab_friend_add_2" asset="popu/friends/tab_friend_add_2.png"/>
+  <item atlasType="0" compress="0" key="da596b84fa591c6f4e0e85e6b42c6cd5" label="title" asset="popu/friends/title.png"/>
+  <item atlasType="0" compress="0" key="dae475b9a3e2a2966d30ebcfe3ecf9a5" label="tab_friend_list_2" asset="popu/friends/tab_friend_list_2.png"/>
+  <item atlasType="0" compress="0" key="efe1450f0ffba07514ac36aef59d87a8" label="invite_more" asset="popu/friends/invite_more.png"/>
+  <item atlasType="0" compress="0" key="f798da1103bbd366e5ccbf92bb58ce16" label="avatar_female" asset="popu/friends/avatar_female.png"/>
+  <item atlasType="0" compress="0" key="f7fb9447629daa6f571e414926a41371" label="tab_friend_list_1" asset="popu/friends/tab_friend_list_1.png"/>
+  <item atlasType="0" compress="0" key="fd742ac2fe2579c926b8cceb7e18b88f" label="added" asset="popu/friends/added.png"/>
+</item>

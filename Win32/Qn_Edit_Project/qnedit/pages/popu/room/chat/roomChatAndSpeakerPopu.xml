@@ -1,0 +1,64 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <img_bg type="1" typeName="Image" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" file="304f9053424bfe5d36de2ec200dfbbdc" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <img_popuBg type="1" typeName="Image" time="0" x="21" y="652" width="691" height="593" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="ec996085542463294b700f69d24a2278" packFile="" gridLeft="50" gridRight="50" gridTop="50" gridBottom="50">
+      <view_content type="0" typeName="View" time="0" x="150" y="52" width="459" height="357" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8"/>
+      <view_expression type="0" typeName="View" time="0" x="145" y="56" width="498" height="499" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+        <view_normalList type="0" typeName="View" time="0" x="0" y="4" width="498" height="499" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+          <sv_normalList type="0" typeName="ScrollView" time="0" x="0" y="0" width="498" height="499" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8"/>
+        </view_normalList>
+      </view_expression>
+      <view_word type="0" typeName="View" time="0" x="0" y="0" width="691" height="593" visible="false" fillParentWidth="true" fillParentHeight="true" nodeAlign="8">
+        <View1 type="0" typeName="View" time="0" x="147" y="61" width="504" height="396" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+          <sv_wordUsual type="0" typeName="ScrollView" time="0" x="154" y="84" width="504" height="396" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8"/>
+        </View1>
+      </view_word>
+      <view_speaker type="0" typeName="View" time="0" x="139" y="62" width="501" height="390" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+        <view11 type="0" typeName="View" time="0" x="0" y="-5" width="497" height="405" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+          <sv_speakerHistory type="0" typeName="ScrollView" time="0" x="154" y="84" width="497" height="405" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8"/>
+        </view11>
+      </view_speaker>
+      <view_button type="0" typeName="View" time="0" x="30" y="25" width="100" height="545" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+        <img_bg01 type="1" typeName="Image" time="0" x="-1" y="3" width="100" height="537" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="66ea869e130536764a905fa2780966a3" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+          <view_btn_expression type="0" typeName="View" time="0" x="1" y="-3" width="100" height="180" visible="true" fillParentWidth="true" fillParentHeight="false" nodeAlign="1">
+            <btn_unselect type="1" typeName="Button" time="0" x="185" y="122" width="100" height="180" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" file="be9b42801a5711c26c65f7517934e070" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" isLock="0">
+              <Image1 type="1" typeName="Image" time="0" x="0" y="0" width="56" height="56" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="e6b6a4354fe00ccfff7d1785d97d8728" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+            </btn_unselect>
+            <img_select type="1" typeName="Image" time="0" x="-33" y="-28" width="100" height="180" visible="false" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" file="85f815d4b45b6f7092c6462f4196a067" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+              <Image2 type="1" typeName="Image" time="0" x="0" y="0" width="66" height="66" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="30ecd9d3b2f5d2a583ea485671da8b9d" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+            </img_select>
+          </view_btn_expression>
+          <view_btn_chat type="0" typeName="View" time="0" x="0" y="0" width="100" height="184" visible="true" fillParentWidth="true" fillParentHeight="false" nodeAlign="0">
+            <btn_unselect type="1" typeName="Button" time="0" x="0" y="0" width="100" height="184" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" file="70ee5dcaad556b39a4b79a664e7c405d" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+              <Image1 type="1" typeName="Image" time="0" x="0" y="0" width="56" height="52" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="5797967ffb9fc583e6fad8233008848c" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+            </btn_unselect>
+            <img_select type="1" typeName="Image" time="0" x="0" y="114" width="100" height="184" visible="false" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" file="97760882c01399feca9d5e48d4fa7a32" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+              <Image2 type="1" typeName="Image" time="0" x="0" y="0" width="66" height="62" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="2df691a17bd6eb8d7b14f5b56cabf412" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+            </img_select>
+          </view_btn_chat>
+          <view_btn_speaker type="0" typeName="View" time="0" x="1" y="-3" width="100" height="180" visible="true" fillParentWidth="true" fillParentHeight="false" nodeAlign="5" isLock="0">
+            <btn_unselect type="1" typeName="Button" time="0" x="0" y="0" width="100" height="180" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" file="f753c3c471b853011e8eb25b852f2dc9" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+              <Image1 type="1" typeName="Image" time="0" x="0" y="0" width="54" height="50" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="730588e47f3164a9711f56f4af629515" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+            </btn_unselect>
+            <img_select type="1" typeName="Image" time="0" x="0" y="0" width="100" height="179" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="de075ffb456ae55b0c0f7ea368bbea09" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" isLock="0">
+              <Image2 type="1" typeName="Image" time="0" x="0" y="0" width="64" height="60" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="10511cc176dfbc31c3c840142c8af838" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+            </img_select>
+          </view_btn_speaker>
+        </img_bg01>
+      </view_button>
+      <img_frameBg type="1" typeName="Image" time="0" x="131" y="40" width="529" height="529" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="3fc2a1b65bde581ed379e7cf04888e85" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20"/>
+      <btn_close type="1" typeName="Button" time="0" x="623" y="-15" width="73" height="74" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="54c13ab428bb78bd6c227abbf3c3e263" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      <img_sendWordBg type="1" typeName="Image" time="0" x="136" y="460" width="513" height="104" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="304f9053424bfe5d36de2ec200dfbbdc" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+        <img_sendWordBg type="1" typeName="Image" time="0" x="5" y="16" width="312" height="74" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="9bf77911d4de5f4c4ad91bb637f159dc" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+          <et_sendWord type="7" typeName="EditTextView" time="0" x="5" y="0" width="290" height="74" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="24" textAlign="7" color="0xFFFFFF" colorA="1"/>
+        </img_sendWordBg>
+        <btn_sendWord type="1" typeName="Button" time="0" x="324" y="12" width="184" height="80" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="5ae54ce6c553a62560195eafae9ca9c8" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+          <img_speakerIcon type="1" typeName="Image" time="0" x="14" y="15" width="44" height="47" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="67190c74fc0e9dea24d4eacb406ad02f" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+          <img_mark type="1" typeName="Image" time="0" x="140" y="-11" width="38" height="41" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="06e374e269abae1ce403ca8560f0e80d" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+            <text_num type="5" typeName="TextView" time="0" x="0" y="0" width="38" height="41" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="0" fontName="" fontSize="18" textAlign="0" color="0xFFFFFF" colorA="1"/>
+          </img_mark>
+          <img_send type="1" typeName="Image" time="0" x="0" y="0" width="54" height="40" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="f9e4feaea0203d8d72531d2b0b48a2f3" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btn_sendWord>
+      </img_sendWordBg>
+    </img_popuBg>
+  </img_bg>
+</root>

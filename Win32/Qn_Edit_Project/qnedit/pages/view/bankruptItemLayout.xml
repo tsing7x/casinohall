@@ -1,0 +1,10 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="598" height="130" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" isGenerateLocal="true">
+  <img_item type="1" typeName="Image" time="0" x="0" y="0" width="598" height="130" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="f52a85208707aad895798ab8cbcf4b3b" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <img_icon type="1" typeName="Image" time="0" x="8" y="8" width="114" height="112" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="4c3b4c5aa933e5a7b0ea821a53a4b2a4" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <btn_attend type="1" typeName="Button" time="0" x="435" y="24" width="151" height="78" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="2a229ebdeb46bd44de00210744ddad47" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <tv_content02 type="5" typeName="TextView" time="0" x="136" y="42" width="290" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="24" textAlign="7" color="0x2cc8f5" string="ชิงรหัสโบนัสลุ้นรางวัล" colorA="1"/>
+    <img_unclick type="1" typeName="Image" time="0" x="435" y="24" width="151" height="78" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="387ce63e90c3e3f51f2bfad1d262f786" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <tv_content01 type="5" typeName="TextView" time="0" x="136" y="14" width="283" height="58" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontSize="32" textAlign="7" color="0xFFFFFF" string="ติดตามแฟนเพจ" colorA="1"/>
+    <tv_click type="4" typeName="Text" time="0" x="435" y="24" width="151" height="78" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="24" textAlign="0" color="0xFFFFFF" string="ติดตาม" colorA="1"/>
+  </img_item>
+</root>

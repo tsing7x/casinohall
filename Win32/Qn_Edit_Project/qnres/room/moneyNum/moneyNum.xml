@@ -1,0 +1,26 @@
+<item label="moneyNum" compress="0" asset="room/moneyNum" isDirectory="true">
+  <item atlasType="0" compress="0" key="0aba9978fe9088c2b7a5b751266c0af0" label="lose9" asset="room/moneyNum/lose9.png"/>
+  <item atlasType="0" compress="0" key="0eb2bb6ae7e751ee6d6d264bc78074f2" label="win9" asset="room/moneyNum/win9.png"/>
+  <item atlasType="0" compress="0" key="11d36c791757494e7147471cd637d046" label="win8" asset="room/moneyNum/win8.png"/>
+  <item atlasType="0" compress="0" key="17cd91275f8ee29ad56abfe05154dc8f" label="winx" asset="room/moneyNum/winx.png"/>
+  <item atlasType="0" compress="0" key="1b5b193f3df940c8b8ab12137fce579d" label="lose-" asset="room/moneyNum/lose-.png"/>
+  <item atlasType="0" compress="0" key="2d2bb6df105fc4700177ed57b4251ceb" label="win6" asset="room/moneyNum/win6.png"/>
+  <item atlasType="0" compress="0" key="4680c8f2d6c8184ca5c96aefb101e7e0" label="lose5" asset="room/moneyNum/lose5.png"/>
+  <item atlasType="0" compress="0" key="474bf1d926cc6f35ed70dbf21f314394" label="lose3" asset="room/moneyNum/lose3.png"/>
+  <item atlasType="0" compress="0" key="480ea18833e7d917b94687527058df99" label="lose4" asset="room/moneyNum/lose4.png"/>
+  <item atlasType="0" compress="0" key="65930adb5befa872a4febff80db3a051" label="win1" asset="room/moneyNum/win1.png"/>
+  <item atlasType="0" compress="0" key="66316169e37b277491f3c11e032c5de0" label="lose6" asset="room/moneyNum/lose6.png"/>
+  <item atlasType="0" compress="0" key="77428bb4414d198053b7d4aec21f1ad1" label="lose1" asset="room/moneyNum/lose1.png"/>
+  <item atlasType="0" compress="0" key="803467488b53928d7d1a70f694cbd80f" label="win3" asset="room/moneyNum/win3.png"/>
+  <item atlasType="0" compress="0" key="994051e5209a3fe493d1523c1e6c3559" label="lose7" asset="room/moneyNum/lose7.png"/>
+  <item atlasType="0" compress="0" key="9cf8c36cabbedc4951a335771377e74e" label="win0" asset="room/moneyNum/win0.png"/>
+  <item atlasType="0" compress="0" key="ab55c8248cfd3081e66cc2198cee30b3" label="lose2" asset="room/moneyNum/lose2.png"/>
+  <item atlasType="0" compress="0" key="b77ac8e5e082d177dd7c3689061d96fc" label="losex" asset="room/moneyNum/losex.png"/>
+  <item atlasType="0" compress="0" key="ba0c413e701a7767f950425b2b412ab8" label="lose0" asset="room/moneyNum/lose0.png"/>
+  <item atlasType="0" compress="0" key="c5672f047679dbc71a4ced391f9f857a" label="win5" asset="room/moneyNum/win5.png"/>
+  <item atlasType="0" compress="0" key="c6b8c7a73d30f536f4f7292082c3e1c4" label="win7" asset="room/moneyNum/win7.png"/>
+  <item atlasType="0" compress="0" key="e71f88e6130e777929fbb73c6af94e34" label="win2" asset="room/moneyNum/win2.png"/>
+  <item atlasType="0" compress="0" key="eb2bb0f443687818b428edf9d9fec8c7" label="lose8" asset="room/moneyNum/lose8.png"/>
+  <item atlasType="0" compress="0" key="ec1e92d85d2042d920dc34dc2fc576ea" label="win4" asset="room/moneyNum/win4.png"/>
+  <item atlasType="0" compress="0" key="fc0b55584c7a3d5f13b1cce252464367" label="win+" asset="room/moneyNum/win+.png"/>
+</item>

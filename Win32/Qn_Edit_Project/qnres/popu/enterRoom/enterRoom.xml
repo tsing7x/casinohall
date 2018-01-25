@@ -1,0 +1,29 @@
+<item label="enterRoom" compress="0" asset="popu/enterRoom" isDirectory="true">
+  <item atlasType="0" compress="0" key="0b37117d0a70a807ff3db59ac6b04cf3" label="cash_room_list_select" asset="popu/enterRoom/cash_room_list_select.png"/>
+  <item atlasType="0" compress="0" key="0d734b705319e980fd1b147fa1fadcaa" label="inputBg" asset="popu/enterRoom/inputBg.png"/>
+  <item atlasType="0" compress="0" key="11b2f1772d38bb9a6d1fba78a0954807" label="6" asset="popu/enterRoom/6.png"/>
+  <item atlasType="0" compress="0" key="1d7ea324d6f72a916b319ab45f3e9d76" label="title_enter" asset="popu/enterRoom/title_enter.png"/>
+  <item atlasType="0" compress="0" key="2672ad0acd85c10faaf82c8bb0a3f3ab" label="1" asset="popu/enterRoom/1.png"/>
+  <item atlasType="0" compress="0" key="3f1f4a7788f463a0b70aa6ebc573bf8f" label="btn_4" asset="popu/enterRoom/btn_4.png"/>
+  <item atlasType="0" compress="0" key="4227b2b593a8a94b9702ac823f505b74" label="room_list_bg" asset="popu/enterRoom/room_list_bg.png"/>
+  <item atlasType="0" compress="0" key="48126deb1abe15a25cc78739e76f0df4" label="clear" asset="popu/enterRoom/clear.png"/>
+  <item atlasType="0" compress="0" key="4c2fdf4bc08f2ad0e2a21af2456d88d8" label="7" asset="popu/enterRoom/7.png"/>
+  <item atlasType="0" compress="0" key="620d08777eb157eb0b83e1db7130ddd6" label="btn_1" asset="popu/enterRoom/btn_1.png"/>
+  <item atlasType="0" compress="0" key="646c4e4036ad31eef0bc6e3cd557f652" label="img_inner2" asset="popu/enterRoom/img_inner2.png"/>
+  <item atlasType="0" compress="0" key="7146337dbeb943c9356adf271e0c034b" label="btn_5" asset="popu/enterRoom/btn_5.png"/>
+  <item atlasType="0" compress="0" key="7a3801746406acc53720ac6a7e1745f8" label="btn_2" asset="popu/enterRoom/btn_2.png"/>
+  <item atlasType="0" compress="0" key="7aa49b4b82c7c9e7a8e7d603022cd514" label="4" asset="popu/enterRoom/4.png"/>
+  <item atlasType="0" compress="0" key="82446c8c85e0a383033fa5c7838ee773" label="5" asset="popu/enterRoom/5.png"/>
+  <item atlasType="0" compress="0" key="87bc01e5153c32537ca6d20b7a4a2eac" label="9" asset="popu/enterRoom/9.png"/>
+  <item atlasType="0" compress="0" key="8f46a43ebf7399d59ee338b00d0dc4db" label="delete" asset="popu/enterRoom/delete.png"/>
+  <item atlasType="0" compress="0" key="91427f3f10022298e069b9fa315841eb" label="cash_room_list_normal" asset="popu/enterRoom/cash_room_list_normal.png"/>
+  <item atlasType="0" compress="0" key="94aaccbf5d30d55273a013b9064b7ad5" label="btn_3" asset="popu/enterRoom/btn_3.png"/>
+  <item atlasType="0" compress="0" key="9e1b3a1bbe163f24bfc9297826ec9776" label="button" asset="popu/enterRoom/button.png"/>
+  <item atlasType="0" compress="0" key="a3b934cc6be27322a03955c3c1332234" label="8" asset="popu/enterRoom/8.png"/>
+  <item atlasType="0" compress="0" key="a409fda4b8017945724a9c092019083f" label="input_num_normal" asset="popu/enterRoom/input_num_normal.png"/>
+  <item atlasType="0" compress="0" key="aaf878348b0ba803f9748503208f9202" label="3" asset="popu/enterRoom/3.png"/>
+  <item atlasType="0" compress="0" key="acf04b3bfd7b1a567dff0dc07f45707b" label="input_num_select" asset="popu/enterRoom/input_num_select.png"/>
+  <item atlasType="0" compress="0" key="afdf0f48cd1634dde2609651efd7b616" label="2" asset="popu/enterRoom/2.png"/>
+  <item atlasType="0" compress="0" key="c25ea187af40cb4391e402786a622eed" label="devide" asset="popu/enterRoom/devide.png"/>
+  <item atlasType="0" compress="0" key="eb758a436650fa4b332d385fd11a61ea" label="0" asset="popu/enterRoom/0.png"/>
+</item>

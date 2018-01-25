@@ -1,0 +1,9 @@
+<item label="upgrade" asset="popu/upgrade" compress="0">
+  <item atlasType="0" compress="0" key="22d3b1d4aa6ca3d4f222e4d2bf7066c6" label="upgrd_bgDecTop" asset="popu/upgrade/upgrd_bgDecTop.png" grid="50,50,50,5"/>
+  <item atlasType="0" compress="0" key="3b6c2fab141b08b9c9a96b43d8346300" label="upgrd_decRewTitleDivLine" asset="popu/upgrade/upgrd_decRewTitleDivLine.png"/>
+  <item atlasType="0" compress="0" key="4dad1f5a1acf233e3be0e54fb5c7f35d" label="upgrd_icPropDef" asset="popu/upgrade/upgrd_icPropDef.png"/>
+  <item atlasType="0" compress="0" key="67ec63991ebe17e78e043e97d4d40a5e" label="upgrd_decDivLine" asset="popu/upgrade/upgrd_decDivLine.png"/>
+  <item atlasType="0" compress="0" key="c2c8ea3c01e2c18aa257c7955e44aa7a" label="upgrd_bgUsrName" asset="popu/upgrade/upgrd_bgUsrName.png"/>
+  <item atlasType="0" compress="0" key="ccc9ab97c87994ee80243be698aa904a" label="upgrd_decShinyStar" asset="popu/upgrade/upgrd_decShinyStar.png"/>
+  <item atlasType="0" compress="0" key="e392d7d3cc0c0293dc8e52953032a819" label="upgrd_icChip" asset="popu/upgrade/upgrd_icChip.png"/>
+</item>

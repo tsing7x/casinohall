@@ -1,0 +1,57 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="0" isGenerateLocal="true">
+  <img_bgPanel type="1" typeName="Image" time="0" x="0" y="0" width="720" height="886" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="2ceaa6818f15c57278d217d477268abb" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <img_decBgTitle type="1" typeName="Image" time="0" x="0" y="-414" width="527" height="74" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="0be80b41acbab71e9239f1c37bb4fd5a" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <img_dscTitle type="1" typeName="Image" time="0" x="0" y="-5" width="126" height="60" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="3b44e825dee7a25993688e4465f09ed7" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </img_decBgTitle>
+    <btn_close type="1" typeName="Button" time="0" x="305" y="-422" width="113" height="110" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="8a2a7be9e4e6f64d500f3c375eee9614" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+    <vb_mainTab type="0" typeName="View" time="0" x="0" y="80" width="626" height="74" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1">
+      <img_bgMainTab type="1" typeName="Image" time="0" x="0" y="0" width="626" height="72" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="2d4b4108db7411d15b74a23969b1176b" packFile="" gridLeft="40" gridRight="40" gridTop="0" gridBottom="0">
+        <img_tabSelHili type="1" typeName="Image" time="0" x="-156" y="0" width="310" height="68" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="3b87ac1a5f63c74fb3c54c33198d13e4" packFile="" gridLeft="40" gridRight="40" gridTop="0" gridBottom="0"/>
+        <btn_tabIdx1 type="1" typeName="Button" time="0" x="0" y="0" width="313" height="68" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="062f20d84c3cd87dbf75002a9ad165c3" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+          <img_dscTabSel type="1" typeName="Image" time="0" x="0" y="0" width="114" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="f78999387bc1bcbd6ed1bc09f696ab9f" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+          <img_dscTabUnsel type="1" typeName="Image" time="0" x="0" y="0" width="110" height="30" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="89ba055abe6290f5e9be8ad0e7ff9205" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btn_tabIdx1>
+        <btn_tabIdx2 type="1" typeName="Button" time="0" x="0" y="0" width="313" height="68" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3" file="062f20d84c3cd87dbf75002a9ad165c3" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+          <img_dscTabSel type="1" typeName="Image" time="0" x="0" y="0" width="230" height="36" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="04f0caa05da12db450dea75b404624b6" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+          <img_dscTabUnsel type="1" typeName="Image" time="0" x="0" y="0" width="224" height="34" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="90f7a9ea09fa6e5ff5761389667c7ab3" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btn_tabIdx2>
+      </img_bgMainTab>
+    </vb_mainTab>
+    <vb_mainContPage type="0" typeName="View" time="0" x="0" y="38" width="654" height="682" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5">
+      <vb_pageIdx1 type="0" typeName="View" time="0" x="0" y="0" width="650" height="680" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5">
+        <img_bgMainFedBakCont type="1" typeName="Image" time="0" x="0" y="0" width="620" height="550" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="554dbc2353fabfc9ab3e61837bf7b251" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <img_decVicTitleCont type="1" typeName="Image" time="0" x="3" y="20" width="228" height="46" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="c45690836afbd0fea593c42dad24cd77" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+            <txt_vicTitleFeedCont type="4" typeName="Text" time="0" x="20" y="0" width="180" height="38" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="26" textAlign="7" color="0x152e8a" string="Feed Cont Dsc" colorA="1"/>
+          </img_decVicTitleCont>
+          <img_bgFeedContInput type="1" typeName="Image" time="0" x="0" y="-96" width="594" height="196" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="926c1fd8599c141619cf8a943c491567" packFile="" gridLeft="6" gridRight="6" gridTop="6" gridBottom="6">
+            <etv_feedCont type="7" typeName="EditTextView" time="0" x="0" y="0" width="572" height="182" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="8" color="0x4f6f98" colorA="1"/>
+          </img_bgFeedContInput>
+          <img_decBgTitleContact type="1" typeName="Image" time="0" x="3" y="47" width="228" height="46" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="c45690836afbd0fea593c42dad24cd77" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+            <txt_vicTitleContact type="4" typeName="Text" time="0" x="20" y="0" width="150" height="38" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="26" textAlign="7" color="0x152e8a" string="Contact Us" colorA="1"/>
+          </img_decBgTitleContact>
+          <img_bgTelInput type="1" typeName="Image" time="0" x="15" y="118" width="405" height="66" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="926c1fd8599c141619cf8a943c491567" packFile="" gridLeft="6" gridRight="6" gridTop="6" gridBottom="6">
+            <etv_usrTel type="7" typeName="EditTextView" time="0" x="14" y="0" width="390" height="64" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="24" textAlign="7" color="0x4f6f98" colorA="1"/>
+          </img_bgTelInput>
+          <img_decIcTel type="1" typeName="Image" time="0" x="25" y="190" width="24" height="32" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="3726f4e08c5912f36d259243cfc230d9" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+          <txt_contactTelNum type="4" typeName="Text" time="0" x="68" y="190" width="160" height="28" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="24" textAlign="7" color="0x565453" string="Tel Num" colorA="1"/>
+          <img_decIcMail type="1" typeName="Image" time="0" x="20" y="238" width="32" height="22" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="7730096ccc65d3f2a5d0b25381e1100c" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+          <txt_contactEmail type="4" typeName="Text" time="0" x="68" y="238" width="294" height="28" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="24" textAlign="7" color="0x565453" string="Email Address" colorA="1"/>
+          <btn_uploadFeedImg type="1" typeName="Button" time="0" x="18" y="34" width="160" height="160" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="4" file="95217ad3e0ecd5a3bda48714ef2184af" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+        </img_bgMainFedBakCont>
+        <btn_commit type="1" typeName="Button" time="0" x="0" y="278" width="248" height="82" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="2e8a0f66b1a42d9176c7cd0801bc26c5" packFile="" gridLeft="35" gridRight="35" gridTop="30" gridBottom="30" file2="">
+          <img_dscConfirm type="1" typeName="Image" time="0" x="0" y="-8" width="52" height="44" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9d0576f3d847f2ae5eb2aa1aea2ed665" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btn_commit>
+      </vb_pageIdx1>
+      <vb_pageIdx2 type="0" typeName="View" time="0" x="0" y="0" width="650" height="680" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="5">
+        <img_bgMainCont type="1" typeName="Image" time="0" x="0" y="0" width="620" height="550" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="554dbc2353fabfc9ab3e61837bf7b251" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <img_decCusGirl type="1" typeName="Image" time="0" x="-2" y="2" width="612" height="530" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" file="21f8c5b252776703ce5c3cffc3cc21f4" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+            <img_dscContactCus type="1" typeName="Image" time="0" x="48" y="70" width="190" height="66" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="2" file="a2eac343e0684105363109e9ca13ab6f" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+          </img_decCusGirl>
+        </img_bgMainCont>
+        <btn_contactCus type="1" typeName="Button" time="0" x="0" y="18" width="250" height="84" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" file="09195ab8edce48706f386c6eceb1da91" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+          <img_dscContactCus type="1" typeName="Image" time="0" x="0" y="-9" width="216" height="42" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="3d400cf82faed2437ae570eb10696083" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btn_contactCus>
+      </vb_pageIdx2>
+    </vb_mainContPage>
+  </img_bgPanel>
+</root>

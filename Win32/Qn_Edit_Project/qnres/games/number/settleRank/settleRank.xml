@@ -1,0 +1,12 @@
+<item label="settleRank" compress="0" asset="games/number/settleRank" isDirectory="true">
+  <item atlasType="0" compress="0" key="197281742eb99dfa69b8574c36946d9a" label="6" asset="games/number/settleRank/6.png"/>
+  <item atlasType="0" compress="0" key="201368a837c4fad4bd16dc227dfe9aa5" label="3" asset="games/number/settleRank/3.png"/>
+  <item atlasType="0" compress="0" key="229c3d0ca90a267c5d0582e7bc95fa2e" label="0" asset="games/number/settleRank/0.png"/>
+  <item atlasType="0" compress="0" key="2ba6623f47d66255997b6974892e8f68" label="7" asset="games/number/settleRank/7.png"/>
+  <item atlasType="0" compress="0" key="73c6c944f238873ea4dc9d9c3057e5fc" label="5" asset="games/number/settleRank/5.png"/>
+  <item atlasType="0" compress="0" key="89e7a71cb5d44dc0841bb78fbc72cc25" label="1" asset="games/number/settleRank/1.png"/>
+  <item atlasType="0" compress="0" key="9f94c1bf46f61eff1258b78ce64f077f" label="8" asset="games/number/settleRank/8.png"/>
+  <item atlasType="0" compress="0" key="d22bb68105338918b2030a1b35ed8470" label="9" asset="games/number/settleRank/9.png"/>
+  <item atlasType="0" compress="0" key="e14c8db89f15da01ea4a8a555af0f402" label="2" asset="games/number/settleRank/2.png"/>
+  <item atlasType="0" compress="0" key="fc58eb8c34f776eeb147c395939ac385" label="4" asset="games/number/settleRank/4.png"/>
+</item>

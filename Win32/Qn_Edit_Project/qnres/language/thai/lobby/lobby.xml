@@ -1,0 +1,14 @@
+<item label="lobby" compress="0" asset="language/thai/lobby" isDirectory="true">
+  <item atlasType="0" compress="0" key="02526a81a740bbed0e1e8fefb8194c68" label="hall_quickEnter" asset="language/thai/lobby/hall_quickEnter.png"/>
+  <item atlasType="0" compress="0" key="4b155dd87c2e1c41c2b474b37c8f92d6" label="hall_createroom" asset="language/thai/lobby/hall_createroom.png"/>
+  <item atlasType="0" compress="0" key="529c428b9ad22213d73bf075a2b5a821" label="hall_activity_btn" asset="language/thai/lobby/hall_activity_btn.png"/>
+  <item atlasType="0" compress="0" key="52f98e80e4796c606fd0c53a69f568d8" label="hall_fristchange_btn" asset="language/thai/lobby/hall_fristchange_btn.png"/>
+  <item atlasType="0" compress="0" key="67e2867d66040663076893c5bbda95af" label="hall_tip" asset="language/thai/lobby/hall_tip.png"/>
+  <item atlasType="0" compress="0" key="712caeed4741a2df9c351db98c454e51" label="hall_ranking_btn" asset="language/thai/lobby/hall_ranking_btn.png"/>
+  <item atlasType="0" compress="0" key="90b633bb1643245f9accc448c6471ae3" label="hall_store_btn" asset="language/thai/lobby/hall_store_btn.png"/>
+  <item atlasType="0" compress="0" key="a97d1370078b69a6a2dcae699ba2f578" label="hall_friends_btn" asset="language/thai/lobby/hall_friends_btn.png"/>
+  <item atlasType="0" compress="0" key="b2a96c1a0b1d12b92b3b5a87e1908d81" label="hall_invite_btn" asset="language/thai/lobby/hall_invite_btn.png"/>
+  <item atlasType="0" compress="0" key="e7861eb88468f12b27d30c7e76d10444" label="hall_trun_btn" asset="language/thai/lobby/hall_trun_btn.png"/>
+  <item atlasType="0" compress="0" key="f6571547a55173490b5b2e388b74c4f7" label="hall_enterroom" asset="language/thai/lobby/hall_enterroom.png"/>
+  <item atlasType="0" compress="0" key="fecb5dd13432a70501767ee959096208" label="hall_title" asset="language/thai/lobby/hall_title.png"/>
+</item>

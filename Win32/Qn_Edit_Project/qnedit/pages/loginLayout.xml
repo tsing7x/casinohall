@@ -1,0 +1,25 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="false">
+  <img_bg type="1" typeName="Image" time="108906194" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="2" file="a0a783f0cca0ff0f7547ed3a23a47adf" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <view_login type="0" typeName="View" time="108906239" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8">
+      <btn_login_vistor type="1" typeName="Button" time="0" x="3" y="440" width="512" height="106" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="2baf42fe9af78e7120c3ebaecd86aaea" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+      <btn_login_fb type="1" typeName="Button" time="0" x="5" y="280" width="512" height="106" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="a87b1320e4cf90c72d2dfa4a39ad97a6" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+        <Image16 type="1" typeName="Image" time="0" x="10" y="-10" width="109" height="51" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="2" file="f53b24f666bd5ffd359b05026dcf6878" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      </btn_login_fb>
+      <text_tip type="4" typeName="Text" time="0" x="0" y="12" width="443.35" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" fontName="" fontSize="30" textAlign="5" color="0xcaf9ff" string="ล็อกอินบัญชี FB สินทรัพย์ปลอดภัยกว่า" colorA="1"/>
+    </view_login>
+    <debug type="0" typeName="View" time="0" x="0" y="100" width="300" height="200" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" isLock="0">
+      <test type="1" typeName="Button" time="0" x="0" y="0" width="120" height="80" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="5e60afd9e7ddb8bd90363bcd827449dc" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+        <Text10 type="4" typeName="Text" time="0" x="0" y="0" width="120" height="80" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="0" color="0xFFFFFF" string="测试" colorA="1"/>
+      </test>
+      <release type="1" typeName="Button" time="0" x="0" y="0" width="120" height="80" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="2" file="5e60afd9e7ddb8bd90363bcd827449dc" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+        <Text10 type="4" typeName="Text" time="0" x="0" y="0" width="120" height="80" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="0" color="0xFFFFFF" string="正式" colorA="1"/>
+      </release>
+      <CHN type="1" typeName="Button" time="0" x="2" y="87" width="120" height="80" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="5e60afd9e7ddb8bd90363bcd827449dc" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+        <Text14 type="4" typeName="Text" time="0" x="0" y="0" width="100" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="0" color="0xFFFFFF" string="中文" colorA="1"/>
+      </CHN>
+      <TPE type="1" typeName="Button" time="0" x="179" y="87" width="120" height="80" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="5e60afd9e7ddb8bd90363bcd827449dc" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+        <Text15 type="4" typeName="Text" time="0" x="0" y="0" width="100" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="0" color="0xFFFFFF" string="泰文"/>
+      </TPE>
+    </debug>
+  </img_bg>
+</root>

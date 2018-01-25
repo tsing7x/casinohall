@@ -1,0 +1,13 @@
+<item label="roomCard" compress="0" asset="games/number/roomCard" isDirectory="true">
+  <item atlasType="0" compress="0" key="0dccb747b226af5d8b72c41009fcbaf2" label="9" asset="games/number/roomCard/9.png"/>
+  <item atlasType="0" compress="0" key="5383b0008cfe7706b6071421146ce4af" label="8" asset="games/number/roomCard/8.png"/>
+  <item atlasType="0" compress="0" key="551464e5c37c24fd46b185589a2df040" label="6" asset="games/number/roomCard/6.png"/>
+  <item atlasType="0" compress="0" key="5655971d9e873d326d632845c4a29d3e" label="0" asset="games/number/roomCard/0.png"/>
+  <item atlasType="0" compress="0" key="57d43c13c01d06c1dc3c21ee4db9cf63" label="x" asset="games/number/roomCard/x.png"/>
+  <item atlasType="0" compress="0" key="bb3fb4eda50c9d40fedc695277f274ec" label="1" asset="games/number/roomCard/1.png"/>
+  <item atlasType="0" compress="0" key="bcff91928696431a7eaf94b1efb05f07" label="5" asset="games/number/roomCard/5.png"/>
+  <item atlasType="0" compress="0" key="caeccbc513b99dc1cac8af1fa8fa2b54" label="2" asset="games/number/roomCard/2.png"/>
+  <item atlasType="0" compress="0" key="e1e4ed34ec4bf0566dd182f97c0723ab" label="7" asset="games/number/roomCard/7.png"/>
+  <item atlasType="0" compress="0" key="e22ec032afae0813ada45d306a0bc521" label="4" asset="games/number/roomCard/4.png"/>
+  <item atlasType="0" compress="0" key="e42577401219791a3d6945df218cf662" label="3" asset="games/number/roomCard/3.png"/>
+</item>

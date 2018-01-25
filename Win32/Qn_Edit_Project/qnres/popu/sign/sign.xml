@@ -1,0 +1,17 @@
+<item label="sign" compress="0" asset="popu/sign" isDirectory="true">
+  <item atlasType="0" compress="0" key="143b286df2d28e1af5a553b1e9fd514e" label="selected" asset="popu/sign/selected.png"/>
+  <item atlasType="0" compress="0" key="1449cd8b5cfafe184f108282513e8b0a" label="60000" asset="popu/sign/60000.png"/>
+  <item atlasType="0" compress="0" key="16ae81aaaea0abf266ae16c17b61d4ba" label="option_signed" asset="popu/sign/option_signed.png"/>
+  <item atlasType="0" compress="0" key="24777d7072d001293be9947603b08eab" label="7" asset="popu/sign/7.png"/>
+  <item atlasType="0" compress="0" key="24e0bd73df559e62d8e1144ae2c39924" label="img_title" asset="popu/sign/img_title.png"/>
+  <item atlasType="0" compress="0" key="2857349e7e268ad008c7ce13e7e26815" label="option_mask" asset="popu/sign/option_mask.png"/>
+  <item atlasType="0" compress="0" key="365bde52a0dfdca795905f29eb78f2e5" label="5" asset="popu/sign/5.png"/>
+  <item atlasType="0" compress="0" key="546b3bb5de0c9fd9111bb8d11de7b40c" label="1" asset="popu/sign/1.png"/>
+  <item atlasType="0" compress="0" key="7098cf763999cf6dab3fecae62601098" label="4" asset="popu/sign/4.png"/>
+  <item atlasType="0" compress="0" key="7d05c6f04f03bcd403066f5a863a6516" label="option" asset="popu/sign/option.png"/>
+  <item atlasType="0" compress="0" key="96b2ffde49d13932fe77662df67f1993" label="6" asset="popu/sign/6.png"/>
+  <item atlasType="0" compress="0" key="af943abe1e8841e0a397ffcbdd65b50c" label="mask7" asset="popu/sign/mask7.png"/>
+  <item atlasType="0" compress="0" key="b9cf55221399ddbe7f9b28076c20a74a" label="3" asset="popu/sign/3.png"/>
+  <item atlasType="0" compress="0" key="c82a30eeb77e653e7c4914c9a9cd8f4e" label="80000" asset="popu/sign/80000.png"/>
+  <item atlasType="0" compress="0" key="d87bc4222b59224d09fb1e88b1c55a8e" label="2" asset="popu/sign/2.png"/>
+</item>

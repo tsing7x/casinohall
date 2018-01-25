@@ -1,0 +1,7 @@
+<item label="suona" compress="0" asset="language/thai/popu/suona" isDirectory="true">
+  <item atlasType="0" compress="0" key="04f35980da6dad6426c71b379d1d8916" label="suona_dscTabBtn2_unSel" asset="language/thai/popu/suona/suona_dscTabBtn2_unSel.png"/>
+  <item atlasType="0" compress="0" key="1cdbae834f5d76a0ad3ee8f4e48a9747" label="suona_dscTabBtn1_unSel" asset="language/thai/popu/suona/suona_dscTabBtn1_unSel.png"/>
+  <item atlasType="0" compress="0" key="2a6391cdf48055b1cefa8dd44e1fa16f" label="suona_dscTabBtn2_sel" asset="language/thai/popu/suona/suona_dscTabBtn2_sel.png"/>
+  <item atlasType="0" compress="0" key="4bb5f2489755c78da6f3963f2e3fa557" label="suona_dscTabBtn1_sel" asset="language/thai/popu/suona/suona_dscTabBtn1_sel.png"/>
+  <item atlasType="0" compress="0" key="b6685aadcae259bede432512c692acf1" label="suona_dscSend" asset="language/thai/popu/suona/suona_dscSend.png"/>
+</item>

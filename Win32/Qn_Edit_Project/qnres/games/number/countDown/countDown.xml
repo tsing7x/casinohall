@@ -1,0 +1,12 @@
+<item label="countDown" compress="0" asset="games/number/countDown" isDirectory="true">
+  <item atlasType="0" compress="0" key="01fde7a8c8a0aea7ac97f9fd9d911117" label="0" asset="games/number/countDown/0.png"/>
+  <item atlasType="0" compress="0" key="0732974b380efb15bf688adb41fff425" label="5" asset="games/number/countDown/5.png"/>
+  <item atlasType="0" compress="0" key="38da9216e34ce12087e1829519d76736" label="9" asset="games/number/countDown/9.png"/>
+  <item atlasType="0" compress="0" key="80046f90bcd19e6f8faba2e1a2311b47" label="8" asset="games/number/countDown/8.png"/>
+  <item atlasType="0" compress="0" key="81283931d9da9eafc578f9eba0a5f367" label="1" asset="games/number/countDown/1.png"/>
+  <item atlasType="0" compress="0" key="8e0189cacbae957861645a359f42754b" label="3" asset="games/number/countDown/3.png"/>
+  <item atlasType="0" compress="0" key="b762f4c0a4e5be3baa87d84f851710a1" label="6" asset="games/number/countDown/6.png"/>
+  <item atlasType="0" compress="0" key="e912a5eaf3b6a6b437fbf7d0bfc2627b" label="2" asset="games/number/countDown/2.png"/>
+  <item atlasType="0" compress="0" key="ee299380e658eed2cfbf98f47c65ff33" label="7" asset="games/number/countDown/7.png"/>
+  <item atlasType="0" compress="0" key="ff915183490808f7fb3369999d173f63" label="4" asset="games/number/countDown/4.png"/>
+</item>

@@ -1,0 +1,4 @@
+<item label="gameDesc" compress="0" asset="popu/gameDesc" isDirectory="true">
+  <item atlasType="0" compress="0" key="2bd48046d66029bf2148f5411eb5bc14" label="gamDsc_decVicTitle" asset="popu/gameDesc/gamDsc_decVicTitle.png"/>
+  <item atlasType="0" compress="0" key="3eeefc7cc9fd080f0c6b067fb71da4c1" label="gamDsc_decDot" asset="popu/gameDesc/gamDsc_decDot.png"/>
+</item>

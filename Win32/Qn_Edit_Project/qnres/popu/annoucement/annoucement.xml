@@ -1,0 +1,4 @@
+<item label="annoucement" compress="0" asset="popu/annoucement" isDirectory="true">
+  <item atlasType="0" compress="0" key="1d055eda957a0264e1910a6c1f83a19e" label="text_system" asset="popu/annoucement/text_system.png"/>
+  <item atlasType="0" compress="0" key="72832c88dba5158e95494345530e2635" label="light_bg" asset="popu/annoucement/light_bg.png"/>
+</item>

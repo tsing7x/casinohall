@@ -1,0 +1,6 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="947" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" isGenerateLocal="true">
+  <Image41 type="1" typeName="Image" time="0" x="14" y="1" width="180" height="932" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="da43d39049ca54f3b0bca0c8321b017b" packFile="" gridLeft="10" gridRight="10" gridTop="10" gridBottom="10"/>
+  <Image6 type="1" typeName="Image" time="0" x="180" y="-1" width="533" height="934" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="21e095f67cc027d8109a67a9d2a9aeca" packFile="" gridLeft="60" gridRight="60" gridTop="60" gridBottom="80"/>
+  <view_good type="0" typeName="View" time="0" x="180" y="0" width="533" height="869" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8"/>
+  <sv_payMode type="0" typeName="ScrollView" time="0" x="17" y="30" width="176" height="890" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8"/>
+</root>

@@ -1,0 +1,17 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <view_type type="0" typeName="View" time="0" x="0" y="0" width="120" height="46" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+    <img_bg_1 type="1" typeName="Image" time="0" x="0" y="0" width="96" height="25" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="be4ad4906b661cff1d29ef99e0c86db9" packFile="" gridLeft="20" gridRight="20" gridTop="0" gridBottom="0">
+      <tag_type type="1" typeName="Image" time="0" x="0" y="0" width="89" height="32" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="8e247c7fe8e9c08a006d1fc50fa1b2b4" packFile="" gridLeft="10" gridRight="0" gridTop="0" gridBottom="0"/>
+      <tag_value type="1" typeName="Image" time="0" x="28" y="0" width="24" height="28" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="110874b5eab73c9cbd4fc50efd9450a2" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </img_bg_1>
+    <img_bg_2 type="1" typeName="Image" time="0" x="0" y="0" width="104" height="46" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="e325fc57c6ec1c038f02154fac265fd0" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <tag_type type="1" typeName="Image" time="0" x="0" y="0" width="69" height="29" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="05501d4d58fdb0699c9bb707bd0de168" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </img_bg_2>
+    <img_bg_3 type="1" typeName="Image" time="0" x="0" y="0" width="130" height="35" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="7480a81bd4cf0159be7c13c3567c8d28" packFile="" gridLeft="20" gridRight="20" gridTop="0" gridBottom="0">
+      <ear_1 type="1" typeName="Image" time="0" x="0" y="0" width="24" height="33" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="d92e4450adb8416542270803d8308534" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      <ear_2 type="1" typeName="Image" time="0" x="0" y="0" width="24" height="33" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3" file="0b304d5249e7fc25dc691a121afa0d28" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      <tag_type type="1" typeName="Image" time="0" x="0" y="0" width="100" height="32" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="29edbbf7eed76bdfc9dccea389289930" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </img_bg_3>
+    <tag_times type="1" typeName="Image" time="0" x="-54" y="0" width="54" height="36" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3" file="f48857a3945c002779141eb532354e46" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+  </view_type>
+</root>

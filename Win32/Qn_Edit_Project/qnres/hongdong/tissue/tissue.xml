@@ -1,0 +1,4 @@
+<item label="tissue" compress="0" asset="hongdong/tissue" isDirectory="true">
+  <item atlasType="0" compress="0" key="8d5d91ef615332c075efbc61e1bc6f01" label="hddj_tissue_icon" asset="hongdong/tissue/hddj_tissue_icon.png"/>
+  <item atlasType="0" compress="0" key="d482faf150b44324cba40fd5f218fe2b" label="hddj_tissue" asset="hongdong/tissue/hddj_tissue.png"/>
+</item>

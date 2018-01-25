@@ -1,0 +1,16 @@
+<item label="createRoom" compress="0" asset="popu/createRoom" isDirectory="true">
+  <item atlasType="0" compress="0" key="0dd3c05b662bd4945bd60564189b05d2" label="switchBtn" asset="popu/createRoom/switchBtn.png"/>
+  <item atlasType="0" compress="0" key="1cacab59653b19619ad33604829fb3b7" label="img_help" asset="popu/createRoom/img_help.png"/>
+  <item atlasType="0" compress="0" key="24bc962234a16715ecf6622f09d7444f" label="switch_off" asset="popu/createRoom/switch_off.png"/>
+  <item atlasType="0" compress="0" key="3fc2a1b65bde581ed379e7cf04888e85" label="img_inner" asset="popu/createRoom/img_inner.png"/>
+  <item atlasType="0" compress="0" key="539ecd76193512d16ddd2fdd45983f59" label="btn_cash_select" asset="popu/createRoom/btn_cash_select.png"/>
+  <item atlasType="0" compress="0" key="7f8cb3e804db5563f5020f9c929151f6" label="btn_ante_normal" asset="popu/createRoom/btn_ante_normal.png"/>
+  <item atlasType="0" compress="0" key="880143a4fc67752216d9a6e4661fd292" label="btn_cash_normal" asset="popu/createRoom/btn_cash_normal.png"/>
+  <item atlasType="0" compress="0" key="b6dcc8a4a6a2be97e9aa20be24b19ad1" label="switch_on" asset="popu/createRoom/switch_on.png"/>
+  <item atlasType="0" compress="0" key="b9b97367ebd92b3e6ca807bc43d9bb53" label="img_select_bg" asset="popu/createRoom/img_select_bg.png"/>
+  <item atlasType="0" compress="0" key="ba37b13d9b3095d7f28431bd17511de1" label="btn_ante_select" asset="popu/createRoom/btn_ante_select.png"/>
+  <item atlasType="0" compress="0" key="bb293e3b1524f355ad24e30e76023a23" label="ante_title_bg" asset="popu/createRoom/ante_title_bg.png"/>
+  <item atlasType="0" compress="0" key="dced267c6bc10d8d6cc9c0de374f9e86" label="tag_card" asset="popu/createRoom/tag_card.png"/>
+  <item atlasType="0" compress="0" key="ebb9c0d672d39e0601d49c16ea68039f" label="img_select" asset="popu/createRoom/img_select.png"/>
+  <item atlasType="0" compress="0" key="f07bbbc9a655c85ef27b0dcc9e1b5930" label="title_create" asset="popu/createRoom/title_create.png"/>
+</item>

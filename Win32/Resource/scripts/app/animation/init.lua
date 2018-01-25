@@ -1,0 +1,6 @@
+require("app.animation.alarmTip")
+require("app.animation.alarmNotice")
+require("app.animation.animMap")
+require("app.animation.animationParticles")
+--require("atomAnim/atomAnimManagerEx")
+-- require("app.atomAnim.atomAnimManager")

@@ -1,0 +1,5 @@
+<item label="upgrade" compress="0" asset="language/thai/popu/upgrade" isDirectory="true">
+  <item atlasType="0" compress="0" key="1ef49ae604da08098aad06e024d07867" label="upgrd_dscShare" asset="language/thai/popu/upgrade/upgrd_dscShare.png"/>
+  <item atlasType="0" compress="0" key="5e763e3bdb16d1ecfd95fc502d6343a1" label="upgrd_dscTitle" asset="language/thai/popu/upgrade/upgrd_dscTitle.png"/>
+  <item atlasType="0" compress="0" key="735f010cb1b0c886fc9bc2fdafb7edb6" label="upgrd_dscGetRew" asset="language/thai/popu/upgrade/upgrd_dscGetRew.png"/>
+</item>

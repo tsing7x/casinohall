@@ -1,0 +1,55 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <img_room_bg type="1" typeName="Image" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="41033d41f32c0d39b170fe530e86b47f" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <btn_back type="1" typeName="Button" time="0" x="10" y="10" width="70" height="70" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="fe5b1576602aecdbab894d4acfb6ea0e" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+    <btn_face type="1" typeName="Button" time="0" x="10" y="10" width="66" height="60" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="6" file="83ef858bb49b033aa3ca16d60a20c0c6" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+    <btn_feedback type="1" typeName="Button" time="0" x="10" y="10" width="70" height="70" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="2" file="d59c9e8363f3c3c8e580e1714a3117e9" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+    <btn_chat type="1" typeName="Button" time="0" x="95" y="10" width="66" height="60" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="6" file="3e5778755029a5a58fbb6b506f3c93b0" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+    <btn_shop type="1" typeName="Button" time="0" x="90" y="10" width="70" height="70" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="2" file="d624e8390c87e03c12c9bb98cfc62aea" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+    <btn_detail type="1" typeName="Button" time="0" x="10" y="80" width="66" height="60" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="6" file="00490cbd52c067f54f0fb914f5036d92" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+  </img_room_bg>
+  <view_table type="0" typeName="View" time="0" x="0" y="30" width="670" height="1100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0">
+    <img_table type="1" typeName="Image" time="0" x="0" y="0" width="670" height="1100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="37aaff21faca3c45f418745cef813269" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <image_logo type="1" typeName="Image" time="0" x="209" y="259" width="252" height="86" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="f189feef2defa1b8098763c6b9a17c3e" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <view_dealer type="0" typeName="View" time="0" x="0" y="0" width="100" height="100" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="1">
+      <btn_fee type="1" typeName="Button" time="0" x="-100" y="-67" width="78" height="68" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="c5f017b3e919aeaf8bfca3cc511180ef" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+      <img_dealer type="1" typeName="Image" time="0" x="0" y="0" width="172" height="197" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" file="ff4ebbe9086063201bc6cdae5dd29198" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </view_dealer>
+    <view_info type="0" typeName="View" time="0" x="0" y="160" width="147" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1">
+      <text_round type="4" typeName="Text" time="0" x="0" y="0" width="147" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontSize="24" textAlign="0" color="0xc97f2f" string="局数：0/10" colorA="1"/>
+      <text_baseAnte type="4" typeName="Text" time="0" x="0" y="29" width="147" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontSize="24" textAlign="0" color="0xc97f2f" string="底注：100" colorA="1"/>
+      <text_roomCode type="4" typeName="Text" time="0" x="0" y="58" width="147" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontSize="24" textAlign="0" color="0xc97f2f" string="口令：123456" colorA="1"/>
+    </view_info>
+    <view_inct type="0" typeName="View" time="0" x="0" y="0" width="1" height="1" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0">
+      <img_inct type="1" typeName="Image" time="0" x="0" y="0" width="132" height="418" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" file="38a4c64f6786092a8399802c70b424c4" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </view_inct>
+    <view_players type="0" typeName="View" time="0" x="0" y="0" width="670" height="1100" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8"/>
+    <view_tableTip type="0" typeName="View" time="0" x="0" y="200" width="300" height="80" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="5">
+      <Image34 type="1" typeName="Image" time="0" x="36" y="45" width="300" height="80" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" file="0d02760df54c084b8fc17ba9bf776a4a" packFile="" gridLeft="18" gridRight="18" gridTop="18" gridBottom="18"/>
+      <text_tableTip type="4" typeName="Text" time="0" x="0" y="0" width="220" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="36" textAlign="0" color="0xFFFFFF" string="等待闲家下注" colorA="1"/>
+    </view_tableTip>
+    <view_banker type="0" typeName="View" time="0" x="30" y="-50" width="119" height="89" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="4">
+      <btn_up_banker type="1" typeName="Button" time="0" x="0" y="0" width="119" height="89" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="3ce23ef572b53e2d7c693381ae21a3ae" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      <btn_down_banker type="1" typeName="Button" time="0" x="0" y="0" width="119" height="89" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="c0616197988f3048a5bd112571525ba0" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </view_banker>
+  </view_table>
+  <view_operate type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="5">
+    <thirdCard type="0" typeName="View" time="0" x="0" y="0" width="720" height="100" visible="true" fillParentWidth="true" fillParentHeight="false" nodeAlign="5">
+      <view_inner type="0" typeName="View" time="0" x="0" y="0" width="720" height="100" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="5">
+        <btn_buyao type="1" typeName="Button" time="0" x="10" y="-5" width="180" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="6" file="5099f42efce070e834dff1bea7511cbd" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+          <text_buyao type="4" typeName="Text" time="0" x="0" y="0" width="113.35" height="58" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="50" textAlign="0" color="0xFFFFFF" string="要 牌" colorA="1"/>
+        </btn_buyao>
+        <btn_yao type="1" typeName="Button" time="0" x="10" y="-5" width="180" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="4" file="7c106df8853f81736a34a8c7ae432ca5" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20" file2="">
+          <text_yao type="4" typeName="Text" time="0" x="0" y="0" width="113.35" height="58" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="50" textAlign="0" color="0xFFFFFF" string="要 牌"/>
+        </btn_yao>
+      </view_inner>
+    </thirdCard>
+    <bankerStart type="0" typeName="View" time="0" x="0" y="300" width="720" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0">
+      <btn_invite type="1" typeName="Button" time="0" x="175" y="5" width="170" height="90" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="6" file="5099f42efce070e834dff1bea7511cbd" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+        <text_invite type="4" typeName="Text" time="0" x="0" y="0" width="146.65" height="41.65" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="36" textAlign="0" color="0xFFFFFF" string="邀请好友" colorA="1"/>
+      </btn_invite>
+      <btn_startGame type="1" typeName="Button" time="0" x="0" y="0" width="170" height="90" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="7c106df8853f81736a34a8c7ae432ca5" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20" file2="">
+        <text_startGame type="4" typeName="Text" time="0" x="0" y="0" width="146.65" height="41.65" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="36" textAlign="0" color="0xFFFFFF" string="开始游戏"/>
+      </btn_startGame>
+    </bankerStart>
+  </view_operate>
+</root>

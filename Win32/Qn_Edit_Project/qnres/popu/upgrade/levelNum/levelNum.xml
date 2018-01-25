@@ -1,0 +1,12 @@
+<item label="levelNum" compress="0" asset="popu/upgrade/levelNum" isDirectory="true">
+  <item atlasType="0" compress="0" key="14983dc5041cf1c9e6e6a09145143cf1" label="num_7" asset="popu/upgrade/levelNum/num_7.png"/>
+  <item atlasType="0" compress="0" key="223c8ce1f5bf8a44ea74205bd2642e68" label="num_4" asset="popu/upgrade/levelNum/num_4.png"/>
+  <item atlasType="0" compress="0" key="40718d049da60e95a296223cb0c2ff64" label="num_3" asset="popu/upgrade/levelNum/num_3.png"/>
+  <item atlasType="0" compress="0" key="4f18a1f1f9b99a83e69149484a2cd84e" label="num_5" asset="popu/upgrade/levelNum/num_5.png"/>
+  <item atlasType="0" compress="0" key="650142814e148369e23f998e498d3e3d" label="num_8" asset="popu/upgrade/levelNum/num_8.png"/>
+  <item atlasType="0" compress="0" key="69a3b33fd1d6ee9b452d0212449fecfd" label="num_9" asset="popu/upgrade/levelNum/num_9.png"/>
+  <item atlasType="0" compress="0" key="747d19cfe6cc9f6a8716ac0a3647c362" label="num_2" asset="popu/upgrade/levelNum/num_2.png"/>
+  <item atlasType="0" compress="0" key="7dd1b1460123d2f4768688f3b0abd70f" label="num_0" asset="popu/upgrade/levelNum/num_0.png"/>
+  <item atlasType="0" compress="0" key="c93846afbf5d952b17f559a4907e06d5" label="num_1" asset="popu/upgrade/levelNum/num_1.png"/>
+  <item atlasType="0" compress="0" key="d4af58bf66b9b03a484706d5795335ee" label="num_6" asset="popu/upgrade/levelNum/num_6.png"/>
+</item>

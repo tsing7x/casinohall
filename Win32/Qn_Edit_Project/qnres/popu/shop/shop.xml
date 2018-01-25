@@ -1,0 +1,18 @@
+<item label="shop" compress="0" asset="popu/shop" isDirectory="true">
+  <item atlasType="0" compress="0" key="212e4fc0498954634d943a74de69a9bd" label="item_bg" asset="popu/shop/item_bg.png"/>
+  <item atlasType="0" compress="0" key="21e095f67cc027d8109a67a9d2a9aeca" label="she_if" asset="popu/shop/she_if.png" grid="60,60,60,80"/>
+  <item atlasType="0" compress="0" key="282eefc2294754b7f3d0f39642df557b" label="top_bg" asset="popu/shop/top_bg.png"/>
+  <item atlasType="0" compress="0" key="287c1e07c23e7c052565d7fa6cfd0778" label="tips_bg" asset="popu/shop/tips_bg.png"/>
+  <item atlasType="0" compress="0" key="2cdb53f838b4e72993efc99e319cf9ac" label="title" asset="popu/shop/title.png"/>
+  <item atlasType="0" compress="0" key="3351ebe7989f520b7623f63a57ee3122" label="line" asset="popu/shop/line.png"/>
+  <item atlasType="0" compress="0" key="368a9f35ee7a93fc97b58608a64bbf10" label="canopy" asset="popu/shop/canopy.png"/>
+  <item atlasType="0" compress="0" key="584fe387996d195a5c1d28ef8663ee60" label="tab_select" asset="popu/shop/tab_select.png"/>
+  <item atlasType="0" compress="0" key="5c23ef06bbdaf474e085f890c31a7545" label="shelves" asset="popu/shop/shelves.png"/>
+  <item atlasType="0" compress="0" key="936532570e786ff73b62001cf33d151e" label="shop_bg" asset="popu/shop/shop_bg.png" grid="21,21,23,23"/>
+  <item atlasType="0" compress="0" key="ba658a618a5f3152f820c7f60bd6bc49" label="tab_bg" asset="popu/shop/tab_bg.png" grid="41,41,0,0"/>
+  <item atlasType="0" compress="0" key="cd35aa6a32cf4a3b714b2e0101e38a84" label="text_bg" asset="popu/shop/text_bg.png"/>
+  <item atlasType="0" compress="0" key="d56d613f93b5edf8609a64e602d661ae" label="icon_add" asset="popu/shop/icon_add.png"/>
+  <item atlasType="0" compress="0" key="da43d39049ca54f3b0bca0c8321b017b" label="leftBg" asset="popu/shop/leftBg.png" grid="10,10,10,10"/>
+  <item atlasType="0" compress="0" key="e224be18e888529d91c0dbd254c2868a" label="tab_unselect" asset="popu/shop/tab_unselect.png"/>
+  <item atlasType="0" compress="0" key="f7f1ec0d750f0521f71792d87841b17c" label="btn" asset="popu/shop/btn.png"/>
+</item>

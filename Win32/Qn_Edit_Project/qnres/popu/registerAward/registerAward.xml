@@ -1,0 +1,8 @@
+<item label="registerAward" compress="0" asset="popu/registerAward" isDirectory="true">
+  <item atlasType="0" compress="0" key="1cea0cc8b0c285ea6b6374436487c43d" label="img_inputBg" asset="popu/registerAward/img_inputBg.png"/>
+  <item atlasType="0" compress="0" key="286f8255ad91b34a2bd14ac12dd66eee" label="img_title" asset="popu/registerAward/img_title.png"/>
+  <item atlasType="0" compress="0" key="2a8ef063d433843369a30350388e35e9" label="img_timeBg" asset="popu/registerAward/img_timeBg.png"/>
+  <item atlasType="0" compress="0" key="4b2cbecf474dae50cf3d46afd9a74bf8" label="img_tag" asset="popu/registerAward/img_tag.png"/>
+  <item atlasType="0" compress="0" key="55d74aafe3b2bcb569495eaf9c219ee5" label="img_maohao" asset="popu/registerAward/img_maohao.png"/>
+  <item atlasType="0" compress="0" key="70bab49a21987b9dd5fca5b6af325fb1" label="img_numBg" asset="popu/registerAward/img_numBg.png"/>
+</item>

@@ -1,0 +1,13 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="350" height="160" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" isGenerateLocal="true">
+  <View2 type="0" typeName="View" time="0" x="0" y="0" width="350" height="160" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="7">
+    <view_original type="0" typeName="View" time="0" x="150" y="0" width="100" height="40" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+      <text_original type="4" typeName="Text" time="0" x="0" y="0" width="0" height="27.15" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="24" textAlign="7" color="0xFFFFFF" colorA="1">
+        <Image6 type="1" typeName="Image" time="0" x="0" y="0" width="0" height="2" visible="true" fillParentWidth="true" fillParentHeight="false" nodeAlign="0" file="3351ebe7989f520b7623f63a57ee3122" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      </text_original>
+    </view_original>
+    <view_now type="0" typeName="View" time="0" x="150" y="50" width="200" height="40" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8"/>
+    <View8 type="0" typeName="View" time="0" x="40" y="10" width="103" height="104" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7">
+      <img_icon type="1" typeName="Image" time="0" x="0" y="0" width="103" height="104" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" file="304f9053424bfe5d36de2ec200dfbbdc" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </View8>
+  </View2>
+</root>

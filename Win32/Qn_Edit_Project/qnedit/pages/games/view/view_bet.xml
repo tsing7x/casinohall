@@ -1,0 +1,8 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <img_chipBg type="1" typeName="Image" time="0" x="0" y="0" width="88" height="25" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="11105b2f5fa148df7b1e91770597fb0d" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <text_bet type="4" typeName="Text" time="0" x="26" y="0" width="54" height="27.5" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="24" textAlign="7" color="0xFFFFFF" string="1,000"/>
+    <chipView type="0" typeName="View" time="0" x="-5" y="0" width="1" height="1" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7">
+      <img_chip type="1" typeName="Image" time="0" x="0" y="0" width="29" height="31" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="a47e3c81eb2fff935d5321574db1ee41" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </chipView>
+  </img_chipBg>
+</root>

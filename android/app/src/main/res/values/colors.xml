@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent_background">#00FFFFFF</color>
+    <color name="colors">#ffffDC</color>
+    <color name="fan_name_text">#E6E191</color>
+    <color name="fan_name_text_selected">#FFFFDC</color>
+    <color name="updatebg">#2E2E2E</color>
+    <color name="updatebg1">#161616</color>
+    <color name="huodong_bg">#033e33</color>
+</resources>

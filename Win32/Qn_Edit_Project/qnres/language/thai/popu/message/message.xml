@@ -1,0 +1,9 @@
+<item label="message" compress="0" asset="language/thai/popu/message" isDirectory="true">
+  <item atlasType="0" compress="0" key="11ed79af8598afa6fe5014bf6b41a6ea" label="msg_dscTabBtn1_sel" asset="language/thai/popu/message/msg_dscTabBtn1_sel.png"/>
+  <item atlasType="0" compress="0" key="21917d0bcf261aa73075cac6c894a959" label="msg_dscConfirm" asset="language/thai/popu/message/msg_dscConfirm.png"/>
+  <item atlasType="0" compress="0" key="88f7d39119bdb794708786a2ee70672e" label="msg_dscTitle" asset="language/thai/popu/message/msg_dscTitle.png"/>
+  <item atlasType="0" compress="0" key="b48e58dc17119e77f70b4d01092e38de" label="msg_dscTabBtn2_sel" asset="language/thai/popu/message/msg_dscTabBtn2_sel.png"/>
+  <item atlasType="0" compress="0" key="bd28dbe62d3f89f6d3b5a7c8b384dd0c" label="msg_dscDraw" asset="language/thai/popu/message/msg_dscDraw.png"/>
+  <item atlasType="0" compress="0" key="be064e67c6332a2e6fd5e5b58cc26c30" label="msg_dscTabBtn1_unSel" asset="language/thai/popu/message/msg_dscTabBtn1_unSel.png"/>
+  <item atlasType="0" compress="0" key="d8281bd96d129934ba417abec7afcb9c" label="msg_dscTabBtn2_unSel" asset="language/thai/popu/message/msg_dscTabBtn2_unSel.png"/>
+</item>

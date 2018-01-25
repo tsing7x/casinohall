@@ -1,0 +1,11 @@
+<item label="switchPendingImages" compress="0" asset="ui/switchPendingImages" isDirectory="true">
+  <item atlasType="0" compress="0" key="13fef7c3381699336a6cf24fd2dc31df" label="6" asset="ui/switchPendingImages/6.png"/>
+  <item atlasType="0" compress="0" key="18f7f2af977fa635b56e9938804df615" label="4" asset="ui/switchPendingImages/4.png"/>
+  <item atlasType="0" compress="0" key="40a93b3ac748fcd355b73b8ebcc910f1" label="8" asset="ui/switchPendingImages/8.png"/>
+  <item atlasType="0" compress="0" key="7d9f56edc375dc117e753911cb882e1c" label="7" asset="ui/switchPendingImages/7.png"/>
+  <item atlasType="0" compress="0" key="8606bc90a81b8cfc5fea37eb70397af7" label="2" asset="ui/switchPendingImages/2.png"/>
+  <item atlasType="0" compress="0" key="aaddce13005e98ffadc7bb6cb321d632" label="5" asset="ui/switchPendingImages/5.png"/>
+  <item atlasType="0" compress="0" key="c71dce58181d8aec30045b0393c55c01" label="1" asset="ui/switchPendingImages/1.png"/>
+  <item atlasType="0" compress="0" key="d131c62533837cb120d0f1ac10be91e6" label="3" asset="ui/switchPendingImages/3.png"/>
+  <item atlasType="0" compress="0" key="fb2fd04219e02cd3b93ac94a2396ed06" label="static" asset="ui/switchPendingImages/static.png"/>
+</item>

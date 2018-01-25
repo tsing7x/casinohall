@@ -1,0 +1,7 @@
+<item label="menu" asset="games/pokdeng/menu" compress="0">
+  <item atlasType="0" compress="0" key="298373f3d59a2ba7220839122db28f6d" label="line" asset="games/pokdeng/menu/line.png"/>
+  <item atlasType="0" compress="0" key="357a55018f6e7f0f292cbf6430d4c0f3" label="rule" asset="games/pokdeng/menu/rule.png"/>
+  <item atlasType="0" compress="0" key="5221aaf2237d02e9960bd007436c404c" label="back" asset="games/pokdeng/menu/back.png"/>
+  <item atlasType="0" compress="0" key="94985f0f6e8081e46d362b62410f6894" label="bg" asset="games/pokdeng/menu/bg.png"/>
+  <item atlasType="0" compress="0" key="fa733923332133c5e06bee866114be4e" label="stand_up" asset="games/pokdeng/menu/stand_up.png"/>
+</item>

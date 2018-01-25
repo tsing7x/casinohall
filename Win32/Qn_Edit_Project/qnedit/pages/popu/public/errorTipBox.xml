@@ -1,0 +1,10 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="0" isGenerateLocal="true">
+  <Image4 type="1" typeName="Image" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="0022859c33527ce12cec5bd853818ac9" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20"/>
+  <View type="0" typeName="View" time="0" x="0" y="0" width="100" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0">
+    <Text7 type="4" typeName="Text" time="0" x="-50" y="-333" width="200" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="50" textAlign="5" color="0xFFFFFF" string="错误提示"/>
+    <TextView type="5" typeName="TextView" time="0" x="0" y="0" width="1200" height="500" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="8" color="0xFFFFFF" string="TextView"/>
+    <Button type="1" typeName="Button" time="0" x="-70" y="330" width="241" height="104" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="7c106df8853f81736a34a8c7ae432ca5" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+      <Text5 type="4" typeName="Text" time="0" x="70" y="5" width="100" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="50" textAlign="0" color="0xFFFFFF" string="确定"/>
+    </Button>
+  </View>
+</root>

@@ -1,0 +1,10 @@
+<item label="setting" compress="0" asset="popu/setting" isDirectory="true">
+  <item atlasType="0" compress="0" key="3bb619c0ab42648dadc42262e9110893" label="setg_slirBgLayer" asset="popu/setting/setg_slirBgLayer.png" grid="6,6,5,5"/>
+  <item atlasType="0" compress="0" key="6597afe043e92f359e80b051911d5866" label="setg_slirBtn" asset="popu/setting/setg_slirBtn.png"/>
+  <item atlasType="0" compress="0" key="685cadadb954c126c7a07a6f666bebf6" label="setg_switch_off" asset="popu/setting/setg_switch_off.png"/>
+  <item atlasType="0" compress="0" key="68ab063faef82253184e469148062960" label="setg_arrowRight" asset="popu/setting/setg_arrowRight.png"/>
+  <item atlasType="0" compress="0" key="6cd34ac798617f11ab5e6d5d5bde4a7d" label="setg_slirBgFiller" asset="popu/setting/setg_slirBgFiller.png" grid="6,6,5,5"/>
+  <item atlasType="0" compress="0" key="95cdfe08c95ef0729aa1880475fd0d11" label="setg_switch_on" asset="popu/setting/setg_switch_on.png"/>
+  <item atlasType="0" compress="0" key="a45ee5f7add6c4da33079b2c9ae89831" label="setg_divLine" asset="popu/setting/setg_divLine.png"/>
+  <item atlasType="0" compress="0" key="f391a80d4e44fe74577601f915d25758" label="setg_switchBtn" asset="popu/setting/setg_switchBtn.png"/>
+</item>

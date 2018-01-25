@@ -1,0 +1,6 @@
+<item label="wheel" compress="0" asset="language/english/popu/wheel" isDirectory="true">
+  <item atlasType="0" compress="0" key="1d66f4b707dae01ff2a690feafb40bc4" label="img_title" asset="language/english/popu/wheel/img_title.png"/>
+  <item atlasType="0" compress="0" key="23fd266fb348b7427bf9c218ca1fe4a9" label="img_price" asset="language/english/popu/wheel/img_price.png"/>
+  <item atlasType="0" compress="0" key="51b2f5e353a7a79dad8269a009c4f5bc" label="img_btn_2" asset="language/english/popu/wheel/img_btn_2.png"/>
+  <item atlasType="0" compress="0" key="5ccc4bfd59b6d286e21608a3d32797d3" label="img_go" asset="language/english/popu/wheel/img_go.png"/>
+</item>

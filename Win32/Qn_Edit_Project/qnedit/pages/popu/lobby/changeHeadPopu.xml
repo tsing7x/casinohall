@@ -1,0 +1,16 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="0" isGenerateLocal="true">
+  <img_bgPanel type="1" typeName="Image" time="0" x="0" y="0" width="720" height="441" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="e9d7ff538fcc1e33231996e2462b9351" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <img_decBgTitle type="1" typeName="Image" time="0" x="0" y="-191" width="527" height="74" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="0be80b41acbab71e9239f1c37bb4fd5a" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <img_dscTitle type="1" typeName="Image" time="0" x="0" y="-4" width="122" height="61" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="a85bb3da70acc8013278b2b71e56a691" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </img_decBgTitle>
+    <btn_close type="1" typeName="Button" time="0" x="614" y="-31" width="113" height="110" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="8a2a7be9e4e6f64d500f3c375eee9614" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+    <btn_changeHeadCamera type="1" typeName="Button" time="0" x="-140" y="-12" width="182" height="182" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="eda7c9a2a8a0024057b7d2e184cd6d67" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+      <img_icCamera type="1" typeName="Image" time="0" x="0" y="0" width="91" height="88" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="5bb048b1421b23e38d1e6766e5ce0ddd" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </btn_changeHeadCamera>
+    <img_dscFromCamera type="1" typeName="Image" time="0" x="-140" y="113" width="125" height="38" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="45d5d4864874e07c7d51718bf0525f2e" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <btn_changeHeadGallery type="1" typeName="Button" time="0" x="140" y="-12" width="182" height="182" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="eda7c9a2a8a0024057b7d2e184cd6d67" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+      <img_icGallery type="1" typeName="Image" time="0" x="0" y="0" width="91" height="88" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="2bacb14fa88d99aff54b88c4a496292f" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </btn_changeHeadGallery>
+    <img_dscFromGallery type="1" typeName="Image" time="0" x="140" y="113" width="125" height="38" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="76a1a3d616085139e3e332c3c6a54250" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+  </img_bgPanel>
+</root>

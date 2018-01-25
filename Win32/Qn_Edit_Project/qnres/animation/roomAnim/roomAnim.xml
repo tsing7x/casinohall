@@ -1,0 +1,5 @@
+<item label="roomAnim" compress="0" asset="animation/roomAnim" isDirectory="true">
+  <item atlasType="0" compress="0" key="38af1a5fcbb8f1393d7b2b6132cc4497" label="word_bg_left" asset="animation/roomAnim/word_bg_left.png"/>
+  <item atlasType="0" compress="0" key="6737820a803193e76c70ad6cbdb421e9" label="word_bg_center" asset="animation/roomAnim/word_bg_center.png"/>
+  <item atlasType="0" compress="0" key="ce9b95974e647f7fabc400178df9eafe" label="word_bg_right" asset="animation/roomAnim/word_bg_right.png"/>
+</item>

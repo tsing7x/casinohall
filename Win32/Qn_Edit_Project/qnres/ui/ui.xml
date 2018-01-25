@@ -1,0 +1,23 @@
+<item label="ui" compress="0" asset="ui" isPublicRes="true" isDirectory="true">
+  <item atlasType="0" compress="0" key="009b7c4d8d25e0efab5e44b0c5aeec22" label="spinner_choose_bg" asset="ui/spinner_choose_bg.png"/>
+  <item atlasType="0" compress="0" key="034752cd50f14f956073ea7d926dca81" label="sliderBg" asset="ui/sliderBg.png"/>
+  <item atlasType="0" compress="0" key="2cd6451732fc2c1697b8994ea71dd5c1" label="checkBox1" asset="ui/checkBox1.png"/>
+  <item atlasType="0" compress="0" key="304f9053424bfe5d36de2ec200dfbbdc" label="blank" asset="ui/blank.png"/>
+  <item atlasType="0" compress="0" key="3faa678084d060099aa35fe05bbd1628" label="image" asset="ui/image.png"/>
+  <item atlasType="0" compress="0" key="4647fc9a1ae584e78ec80c2d706a781d" label="spinner_bg" asset="ui/spinner_bg.png"/>
+  <item atlasType="0" compress="0" key="587769150d680cbe165c4d556021f5ba" label="toast_bg" asset="ui/toast_bg.png"/>
+  <item atlasType="0" compress="0" key="5c1884239e03a69ebf76ab348d37a753" label="radioButton1" asset="ui/radioButton1.png"/>
+  <item atlasType="0" compress="0" key="5e60afd9e7ddb8bd90363bcd827449dc" label="button" asset="ui/button.png" grid="20,20,20,20"/>
+  <item atlasType="0" compress="0" key="80afa44714daafadc09324484d364f68" label="shade2" asset="ui/shade2.png"/>
+  <item atlasType="0" compress="0" key="8c63357b1127c55b50c6c7f437305f18" label="switchButton" asset="ui/switchButton.png"/>
+  <item atlasType="0" compress="0" key="8e07aa3e6cc4028ea755ccea45c32fa0" label="checkBox2" asset="ui/checkBox2.png"/>
+  <item atlasType="0" compress="0" key="a9e40764ce88904f062d2d94badadf08" label="sliderBtn" asset="ui/sliderBtn.png"/>
+  <item atlasType="0" compress="0" key="add9a8523bfc2cee1b14613567fae8ce" label="switchOn" asset="ui/switchOn.png"/>
+  <item atlasType="0" compress="0" key="caf310d8fb86c791f6795dde16f0c15c" label="radioButton2" asset="ui/radioButton2.png"/>
+  <item atlasType="0" compress="0" key="d8387df8a0ac75e3e3c1204cc84697a0" label="shade" asset="ui/shade.png"/>
+  <item atlasType="0" compress="0" key="e0c7646e5172f874f2a756966464f39f" label="spinner_arrow" asset="ui/spinner_arrow.png"/>
+  <item atlasType="0" compress="0" key="e48b8e0543292bf279469dbc87a62979" label="spinner_bg_img" asset="ui/spinner_bg_img.png"/>
+  <item atlasType="0" compress="0" key="f070d97b17a0159049bd8c05cd897e0b" label="switchOff" asset="ui/switchOff.png"/>
+  <item atlasType="0" compress="0" key="f3efc63f3cd5e89d034c645d3817cc4b" label="__scroll" asset="ui/__scroll.png"/>
+  <item atlasType="0" compress="0" key="fca9fc4490aee3c677a70034dbf48d2f" label="sliderFg" asset="ui/sliderFg.png"/>
+</item>

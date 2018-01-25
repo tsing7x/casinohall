@@ -1,0 +1,29 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <img_popuBg type="1" typeName="Image" time="0" x="0" y="0" width="676" height="592" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="16292be0d295a909e03c8b35a7ae8734" packFile="" gridLeft="10" gridRight="10" gridTop="10" gridBottom="10">
+    <btn_confirm type="1" typeName="Button" time="0" x="0" y="32" width="241" height="104" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" file="7c106df8853f81736a34a8c7ae432ca5" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20" file2="">
+      <text_confirm type="4" typeName="Text" time="0" x="0" y="0" width="100" height="57.15" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="50" textAlign="0" color="0xFFFFFF" string="确定" colorA="1"/>
+    </btn_confirm>
+    <Image10 type="1" typeName="Image" time="0" x="0" y="-41" width="495" height="110" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="88c2a6ba7e616caef706c26dd620bb60" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <Image11 type="1" typeName="Image" time="0" x="0" y="0" width="357" height="54" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="79e179dd42835c71af6bac5e8529ba6d" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </Image10>
+    <btn_man type="1" typeName="Button" time="0" x="-106" y="89" width="156" height="156" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="062f20d84c3cd87dbf75002a9ad165c3" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <img_normal type="1" typeName="Image" time="0" x="0" y="0" width="156" height="156" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="7f8cb3e804db5563f5020f9c929151f6" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      <img_select type="1" typeName="Image" time="0" x="0" y="0" width="156" height="156" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="6febf18713b14e9796f970d659c0955c" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+        <img_tag type="1" typeName="Image" time="0" x="-8" y="0" width="47" height="47" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="4" file="cb74c3b9c68d40dbf1249a99b2ea2151" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      </img_select>
+    </btn_man>
+    <btn_woman type="1" typeName="Button" time="0" x="110" y="87" width="156" height="156" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="062f20d84c3cd87dbf75002a9ad165c3" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <img_normal type="1" typeName="Image" time="0" x="0" y="0" width="156" height="156" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="2dc7429b49f6c35273b0654ed37d6098" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      <img_select type="1" typeName="Image" time="0" x="0" y="0" width="156" height="156" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="6c6f78ba75fc15386b5414b9cc23b67f" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+        <img_tag type="1" typeName="Image" time="0" x="-8" y="0" width="47" height="47" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="4" file="cb74c3b9c68d40dbf1249a99b2ea2151" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      </img_select>
+    </btn_woman>
+    <text_male type="4" typeName="Text" time="0" x="-106" y="254" width="47.15" height="27.15" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" fontName="" fontSize="24" textAlign="1" color="0xFFFFFF" string="male" colorA="1"/>
+    <text_female type="4" typeName="Text" time="0" x="112" y="252" width="67.15" height="27.15" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" fontName="" fontSize="24" textAlign="1" color="0xFFFFFF" string="female" colorA="1"/>
+    <view_nick type="0" typeName="View" time="0" x="-5" y="218" width="380" height="67" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5">
+      <Image10 type="1" typeName="Image" time="0" x="0" y="0" width="380" height="67" visible="true" fillParentWidth="true" fillParentHeight="false" nodeAlign="0" file="bc1b9fc721fc9570b55a45a457f7c012" packFile="" gridLeft="10" gridRight="10" gridTop="10" gridBottom="10"/>
+      <edit_code type="6" typeName="EditText" time="0" x="0" y="0" width="380" height="67" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="0" fontName="" fontSize="46" textAlign="7" color="0xFFFFFF" string="请输入昵称" colorA="1"/>
+      <btn_random type="1" typeName="Button" time="0" x="-38" y="0" width="88" height="93" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3" file="d67ae07ad62a176acc23c027aaa935b5" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </view_nick>
+  </img_popuBg>
+</root>

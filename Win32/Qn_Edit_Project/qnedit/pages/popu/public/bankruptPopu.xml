@@ -1,0 +1,12 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <img_popuBg type="1" typeName="Image" time="0" x="25" y="331" width="682" height="661" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="0022859c33527ce12cec5bd853818ac9" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+    <title_bg type="1" typeName="Image" time="0" x="0" y="-50" width="496" height="110" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="277c771426b45a2e18ec73310be4e0cb" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <img_title type="1" typeName="Image" time="0" x="0" y="0" width="370" height="76" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="ea1603260f41382fbcf9008ff38b07b7" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </title_bg>
+    <btn_close type="1" typeName="Button" time="0" x="-15" y="-15" width="73" height="74" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="2" file="54c13ab428bb78bd6c227abbf3c3e263" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <img_itemBg type="1" typeName="Image" time="0" x="29" y="85" width="626" height="534" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="3fc2a1b65bde581ed379e7cf04888e85" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+      <view_loading type="0" typeName="View" time="0" x="0" y="0" width="100" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0"/>
+      <sv_inner type="0" typeName="ScrollView" time="0" x="14" y="7" width="603" height="516" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8"/>
+    </img_itemBg>
+  </img_popuBg>
+</root>

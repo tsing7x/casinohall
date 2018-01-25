@@ -1,0 +1,11 @@
+<item label="pdLobby" compress="0" asset="lobby/pdLobby" isDirectory="true">
+  <item atlasType="0" compress="0" key="2e43c1516cfac1ce7acb296a372ed347" label="tap_chip_normal" asset="lobby/pdLobby/tap_chip_normal.png"/>
+  <item atlasType="0" compress="0" key="35be3d15030ec927a81e4b4b36741045" label="cash_join_room" asset="lobby/pdLobby/cash_join_room.png"/>
+  <item atlasType="0" compress="0" key="54cff55e9b5440466628439c5234b68d" label="tap_cash_select" asset="lobby/pdLobby/tap_cash_select.png"/>
+  <item atlasType="0" compress="0" key="6e7d46863a15f8e870b3d6921e603c84" label="chip_room_list" asset="lobby/pdLobby/chip_room_list.png"/>
+  <item atlasType="0" compress="0" key="824a4aebc3e52a30abcba1e8e25f1af3" label="tap_bg" asset="lobby/pdLobby/tap_bg.png"/>
+  <item atlasType="0" compress="0" key="9ad060f9dded83a28b33f1e7eca6b817" label="select_btn" asset="lobby/pdLobby/select_btn.png"/>
+  <item atlasType="0" compress="0" key="9c0f578dd90902dc13f4bd8b52ab7d4e" label="tap_cash_normal" asset="lobby/pdLobby/tap_cash_normal.png"/>
+  <item atlasType="0" compress="0" key="c00c60bb68459da6fb687b470441c553" label="tap_chip_select" asset="lobby/pdLobby/tap_chip_select.png"/>
+  <item atlasType="0" compress="0" key="e18d5c5aa7f78c29488ee5314ae8bae9" label="cash_creat_room" asset="lobby/pdLobby/cash_creat_room.png"/>
+</item>

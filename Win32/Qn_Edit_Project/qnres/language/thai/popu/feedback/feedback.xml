@@ -1,0 +1,11 @@
+<item label="feedback" compress="0" asset="language/thai/popu/feedback" isDirectory="true">
+  <item atlasType="0" compress="0" key="04f0caa05da12db450dea75b404624b6" label="fedbak_dscTabBtn2_sel" asset="language/thai/popu/feedback/fedbak_dscTabBtn2_sel.png"/>
+  <item atlasType="0" compress="0" key="3b44e825dee7a25993688e4465f09ed7" label="fedbak_dscTitle" asset="language/thai/popu/feedback/fedbak_dscTitle.png"/>
+  <item atlasType="0" compress="0" key="3d400cf82faed2437ae570eb10696083" label="fedbak_dscContactUs" asset="language/thai/popu/feedback/fedbak_dscContactUs.png"/>
+  <item atlasType="0" compress="0" key="89ba055abe6290f5e9be8ad0e7ff9205" label="fedbak_dscTabBtn1_unSel" asset="language/thai/popu/feedback/fedbak_dscTabBtn1_unSel.png"/>
+  <item atlasType="0" compress="0" key="90f7a9ea09fa6e5ff5761389667c7ab3" label="fedbak_dscTabBtn2_unSel" asset="language/thai/popu/feedback/fedbak_dscTabBtn2_unSel.png"/>
+  <item atlasType="0" compress="0" key="95217ad3e0ecd5a3bda48714ef2184af" label="fedbak_btnUploadImg" asset="language/thai/popu/feedback/fedbak_btnUploadImg.png"/>
+  <item atlasType="0" compress="0" key="9d0576f3d847f2ae5eb2aa1aea2ed665" label="fedbak_dscConfirm" asset="language/thai/popu/feedback/fedbak_dscConfirm.png"/>
+  <item atlasType="0" compress="0" key="a2eac343e0684105363109e9ca13ab6f" label="fedbak_dscContactCustom" asset="language/thai/popu/feedback/fedbak_dscContactCustom.png"/>
+  <item atlasType="0" compress="0" key="f78999387bc1bcbd6ed1bc09f696ab9f" label="fedbak_dscTabBtn1_sel" asset="language/thai/popu/feedback/fedbak_dscTabBtn1_sel.png"/>
+</item>

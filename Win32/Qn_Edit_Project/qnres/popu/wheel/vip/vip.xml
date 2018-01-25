@@ -1,0 +1,7 @@
+<item label="vip" compress="0" asset="popu/wheel/vip" isDirectory="true">
+  <item atlasType="0" compress="0" key="4c164004bda4122bc43ff5c38d536642" label="img_wheel" asset="popu/wheel/vip/img_wheel.png"/>
+  <item atlasType="0" compress="0" key="4d3380f6f232ce241d8e842b65c4581b" label="img_bg" asset="popu/wheel/vip/img_bg.png"/>
+  <item atlasType="0" compress="0" key="5b2833a528799c0b07f7445f4dafbc87" label="img_title" asset="popu/wheel/vip/img_title.png"/>
+  <item atlasType="0" compress="0" key="6afcb97a3f41f7576124e4dd2b94e42b" label="img_guang" asset="popu/wheel/vip/img_guang.png"/>
+  <item atlasType="0" compress="0" key="a9fa957a3d761183766b9aee15e0a9c0" label="img_btn" asset="popu/wheel/vip/img_btn.png"/>
+</item>

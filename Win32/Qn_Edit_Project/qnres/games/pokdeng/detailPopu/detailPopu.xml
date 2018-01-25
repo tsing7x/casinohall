@@ -1,0 +1,17 @@
+<item label="detailPopu" compress="0" asset="games/pokdeng/detailPopu" isDirectory="true">
+  <item atlasType="0" compress="0" key="20193ab533b6172a2fe49e3fed369e99" label="tab_bg" asset="games/pokdeng/detailPopu/tab_bg.png"/>
+  <item atlasType="0" compress="0" key="27715e4cbdfaedb3a9681612228b9d7a" label="hall_chip" asset="games/pokdeng/detailPopu/hall_chip.png"/>
+  <item atlasType="0" compress="0" key="46bd69f4c905b21495c6ba2009e51f08" label="list_bg" asset="games/pokdeng/detailPopu/list_bg.png"/>
+  <item atlasType="0" compress="0" key="59ca7f220e0fb725100cf6573dc325b5" label="rule_selected" asset="games/pokdeng/detailPopu/rule_selected.png"/>
+  <item atlasType="0" compress="0" key="65bcfe8edb24e8c95ed45f578a040c33" label="detail_normal" asset="games/pokdeng/detailPopu/detail_normal.png"/>
+  <item atlasType="0" compress="0" key="8b67714de10e2108d4590126bb8fb012" label="012" asset="games/pokdeng/detailPopu/012.png"/>
+  <item atlasType="0" compress="0" key="926db54e7955f091fc240dfff08d2e47" label="rule" asset="games/pokdeng/detailPopu/rule.png"/>
+  <item atlasType="0" compress="0" key="9fea7c99ad7d03de5e1932e26eb46a65" label="head_bg" asset="games/pokdeng/detailPopu/head_bg.png"/>
+  <item atlasType="0" compress="0" key="c4eee8020d4064844feff4d23e2e7ed1" label="rule_normal" asset="games/pokdeng/detailPopu/rule_normal.png"/>
+  <item atlasType="0" compress="0" key="d51041861e7c70f46a26dc867b5a48eb" label="item_other" asset="games/pokdeng/detailPopu/item_other.png"/>
+  <item atlasType="0" compress="0" key="d76fcc1c46334671aa5dcc6260135531" label="item_me" asset="games/pokdeng/detailPopu/item_me.png"/>
+  <item atlasType="0" compress="0" key="e8d281585b2fd3ea19de3c292117e939" label="hall_cash" asset="games/pokdeng/detailPopu/hall_cash.png"/>
+  <item atlasType="0" compress="0" key="f0536c6633a6671c8954d6839b7e8ba8" label="popu_bg" asset="games/pokdeng/detailPopu/popu_bg.png"/>
+  <item atlasType="0" compress="0" key="f36b4fda123be66706c1b87c7995d950" label="detail_selected" asset="games/pokdeng/detailPopu/detail_selected.png"/>
+  <item atlasType="0" compress="0" key="fbe83389f9e416ef3e33e89aa3c844ee" label="item_offline" asset="games/pokdeng/detailPopu/item_offline.png"/>
+</item>

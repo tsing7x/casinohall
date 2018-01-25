@@ -1,0 +1,12 @@
+<item label="v210" compress="0" asset="popu/v210" isDirectory="true">
+  <item atlasType="0" compress="0" key="0be80b41acbab71e9239f1c37bb4fd5a" label="img_title_2" asset="popu/v210/img_title_2.png"/>
+  <item atlasType="0" compress="0" key="2acc964ae225d4aebc33b5560fbf0b2e" label="bg_superBig" asset="popu/v210/bg_superBig.png"/>
+  <item atlasType="0" compress="0" key="2ceaa6818f15c57278d217d477268abb" label="bg_big" asset="popu/v210/bg_big.png"/>
+  <item atlasType="0" compress="0" key="2e8a0f66b1a42d9176c7cd0801bc26c5" label="btn_green" asset="popu/v210/btn_green.png" grid="35,35,30,30"/>
+  <item atlasType="0" compress="0" key="7749ba9eb1f2287036133e8637bdac98" label="btn_grey" asset="popu/v210/btn_grey.png" grid="35,35,30,30"/>
+  <item atlasType="0" compress="0" key="7ba339c1f46bd4b65f9b4c59dfd7518a" label="btn_blue" asset="popu/v210/btn_blue.png" grid="35,35,30,30"/>
+  <item atlasType="0" compress="0" key="8a2a7be9e4e6f64d500f3c375eee9614" label="closebtn_ " asset="popu/v210/closebtn_ .png"/>
+  <item atlasType="0" compress="0" key="c0cafe1637cec7808cef853862dd6e16" label="btn_yellow" asset="popu/v210/btn_yellow.png" grid="32,32,28,28"/>
+  <item atlasType="0" compress="0" key="cffa498c3ee4dda94b30408de2fce068" label="bg_middle" asset="popu/v210/bg_middle.png"/>
+  <item atlasType="0" compress="0" key="e9d7ff538fcc1e33231996e2462b9351" label="bg_small" asset="popu/v210/bg_small.png"/>
+</item>

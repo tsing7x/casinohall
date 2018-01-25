@@ -1,0 +1,12 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="5" isGenerateLocal="true">
+  <img_bgPanel type="1" typeName="Image" time="0" x="0" y="0" width="608" height="118" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="6" file="80dd205493cb2821233b51930e0b58b4" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <img_icMail type="1" typeName="Image" time="0" x="-250" y="0" width="50" height="36" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="daa64960ed9d7517cf75fa76610f7c5d" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <tv_msgContTitle type="5" typeName="TextView" time="0" x="105" y="-15" width="260" height="33" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="26" textAlign="7" color="0x545553" string="Msg Cont Title" colorA="1"/>
+    <img_icChip type="1" typeName="Image" time="0" x="105" y="20" width="25" height="25" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="417074cbe93b3d2a38712c9d309fcc2f" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <txt_chipNum type="4" typeName="Text" time="0" x="136" y="20" width="200" height="27" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="22" textAlign="7" color="0x3b5aa5" string="+0" colorA="1"/>
+    <txt_msgRcvDate type="4" typeName="Text" time="0" x="40" y="0" width="115" height="30" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="3" fontName="" fontSize="24" textAlign="7" color="0x545454" string="1970/01/01" colorA="1"/>
+    <btn_action type="1" typeName="Button" time="0" x="28" y="0" width="196" height="66" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3" file="7749ba9eb1f2287036133e8637bdac98" packFile="" gridLeft="35" gridRight="35" gridTop="30" gridBottom="30" file2="">
+      <img_dscAction type="1" typeName="Image" time="0" x="0" y="-6" width="98" height="34" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="bd28dbe62d3f89f6d3b5a7c8b384dd0c" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </btn_action>
+  </img_bgPanel>
+</root>

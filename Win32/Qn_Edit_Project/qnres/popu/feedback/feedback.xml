@@ -1,0 +1,7 @@
+<item label="feedback" compress="0" asset="popu/feedback" isDirectory="true">
+  <item atlasType="0" compress="0" key="21f8c5b252776703ce5c3cffc3cc21f4" label="fedbak_decCustomGirl" asset="popu/feedback/fedbak_decCustomGirl.png"/>
+  <item atlasType="0" compress="0" key="3726f4e08c5912f36d259243cfc230d9" label="fedbak_icTel" asset="popu/feedback/fedbak_icTel.png"/>
+  <item atlasType="0" compress="0" key="7730096ccc65d3f2a5d0b25381e1100c" label="fedbak_icEmail" asset="popu/feedback/fedbak_icEmail.png"/>
+  <item atlasType="0" compress="0" key="926c1fd8599c141619cf8a943c491567" label="fedbak_bgInputBlk" asset="popu/feedback/fedbak_bgInputBlk.png" grid="6,6,6,6"/>
+  <item atlasType="0" compress="0" key="c45690836afbd0fea593c42dad24cd77" label="fedbak_bgVicTitle" asset="popu/feedback/fedbak_bgVicTitle.png"/>
+</item>

@@ -1,0 +1,5 @@
+<item label="registerAward" compress="0" asset="language/english/popu/registerAward" isDirectory="true">
+  <item atlasType="0" compress="0" key="26b3d50f19a54102d6d25da682bed5db" label="tag_day_2" asset="language/english/popu/registerAward/tag_day_2.png"/>
+  <item atlasType="0" compress="0" key="372bbf3092647b86da5189077eca2884" label="img_title" asset="language/english/popu/registerAward/img_title.png"/>
+  <item atlasType="0" compress="0" key="519ae03d5c194be82af5eece54367de9" label="tag_day_1" asset="language/english/popu/registerAward/tag_day_1.png"/>
+</item>

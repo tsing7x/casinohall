@@ -1,0 +1,18 @@
+<item label="ghost" compress="0" asset="hongdong/ghost" isDirectory="true">
+  <item atlasType="0" compress="0" key="22b6d97d6dc8d206da5131102026f1a8" label="gui008" asset="hongdong/ghost/gui008.png"/>
+  <item atlasType="0" compress="0" key="357b57a6b9d61e5e479f8c9773597249" label="gui012" asset="hongdong/ghost/gui012.png"/>
+  <item atlasType="0" compress="0" key="3604c09a4d47c3cb868101c8cb8effce" label="gui013" asset="hongdong/ghost/gui013.png"/>
+  <item atlasType="0" compress="0" key="3fa67338e4cb0e118299fb4252df3b8c" label="gui005" asset="hongdong/ghost/gui005.png"/>
+  <item atlasType="0" compress="0" key="6b43cfee343679f7c9ddb9198ed5db79" label="gui010" asset="hongdong/ghost/gui010.png"/>
+  <item atlasType="0" compress="0" key="8812c7c11908797024bc67e5edd036f2" label="gui011" asset="hongdong/ghost/gui011.png"/>
+  <item atlasType="0" compress="0" key="99bee4df5fe9394bd3856c049b152f21" label="gui006" asset="hongdong/ghost/gui006.png"/>
+  <item atlasType="0" compress="0" key="9a537712d88f454cf4b296f089ac4539" label="gui015" asset="hongdong/ghost/gui015.png"/>
+  <item atlasType="0" compress="0" key="9b409586f5ff03db81ca1b9aa81b5ca5" label="gui004" asset="hongdong/ghost/gui004.png"/>
+  <item atlasType="0" compress="0" key="9c86bd7ffb35dbf158b186a8e247dee6" label="gui003" asset="hongdong/ghost/gui003.png"/>
+  <item atlasType="0" compress="0" key="babb6a4317bdd28b1bbc4f9966d805bc" label="gui001" asset="hongdong/ghost/gui001.png"/>
+  <item atlasType="0" compress="0" key="d784c54e4b9d255bc101cb185fcf4ad4" label="gui009" asset="hongdong/ghost/gui009.png"/>
+  <item atlasType="0" compress="0" key="df0017f39a883ae2af8a8d98fc2a6ec2" label="gui016" asset="hongdong/ghost/gui016.png"/>
+  <item atlasType="0" compress="0" key="f976c3e3e6c554ff8e3cd838e461b853" label="gui002" asset="hongdong/ghost/gui002.png"/>
+  <item atlasType="0" compress="0" key="ff4428ff159d64a0167a8ed48292da8d" label="gui007" asset="hongdong/ghost/gui007.png"/>
+  <item atlasType="0" compress="0" key="ffbb0c259c2811bb6e0645cecf2061f5" label="gui014" asset="hongdong/ghost/gui014.png"/>
+</item>

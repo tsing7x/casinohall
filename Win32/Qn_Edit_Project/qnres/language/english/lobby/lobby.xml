@@ -1,0 +1,17 @@
+<item label="lobby" compress="0" asset="language/english/lobby" isDirectory="true">
+  <item atlasType="0" compress="0" key="2908484b27c1ab24e5c166487fba79b3" label="hall_fristchange_btn" asset="language/english/lobby/hall_fristchange_btn.png"/>
+  <item atlasType="0" compress="0" key="35be566827082a40e6d830d6e5fb59a9" label="hall_store_btn" asset="language/english/lobby/hall_store_btn.png"/>
+  <item atlasType="0" compress="0" key="49b4cb840d349391d38718fd7256275f" label="hall_quickEnter" asset="language/english/lobby/hall_quickEnter.png"/>
+  <item atlasType="0" compress="0" key="5a3a9517723b161759d77217fb8b22cd" label="hall_tip" asset="language/english/lobby/hall_tip.png"/>
+  <item atlasType="0" compress="0" key="5f19c69586c2bc0bd7cec705e3cdda69" label="hall_game_21" asset="language/english/lobby/hall_game_21.png"/>
+  <item atlasType="0" compress="0" key="704d6de702ebdf4dada87f0f96b956a4" label="hall_private_btn" asset="language/english/lobby/hall_private_btn.png"/>
+  <item atlasType="0" compress="0" key="7e52bc84c6d161230ce16c8b712b5818" label="hall_enterroom" asset="language/english/lobby/hall_enterroom.png"/>
+  <item atlasType="0" compress="0" key="8dac011ac733bc3315bdfb0297b054dd" label="hall_ranking_btn" asset="language/english/lobby/hall_ranking_btn.png"/>
+  <item atlasType="0" compress="0" key="9c9071ab33c3624884e81043fe2cef6e" label="hall_createroom" asset="language/english/lobby/hall_createroom.png"/>
+  <item atlasType="0" compress="0" key="b6f93e9650b9062241f24bb650fa6fee" label="hall_trun_btn" asset="language/english/lobby/hall_trun_btn.png"/>
+  <item atlasType="0" compress="0" key="b96b63adadd9c22fbcef74426a3e607f" label="hall_friends_btn" asset="language/english/lobby/hall_friends_btn.png"/>
+  <item atlasType="0" compress="0" key="cb9f8f41fb7e7c03d19ffe7135911eb6" label="hall_activity_btn" asset="language/english/lobby/hall_activity_btn.png"/>
+  <item atlasType="0" compress="0" key="d215b0981f12dddb05b8bf932765546c" label="hall_title" asset="language/english/lobby/hall_title.png"/>
+  <item atlasType="0" compress="0" key="e193927bbe4a085ccbf1a3f085cef909" label="hall_invite_btn" asset="language/english/lobby/hall_invite_btn.png"/>
+  <item atlasType="0" compress="0" key="fd0caef298c339a88282be3945070127" label="hall_other_btn" asset="language/english/lobby/hall_other_btn.png"/>
+</item>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/startImg"
+        style="@style/PopupAnimation"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/start_screen" />
+
+    <RelativeLayout
+        android:layout_width="400dip"
+        android:layout_height="50dip"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:id="@+id/textLoading"
+            android:layout_width="350dip"
+            android:layout_height="50dip"
+            android:textSize="22dip"
+            android:layout_alignParentRight="true"
+            android:textColor="#ffffff"
+            android:text="@string/loading_tip"
+            />
+
+        <ImageView
+            android:id="@+id/loading_bg"
+            android:layout_width="36dip"
+            android:layout_height="36dip"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/loading_bg" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <VideoView
+            android:id="@+id/startVideo"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+
+
+</RelativeLayout><!-- From: file:/F:/gitWork/CasinoHall/android/app/src/main/res/layout/start_screen.xml -->

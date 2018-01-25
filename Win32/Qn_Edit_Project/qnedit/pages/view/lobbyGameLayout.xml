@@ -1,0 +1,13 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="450" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" isGenerateLocal="true">
+  <itemBtn type="1" typeName="Button" time="0" x="29" y="143" width="662" height="300" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="816d84550b9ebaf7557705bda3dc8aba" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+    <icon type="1" typeName="Image" time="0" x="-74" y="-102" width="488" height="409" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="b8455c9dc326f9abdc6f75f1144b2dd7" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <name type="1" typeName="Image" time="0" x="375" y="179" width="254" height="62" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="6af7d12f0d742031e0f716e7733086ac" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <img_hasDownload type="1" typeName="Image" time="0" x="547" y="23" width="76" height="76" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="961f051f8cb256f1a3a28391ffb960f6" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <btn_chooseroom type="1" typeName="Button" time="0" x="547" y="23" width="76" height="76" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="1d6a088b5a25d9dd1251d8ec4829adbb" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20"/>
+    <view_progress type="0" typeName="View" time="0" x="547" y="23" width="76" height="76" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+      <text_progress type="4" typeName="Text" time="0" x="0" y="0" width="44" height="27" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="7" color="0xFFFFFF" string="Text"/>
+    </view_progress>
+    <onlineImg type="1" typeName="Image" time="0" x="504" y="142" width="23" height="27" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="7a0cd3a45971e68f7a2705c962c8d6c3" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <onlineText type="4" typeName="Text" time="0" x="533" y="141" width="100" height="27" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="24" textAlign="7" color="0xFFFFFF" string="2345"/>
+  </itemBtn>
+</root>

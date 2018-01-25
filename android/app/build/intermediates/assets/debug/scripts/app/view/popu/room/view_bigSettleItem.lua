@@ -1,0 +1,35 @@
+local view_bigSettleItem=
+{
+	name="view_bigSettleItem",type=0,typeName="View",time=0,x=0,y=0,width=720,height=1280,visible=1,fillParentWidth=1,fillParentHeight=1,nodeAlign=kAlignCenter,
+	{
+		name="view_prefeb",type=0,typeName="View",time=0,x=0,y=0,width=610,height=95,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,
+		{
+			name="itemBg",type=1,typeName="Image",time=0,x=0,y=0,width=610,height=-1,visible=1,fillParentWidth=1,fillParentHeight=0,nodeAlign=kAlignTop,file="ui/blank.png",gridLeft=20,gridRight=20
+		},
+		{
+			name="view_rank",type=0,typeName="View",time=0,x=72,y=0,width=1,height=1,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft,
+			{
+				name="img_rank",type=1,typeName="Image",time=0,x=0,y=0,width=94,height=64,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="games/settle/img_rank_1.png",
+				{
+					name="text_rank",type=4,typeName="Text",time=0,x=0,y=0,width=100,height=100,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=32,textAlign=kAlignCenter,colorRed=156,colorGreen=151,colorBlue=125,colorA=1
+				}
+			}
+		},
+		{
+			name="view_head",type=0,typeName="View",time=0,x=142,y=0,width=82,height=82,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft
+		},
+		{
+			name="text_name",type=4,typeName="Text",time=0,x=246,y=0,width=145,height=100,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft,fontSize=28,textAlign=kAlignCenter,colorRed=84,colorGreen=84,colorBlue=84,string=[[Text]],colorA=1
+		},
+		{
+			name="tag_chip",type=1,typeName="Image",time=0,x=408,y=0,width=29,height=31,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft,file="games/common/img_tableChip.png"
+		},
+		{
+			name="text_turn",type=4,typeName="Text",time=0,x=30,y=0,width=100,height=100,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignRight,fontSize=24,textAlign=kAlignLeft,colorRed=255,colorGreen=255,colorBlue=255,string=[[Text]],colorA=1
+		},
+		{
+			name="img_divide",type=1,typeName="Image",time=0,x=0,y=0,width=626,height=4,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignBottom,file="games/settle/img_devide.png"
+		}
+	}
+}
+return view_bigSettleItem;

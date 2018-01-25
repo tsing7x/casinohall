@@ -1,0 +1,31 @@
+<item label="common" compress="0" asset="common" isDirectory="true">
+  <item atlasType="0" compress="0" key="062f20d84c3cd87dbf75002a9ad165c3" label="blank" asset="common/blank.png"/>
+  <item atlasType="0" compress="0" key="067a5ff11237bc536f4ebd0301a792f1" label="tag_female" asset="common/tag_female.png"/>
+  <item atlasType="0" compress="0" key="09195ab8edce48706f386c6eceb1da91" label="btn_green" asset="common/btn_green.png"/>
+  <item atlasType="0" compress="0" key="0d02760df54c084b8fc17ba9bf776a4a" label="img_inner" asset="common/img_inner.png" grid="18,18,18,18"/>
+  <item atlasType="0" compress="0" key="1c0ab9b0db7bced80a1c0eb2de6baa72" label="cash" asset="common/cash.png"/>
+  <item atlasType="0" compress="0" key="27a6d95d0e6bc6f8b82c58d789a5edc0" label="btn_green_min" asset="common/btn_green_min.png"/>
+  <item atlasType="0" compress="0" key="28eee743e433f5e001f19fe309e06672" label="btn_green_max" asset="common/btn_green_max.png"/>
+  <item atlasType="0" compress="0" key="298e0cf5426da280acbdced108036cab" label="btn_refuse" asset="common/btn_refuse.png"/>
+  <item atlasType="0" compress="0" key="3298b6ae1283df22704d19e62a7bf300" label="chip_2" asset="common/chip_2.png"/>
+  <item atlasType="0" compress="0" key="4839027b6b9943db046788cfa0236137" label="btn_accept" asset="common/btn_accept.png"/>
+  <item atlasType="0" compress="0" key="49765f14d5486aa285fdea6c1df99738" label="transparent" asset="common/transparent.png"/>
+  <item atlasType="0" compress="0" key="4acb0043c25ce7fe01b1489dd4a8045c" label="img_inner_2_shadow" asset="common/img_inner_2_shadow.png"/>
+  <item atlasType="0" compress="0" key="51abe7d82515dd99e51b10c4ac070ce1" label="tag_male" asset="common/tag_male.png"/>
+  <item atlasType="0" compress="0" key="554dbc2353fabfc9ab3e61837bf7b251" label="img_inner_2" asset="common/img_inner_2.png" grid="20,20,20,20"/>
+  <item atlasType="0" compress="0" key="5bce9324ef43dd1358bd1fc68e00393d" label="btn_gray" asset="common/btn_gray.png"/>
+  <item atlasType="0" compress="0" key="6cf56cb762b9f39dbd8690cc125e7a9a" label="btn_blue_big" asset="common/btn_blue_big.png"/>
+  <item atlasType="0" compress="0" key="723a68a46438c276c050c67665fb0e06" label="btn_yellow_min" asset="common/btn_yellow_min.png"/>
+  <item atlasType="0" compress="0" key="83173bafbb4d28350e9d5b9392645364" label="btn_blue" asset="common/btn_blue.png"/>
+  <item atlasType="0" compress="0" key="94f112e7f11bb40955c3e246fe0b6b75" label="white" asset="common/white.png"/>
+  <item atlasType="0" compress="0" key="afd20568c0f6fe9385c655f4235f6c62" label="male" asset="common/male.png"/>
+  <item atlasType="0" compress="0" key="b149fbf8e12277eeacf69454d66f0f1f" label="btn_yellow_big" asset="common/btn_yellow_big.png"/>
+  <item atlasType="0" compress="0" key="b22ab324fa694c07edc29f17e5ecb319" label="img_tipPoint" asset="common/img_tipPoint.png"/>
+  <item atlasType="0" compress="0" key="b4f545be6a416d6f7164d9e199381b99" label="btn_yellow" asset="common/btn_yellow.png"/>
+  <item atlasType="0" compress="0" key="d22d8aae1356ebcb66033405f3c618ca" label="btn_gray_min" asset="common/btn_gray_min.png"/>
+  <item atlasType="0" compress="0" key="d30c857a7f7d481e0728cd2aa1e540d4" label="female" asset="common/female.png"/>
+  <item atlasType="3" compress="0" key="d511d00061b6fd8ebd62559e08076ee3" label="chip_1" asset="common/chip_1.png"/>
+  <item atlasType="0" compress="0" key="e1b92199c082583cff87f448a856824f" label="btn_blue_min" asset="common/btn_blue_min.png"/>
+  <item atlasType="0" compress="0" key="f3c5e4d211dfd72fed7a2ae325827d16" label="shade" asset="common/shade.png"/>
+  <item atlasType="0" compress="0" key="fbc293978e496a82cf77252f00900c65" label="hall_roomcard_icon" asset="common/hall_roomcard_icon.png"/>
+</item>

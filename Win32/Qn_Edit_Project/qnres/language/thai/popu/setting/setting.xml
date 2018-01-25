@@ -1,0 +1,4 @@
+<item label="setting" compress="0" asset="language/thai/popu/setting" isDirectory="true">
+  <item atlasType="0" compress="0" key="6382497f00b980e62a253d8ad936e6ab" label="setg_dscSetTitle" asset="language/thai/popu/setting/setg_dscSetTitle.png"/>
+  <item atlasType="0" compress="0" key="e02a4d282e6cfb61de73700110ed383a" label="setg_dscLogout" asset="language/thai/popu/setting/setg_dscLogout.png"/>
+</item>

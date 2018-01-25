@@ -1,0 +1,1 @@
+SceneLoader.loadFuncMap[""] = SceneLoader.loadNilNode;

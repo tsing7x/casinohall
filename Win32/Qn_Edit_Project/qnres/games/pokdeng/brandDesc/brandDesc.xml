@@ -1,0 +1,5 @@
+<item label="brandDesc" asset="games/pokdeng/brandDesc" compress="0">
+  <item atlasType="0" compress="0" key="0891f5e7648bc971983a58098c916de9" label="title" asset="games/pokdeng/brandDesc/title.png"/>
+  <item atlasType="0" compress="0" key="a2560e04f3d30ec93be76b5318004c3e" label="img_bg" asset="games/pokdeng/brandDesc/img_bg.png"/>
+  <item atlasType="0" compress="0" key="e1e8a7edb58220b9afe3c65329dbbe29" label="desc" asset="games/pokdeng/brandDesc/desc.png"/>
+</item>

@@ -1,0 +1,10 @@
+<item label="bankrupt" compress="0" asset="bankrupt" isDirectory="true">
+  <item atlasType="0" compress="0" key="277c771426b45a2e18ec73310be4e0cb" label="bankruptTitle_bg" asset="bankrupt/bankruptTitle_bg.png"/>
+  <item atlasType="0" compress="0" key="291f57203a53d845db466a452f9587a5" label="btn_cancel" asset="bankrupt/btn_cancel.png"/>
+  <item atlasType="0" compress="0" key="329e6c46e517cc3aa0dee3bf3484d06a" label="img_elephant" asset="bankrupt/img_elephant.png"/>
+  <item atlasType="0" compress="0" key="457a1cd6c8f3b45ee3b57509212581d4" label="img_standUpTitle" asset="bankrupt/img_standUpTitle.png"/>
+  <item atlasType="0" compress="0" key="4c3b4c5aa933e5a7b0ea821a53a4b2a4" label="img_fansPage" asset="bankrupt/img_fansPage.png"/>
+  <item atlasType="0" compress="0" key="e8eb3c57b22810a8f87a9bb5ff5d2a0b" label="btn_confirm" asset="bankrupt/btn_confirm.png"/>
+  <item atlasType="0" compress="0" key="ea1603260f41382fbcf9008ff38b07b7" label="img_bankruptTitle" asset="bankrupt/img_bankruptTitle.png"/>
+  <item atlasType="0" compress="0" key="f52a85208707aad895798ab8cbcf4b3b" label="Item_bg" asset="bankrupt/Item_bg.png"/>
+</item>

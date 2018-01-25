@@ -1,0 +1,29 @@
+local fbFriendItem=
+{
+	name="fbFriendItem",type=0,typeName="View",time=0,x=0,y=0,width=215,height=196,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,
+	{
+		name="btn_unselect",type=1,typeName="Button",time=0,x=0,y=0,width=215,height=196,visible=1,fillParentWidth=1,fillParentHeight=1,nodeAlign=kAlignCenter,file="d567d6f7e1277e9dd660b07ef84e4ecb",
+		{
+			name="img_select",type=1,typeName="Image",time=0,x=0,y=0,width=215,height=196,visible=0,fillParentWidth=1,fillParentHeight=1,nodeAlign=kAlignCenter,file="6b2c5ae8b8adf44a01e65d917f5bf198"
+		},
+		{
+			name="icon_unselect",type=1,typeName="Image",time=0,x=10,y=10,width=41,height=41,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopRight,file="6966fdba3c49cfdc177750e00ac85dd3",
+			{
+				name="icon_select",type=1,typeName="Image",time=0,x=0,y=0,width=41,height=41,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopRight,file="popu/fbinvite/icon_select.png"
+			}
+		},
+		{
+			name="view_head",type=0,typeName="View",time=0,x=0,y=25,width=100,height=100,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTop
+		},
+		{
+			name="view_nick",type=0,typeName="View",time=0,x=0,y=0,width=200,height=62,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignBottom,
+			{
+				name="text_nick",type=4,typeName="Text",time=0,x=-5,y=0,width=44,height=27,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=24,textAlign=kAlignCenter,colorRed=255,colorGreen=255,colorBlue=255
+			},
+			{
+				name="img_sex",type=1,typeName="Image",time=0,x=0,y=0,width=50,height=50,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft,file="12f3b6f4161f82dd74f5b891d579aa69"
+			}
+		}
+	}
+}
+return fbFriendItem;

@@ -1,0 +1,5 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="596" height="31" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" isGenerateLocal="true">
+  <Image3 type="1" typeName="Image" time="0" x="0" y="29" width="596" height="2" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="214839a1b4f14b84709e45eb32a6fc46" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+  <text_title type="4" typeName="Text" time="0" x="0" y="0" width="107" height="29" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="24" textAlign="0" color="0xd78667" string="0" colorA="1"/>
+  <text_exp type="4" typeName="Text" time="0" x="109" y="0" width="487" height="29" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="24" textAlign="0" color="0xd78667" string="0" colorA="1"/>
+</root>

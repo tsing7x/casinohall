@@ -1,0 +1,15 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <bg_mainPanel type="1" typeName="Image" time="0" x="0" y="0" width="676" height="592" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="16292be0d295a909e03c8b35a7ae8734" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <btn_close type="1" typeName="Button" time="0" x="626" y="-15" width="64" height="64" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="54c13ab428bb78bd6c227abbf3c3e263" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <bg_titleBar type="1" typeName="Image" time="0" x="0" y="18" width="462" height="78" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="0955816cde24299006678b90f398faf7" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <img_dscTitle type="1" typeName="Image" time="0" x="0" y="-3" width="230" height="68" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="3312b8070c548c249a8ed4e7060268ec" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </bg_titleBar>
+    <bg_mainContDent type="1" typeName="Image" time="0" x="0" y="0" width="626" height="340" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="0e5752114d1282a519e3b2883e14c7c0" packFile="" gridLeft="10" gridRight="10" gridTop="10" gridBottom="10">
+      <tv_msgTitle type="5" typeName="TextView" time="0" x="0" y="-128" width="527" height="48" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="36" textAlign="0" color="0xfed6c3" string="MsgTitle" colorA="1"/>
+      <tv_msgCont type="5" typeName="TextView" time="0" x="0" y="36" width="578" height="242" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="26" textAlign="8" color="0xde9678" string="MsgCont" colorA="1"/>
+    </bg_mainContDent>
+    <btn_confirm type="1" typeName="Button" time="0" x="0" y="225" width="268" height="96" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="7c106df8853f81736a34a8c7ae432ca5" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+      <txt_confrim type="4" typeName="Text" time="0" x="0" y="0" width="268" height="96" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="35" textAlign="0" color="0xFFFFFF" string="Action" colorA="1"/>
+    </btn_confirm>
+  </bg_mainPanel>
+</root>

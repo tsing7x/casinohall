@@ -1,0 +1,9 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="620" height="484" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" isGenerateLocal="true">
+  <bgBtn type="1" typeName="Button" time="0" x="0" y="0" width="580" height="484" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="062f20d84c3cd87dbf75002a9ad165c3" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <img type="1" typeName="Image" time="0" x="335" y="296" width="580" height="484" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" file="046422f09ee9d08b5a060db2e00545d0" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <Image5 type="1" typeName="Image" time="0" x="0" y="15" width="206" height="64" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" file="fa20722ae04525098ea95b0af632edb6" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <Image6 type="1" typeName="Image" time="0" x="20" y="0" width="41" height="37" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="6007eb6e80d5ac8e9f579e53630f1d89" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      <countTxt type="4" typeName="Text" time="0" x="70" y="19" width="112" height="29" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="24" textAlign="0" color="0xFFFFFF" string="9999" colorA="1"/>
+    </Image5>
+  </bgBtn>
+</root>

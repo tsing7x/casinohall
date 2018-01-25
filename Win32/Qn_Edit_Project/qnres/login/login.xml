@@ -1,0 +1,12 @@
+<item label="login" compress="0" asset="login" isDirectory="true">
+  <item atlasType="0" compress="0" key="2baf42fe9af78e7120c3ebaecd86aaea" label="btn_login_vistor" asset="login/btn_login_vistor.png"/>
+  <item atlasType="0" compress="0" key="405d97a131f7a3f82d7069ded2c62e62" label="img_bg_2" asset="login/img_bg_2.png"/>
+  <item atlasType="3" compress="0" key="9bf0eda1cce69a16020a44d94a5fe888" label="img_progress_bg" asset="login/img_progress_bg.png" grid="3,3,3,3"/>
+  <item atlasType="0" compress="0" key="a0a783f0cca0ff0f7547ed3a23a47adf" label="img_bg" asset="login/img_bg.png"/>
+  <item atlasType="0" compress="0" key="a1de369ac123ad653f26e81b1ac4cc34" label="img_feedback" asset="login/img_feedback.png"/>
+  <item atlasType="0" compress="0" key="a87b1320e4cf90c72d2dfa4a39ad97a6" label="btn_login_fb" asset="login/btn_login_fb.png"/>
+  <item atlasType="0" compress="0" key="b8e66ab161e7721f8a29792342493737" label="img_loading_1" asset="login/img_loading_1.png"/>
+  <item atlasType="0" compress="0" key="c14d33b949b125a4ec905bf819392f9e" label="img_loading_2" asset="login/img_loading_2.png"/>
+  <item atlasType="3" compress="0" key="d5ee0a1ad5d123c1186badfe44131712" label="img_progress_fg" asset="login/img_progress_fg.png" grid="3,3,3,3"/>
+  <item atlasType="0" compress="0" key="f53b24f666bd5ffd359b05026dcf6878" label="fb_sub" asset="login/fb_sub.png"/>
+</item>

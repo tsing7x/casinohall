@@ -1,0 +1,32 @@
+local lobbyGameLayout2=
+{
+	name="lobbyGameLayout2",type=0,typeName="View",time=0,x=0,y=0,width=222,height=336,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,
+	{
+		name="itemBtn",type=1,typeName="Button",time=0,x=0,y=0,width=222,height=336,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,file="lobby/hall_game_item_bg1.png",gridLeft=20,gridRight=20,gridTop=20,gridBottom=20,
+		{
+			name="icon",type=1,typeName="Image",time=0,x=0,y=-42,width=176,height=144,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="lobby/hall_game_item_icon1.png"
+		},
+		{
+			name="name",type=1,typeName="Image",time=0,x=0,y=92,width=122,height=56,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="lobby/hall_game_item_name1.png"
+		},
+		{
+			name="img_hasDownload",type=1,typeName="Image",time=0,x=48,y=-116,width=70,height=71,visible=0,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="lobby/icon_download.png"
+		},
+		{
+			name="btn_chooseroom",type=1,typeName="Button",time=0,x=48,y=-116,width=76,height=76,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="lobby/hall_sel_room.png",gridLeft=20,gridRight=20,gridTop=20,gridBottom=20
+		},
+		{
+			name="view_progress",type=0,typeName="View",time=0,x=48,y=-116,width=76,height=76,visible=0,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,
+			{
+				name="text_progress",type=4,typeName="Text",time=0,x=0,y=0,width=44,height=27,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=24,textAlign=kAlignLeft,colorRed=255,colorGreen=255,colorBlue=255,string=[[Text]],colorA=1
+			}
+		},
+		{
+			name="onlineImg",type=1,typeName="Image",time=0,x=-73,y=55,width=23,height=27,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="lobby/hall_online_num.png"
+		},
+		{
+			name="onlineText",type=4,typeName="Text",time=0,x=-6,y=55,width=100,height=27,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=24,textAlign=kAlignLeft,colorRed=255,colorGreen=255,colorBlue=255,string=[[2345]],colorA=1
+		}
+	}
+}
+return lobbyGameLayout2;

@@ -1,0 +1,34 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <img_popuBg type="1" typeName="Image" time="0" x="0" y="0" width="676" height="800" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="16292be0d295a909e03c8b35a7ae8734" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <img_tabBg type="1" typeName="Image" time="0" x="0" y="25" width="430" height="70" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="2d4b4108db7411d15b74a23969b1176b" packFile="" gridLeft="40" gridRight="40" gridTop="0" gridBottom="0">
+      <btn_quickChat type="1" typeName="Button" time="0" x="5" y="0" width="204" height="62" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="304f9053424bfe5d36de2ec200dfbbdc" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+        <text_quick1 type="4" typeName="Text" time="0" x="0" y="0" width="97.15" height="27.15" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="0" color="0xFFFFFF" string="快捷聊天" colorA="1"/>
+        <img_select type="1" typeName="Image" time="0" x="0" y="0" width="204" height="62" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="3b87ac1a5f63c74fb3c54c33198d13e4" packFile="" gridLeft="40" gridRight="40" gridTop="0" gridBottom="0">
+          <text_quick2 type="4" typeName="Text" time="0" x="0" y="0" width="97.15" height="27.15" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="7" color="0xFFFFFF" string="快捷聊天" colorA="1"/>
+        </img_select>
+      </btn_quickChat>
+      <btn_record type="1" typeName="Button" time="0" x="5" y="0" width="204" height="62" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3" file="304f9053424bfe5d36de2ec200dfbbdc" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+        <text_record1 type="4" typeName="Text" time="0" x="0" y="0" width="97.15" height="27.15" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="0" color="0xFFFFFF" string="聊天记录" colorA="1"/>
+        <img_select type="1" typeName="Image" time="0" x="0" y="0" width="204" height="62" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="3b87ac1a5f63c74fb3c54c33198d13e4" packFile="" gridLeft="40" gridRight="40" gridTop="0" gridBottom="0">
+          <text_record2 type="4" typeName="Text" time="0" x="0" y="0" width="97.15" height="27.15" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="7" color="0xFFFFFF" string="聊天记录"/>
+        </img_select>
+      </btn_record>
+    </img_tabBg>
+    <view_bottom type="0" typeName="View" time="0" x="0" y="20" width="630" height="70" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5">
+      <Image15 type="1" typeName="Image" time="0" x="0" y="0" width="470" height="60" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="36cb407b46cf5b1892531a2dbfa7ec0b" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+        <et_content type="6" typeName="EditText" time="0" x="0" y="0" width="470" height="60" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="0" fontName="" fontSize="24" textAlign="7" color="0xFFFFFF" colorA="1"/>
+      </Image15>
+      <btn_send type="1" typeName="Button" time="0" x="0" y="0" width="150" height="58" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3" file="f1fd1d51ef9ab5d377ce1942fae2c16a" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+        <text_btn type="4" typeName="Text" time="0" x="0" y="0" width="48.55" height="27.15" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="7" color="0xFFFFFF" string="发送" colorA="1"/>
+      </btn_send>
+    </view_bottom>
+    <img_frameBg type="1" typeName="Image" time="0" x="0" y="90" width="620" height="600" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" file="0e5752114d1282a519e3b2883e14c7c0" packFile="" gridLeft="10" gridRight="10" gridTop="10" gridBottom="10">
+      <view_quick type="0" typeName="View" time="0" x="-5" y="600" width="620" height="600" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="0">
+        <sv_quickChat type="0" typeName="ScrollView" time="0" x="0" y="0" width="620" height="600" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="0"/>
+      </view_quick>
+      <view_record type="0" typeName="View" time="0" x="-28" y="-110" width="620" height="600" visible="false" fillParentWidth="true" fillParentHeight="true" nodeAlign="0">
+        <sv_record type="0" typeName="ScrollView" time="0" x="0" y="0" width="620" height="600" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="0"/>
+      </view_record>
+    </img_frameBg>
+  </img_popuBg>
+</root>

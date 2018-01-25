@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <WebView
+        android:id="@+id/huodong_webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/layy10"
+        android:layout_marginLeft="@dimen/layx25"
+        android:layout_marginRight="@dimen/layx25"
+        android:background="@android:color/transparent"
+        android:hardwareAccelerated="false"
+        android:imeOptions="actionDone"
+        android:layerType="software" />
+
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="@dimen/layx90"
+        android:layout_height="@dimen/layy126"
+        android:layout_marginLeft="@dimen/layx27"
+        android:layout_marginTop="@dimen/layy9"
+        android:background="@drawable/activity_back_selector" />
+
+    <ImageView
+        android:id="@+id/scenc_left_decorate"
+        android:layout_width="@dimen/layx80"
+        android:layout_height="@dimen/layy394"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/scenc_left_decorate" />
+
+    <ImageView
+        android:id="@+id/scenc_right_decorate2"
+        android:layout_width="@dimen/layx52"
+        android:layout_height="@dimen/layy148"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/layy20"
+        android:layout_marginTop="@dimen/layx15"
+        android:src="@drawable/scenc_right_decorate2" />
+
+    <ImageView
+        android:id="@+id/scenc_right_decorate"
+        android:layout_width="@dimen/layx64"
+        android:layout_height="@dimen/layy194"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/scenc_right_decorate" />
+
+</RelativeLayout><!-- From: file:/F:/gitWork/CasinoHall/android/app/src/main/res/layout/activities.xml -->

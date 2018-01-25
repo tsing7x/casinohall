@@ -1,0 +1,15 @@
+<item label="msg" compress="0" asset="msg" isDirectory="true">
+  <item atlasType="0" compress="0" key="07e1660dc044c22fdb8dbb9d2291e9dc" label="title01" asset="msg/title01.png"/>
+  <item atlasType="0" compress="0" key="1597da2bb7b8593514a8cb8f113554bb" label="star" asset="msg/star.png"/>
+  <item atlasType="0" compress="0" key="34c6a3597cc9e8d4ea4084e0b7eb3343" label="award" asset="msg/award.png"/>
+  <item atlasType="0" compress="0" key="42f22b880cb8a726d19e9ba1968c4b54" label="msg_bg" asset="msg/msg_bg.png" grid="10,10,10,10"/>
+  <item atlasType="0" compress="0" key="47dc5d0295c04e3259aab623e92bdedf" label="gold" asset="msg/gold.png"/>
+  <item atlasType="0" compress="0" key="6c5ac7b3a081839b499da21323e14a16" label="getaward" asset="msg/getaward.png"/>
+  <item atlasType="0" compress="0" key="74c5e81b2a2c3115493064c1d980f693" label="Props" asset="msg/Props.png"/>
+  <item atlasType="0" compress="0" key="75c685ddc23860a7d620d7ad42a9a6bb" label="btn_confirm" asset="msg/btn_confirm.png"/>
+  <item atlasType="0" compress="0" key="ad3cf4cfe2197f8690428a507ba490ca" label="getawards" asset="msg/getawards.png"/>
+  <item atlasType="0" compress="0" key="c3c6a067c775130918216c955e29e2f3" label="title02" asset="msg/title02.png"/>
+  <item atlasType="0" compress="0" key="d20e6b318f38e4f9ed0dfdfce4bfa82a" label="pic01" asset="msg/pic01.png"/>
+  <item atlasType="0" compress="0" key="f148fd268f647a2f7cf2cb46b1e52f92" label="SysMsgTitle" asset="msg/SysMsgTitle.png"/>
+  <item atlasType="0" compress="0" key="f22eb49853fb6356b9ce9640450efcbe" label="chip" asset="msg/chip.png"/>
+</item>

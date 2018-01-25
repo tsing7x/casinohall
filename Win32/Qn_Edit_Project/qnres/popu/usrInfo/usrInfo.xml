@@ -1,0 +1,34 @@
+<item label="usrInfo" compress="0" asset="popu/usrInfo" isDirectory="true">
+  <item atlasType="0" compress="0" key="07758ef45f98e60c10408a27cce60055" label="usrInfo_bgUsrHead" asset="popu/usrInfo/usrInfo_bgUsrHead.png"/>
+  <item atlasType="0" compress="0" key="0c3385fd75db9af7ebde83709e880dd3" label="usrInfo_prgFillerExp" asset="popu/usrInfo/usrInfo_prgFillerExp.png"/>
+  <item atlasType="0" compress="0" key="1aafee69e937599a3a33536906884240" label="usrInfo_decGameInfoArroeDown" asset="popu/usrInfo/usrInfo_decGameInfoArroeDown.png"/>
+  <item atlasType="0" compress="0" key="2595f81bf9ccf66a2fc8c32710afe3c6" label="usrInfo_icChip" asset="popu/usrInfo/usrInfo_icChip.png"/>
+  <item atlasType="0" compress="0" key="2a2a4c19004089dd3b6a9e6a0ec34836" label="usrInfo_bgEdtInputLayer" asset="popu/usrInfo/usrInfo_bgEdtInputLayer.png"/>
+  <item atlasType="0" compress="0" key="2bacb14fa88d99aff54b88c4a496292f" label="usrInfo_icGallery" asset="popu/usrInfo/usrInfo_icGallery.png"/>
+  <item atlasType="0" compress="0" key="331afca23ebb8e2fcf36c593125d6dcf" label="usrInfo_btnQExp" asset="popu/usrInfo/usrInfo_btnQExp.png"/>
+  <item atlasType="0" compress="0" key="448947a83354db8811c1632d7e137175" label="usrInfo_icItemGame" asset="popu/usrInfo/usrInfo_icItemGame.png"/>
+  <item atlasType="0" compress="0" key="510ba81794750ad74d5cb86416ee7d0b" label="usrInfo_icCash" asset="popu/usrInfo/usrInfo_icCash.png"/>
+  <item atlasType="0" compress="0" key="59bf16734860189a8e794b9ec086e84e" label="usrInfo_btnTabIdx1_sel" asset="popu/usrInfo/usrInfo_btnTabIdx1_sel.png"/>
+  <item atlasType="0" compress="0" key="5b52ff8cb53dbe05f5db7ec8443d6452" label="usrInfo_rdBtnSexSel" asset="popu/usrInfo/usrInfo_rdBtnSexSel.png"/>
+  <item atlasType="0" compress="0" key="5bb048b1421b23e38d1e6766e5ce0ddd" label="usrInfo_icCamera" asset="popu/usrInfo/usrInfo_icCamera.png"/>
+  <item atlasType="0" compress="0" key="60a64004659bd1b3f554bca3e9390b8b" label="usrInfo_icAlertPen" asset="popu/usrInfo/usrInfo_icAlertPen.png"/>
+  <item atlasType="0" compress="0" key="61b2e51617f48aa02a26df7b5eb786b4" label="usrInfo_btnRewBox" asset="popu/usrInfo/usrInfo_btnRewBox.png"/>
+  <item atlasType="0" compress="0" key="661272dcb3346828496bfce10a96fece" label="usrInfo_btnQPropItem" asset="popu/usrInfo/usrInfo_btnQPropItem.png"/>
+  <item atlasType="0" compress="0" key="6dad8ddad0d6506ae585b3c82e90c05a" label="usrInfo_btnTabIdx2_nor" asset="popu/usrInfo/usrInfo_btnTabIdx2_nor.png"/>
+  <item atlasType="0" compress="0" key="7a344ca92a3c654e9eb55f6a672665fc" label="usrInfo_btnAddCurrency" asset="popu/usrInfo/usrInfo_btnAddCurrency.png"/>
+  <item atlasType="0" compress="0" key="7b70d6870676cb23d3f461df31122f70" label="usrInfo_btnAlertHead" asset="popu/usrInfo/usrInfo_btnAlertHead.png"/>
+  <item atlasType="0" compress="0" key="9478e5cdefab3fb57ccaa0726e62cf40" label="usrInfo_icFemale" asset="popu/usrInfo/usrInfo_icFemale.png"/>
+  <item atlasType="0" compress="0" key="97fa63e0a6e1c66b996d78e6336869fe" label="usrInfo_btnTabIdx1_nor" asset="popu/usrInfo/usrInfo_btnTabIdx1_nor.png"/>
+  <item atlasType="0" compress="0" key="9aa4638d98bb5a19bb65cbae5586cb03" label="usrInfo_bgTip" asset="popu/usrInfo/usrInfo_bgTip.png"/>
+  <item atlasType="0" compress="0" key="9cfcb8be12f239c8649824620b0ddcaf" label="usrInfo_bgPropItem" asset="popu/usrInfo/usrInfo_bgPropItem.png"/>
+  <item atlasType="0" compress="0" key="a356f0151b402973fa1ea67a26ba817c" label="usrInfo_prgLayerExp" asset="popu/usrInfo/usrInfo_prgLayerExp.png"/>
+  <item atlasType="0" compress="0" key="adadef1cdc227bb56d13f3e005515a80" label="usrInfo_btnTabIdx2_sel" asset="popu/usrInfo/usrInfo_btnTabIdx2_sel.png"/>
+  <item atlasType="0" compress="0" key="bb86e374b25414587210f352fe20be99" label="usrInfo_bgDentGameInfo" asset="popu/usrInfo/usrInfo_bgDentGameInfo.png"/>
+  <item atlasType="0" compress="0" key="bd1e9e71bcdc5727d6af30c7f12c799c" label="usrInfo_icPropDef" asset="popu/usrInfo/usrInfo_icPropDef.png"/>
+  <item atlasType="0" compress="0" key="c8aa01bd50bf9a864791bef0021a0aba" label="usrInfo_rdBtnSexUnSel" asset="popu/usrInfo/usrInfo_rdBtnSexUnSel.png"/>
+  <item atlasType="0" compress="0" key="d1d918b0fd62ea7a9a438f2cc4e85c1b" label="usrInfo_decInfoDivLine" asset="popu/usrInfo/usrInfo_decInfoDivLine.png"/>
+  <item atlasType="0" compress="0" key="d87a6ce7292947ec8f947c5ee5ef5a53" label="usrInfo_decTipArrowDown" asset="popu/usrInfo/usrInfo_decTipArrowDown.png"/>
+  <item atlasType="0" compress="0" key="ed946cbcef836f84586d5bcdb76a8092" label="usrInfo_decUsrPepInfoDivLine" asset="popu/usrInfo/usrInfo_decUsrPepInfoDivLine.png"/>
+  <item atlasType="0" compress="0" key="eda7c9a2a8a0024057b7d2e184cd6d67" label="usrInfo_btnHeadImgChange" asset="popu/usrInfo/usrInfo_btnHeadImgChange.png"/>
+  <item atlasType="0" compress="0" key="ffd332aef3c0fb504dcb3c88a17518c3" label="usrInfo_icMale" asset="popu/usrInfo/usrInfo_icMale.png"/>
+</item>

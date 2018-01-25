@@ -1,0 +1,5 @@
+<item label="record" asset="popu/shop/record" compress="0">
+  <item atlasType="0" compress="0" key="33f5c9b99ba76e6d0be59f955f5dfc62" label="2" asset="popu/shop/record/2.png"/>
+  <item atlasType="0" compress="0" key="b0f58291abcfda2943af4c188db26aee" label="3" asset="popu/shop/record/3.png"/>
+  <item atlasType="0" compress="0" key="b15f85c720870c2c5723c2b93d21f39e" label="1" asset="popu/shop/record/1.png"/>
+</item>

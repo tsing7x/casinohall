@@ -1,0 +1,67 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="7" isGenerateLocal="true">
+  <img_popuBg type="1" typeName="Image" time="0" x="0" y="40" width="720" height="1051" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="4e64898e6008920d9b60f2845af63955" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <title_bg type="1" typeName="Image" time="0" x="0" y="-7" width="462" height="78" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="0955816cde24299006678b90f398faf7" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <img_title type="1" typeName="Image" time="0" x="0" y="-6" width="123" height="50" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="1d7ea324d6f72a916b319ab45f3e9d76" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </title_bg>
+    <btn_bg type="1" typeName="Image" time="0" x="0" y="-34" width="622" height="795" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="709062890526db913618dc9724ca1021" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <inputBg type="1" typeName="Image" time="0" x="43" y="55" width="536" height="103" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="0d734b705319e980fd1b147fa1fadcaa" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+        <divide1 type="1" typeName="Image" time="0" x="89" y="0" width="2" height="89" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="c25ea187af40cb4391e402786a622eed" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <divide2 type="1" typeName="Image" time="0" x="178" y="0" width="2" height="89" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="c25ea187af40cb4391e402786a622eed" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <divide3 type="1" typeName="Image" time="0" x="267" y="0" width="2" height="89" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="c25ea187af40cb4391e402786a622eed" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <divide4 type="1" typeName="Image" time="0" x="356" y="0" width="2" height="89" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="c25ea187af40cb4391e402786a622eed" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <divide5 type="1" typeName="Image" time="0" x="445" y="0" width="2" height="89" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="c25ea187af40cb4391e402786a622eed" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <viewNum type="0" typeName="View" time="0" x="-42" y="-27" width="1" height="1" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0">
+          <num1 type="1" typeName="Image" time="0" x="-182" y="34" width="25" height="33" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="d1b7dc3fb11e5ba814370a84dc794895" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+          <num2 type="1" typeName="Image" time="0" x="-92" y="34" width="25" height="33" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="d1b7dc3fb11e5ba814370a84dc794895" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+          <num3 type="1" typeName="Image" time="0" x="-2" y="34" width="25" height="33" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="d1b7dc3fb11e5ba814370a84dc794895" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+          <num4 type="1" typeName="Image" time="0" x="88" y="34" width="25" height="33" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="d1b7dc3fb11e5ba814370a84dc794895" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+          <num5 type="1" typeName="Image" time="0" x="178" y="34" width="25" height="33" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="d1b7dc3fb11e5ba814370a84dc794895" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+          <num6 type="1" typeName="Image" time="0" x="268" y="34" width="25" height="33" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="d1b7dc3fb11e5ba814370a84dc794895" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </viewNum>
+      </inputBg>
+      <tip type="4" typeName="Text" time="0" x="50" y="170" width="242.85" height="46" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="24" textAlign="7" color="0x727273" string="房号在游戏牌桌上查看" colorA="1"/>
+      <viewBtn type="0" typeName="View" time="0" x="0" y="29" width="100" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0">
+        <btnNum1 type="1" typeName="Button" time="0" x="-181" y="-132" width="173" height="116" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9e1b3a1bbe163f24bfc9297826ec9776" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <img type="1" typeName="Image" time="0" x="0" y="0" width="17" height="43" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="2672ad0acd85c10faaf82c8bb0a3f3ab" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btnNum1>
+        <btnNum2 type="1" typeName="Button" time="0" x="0" y="-132" width="173" height="116" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9e1b3a1bbe163f24bfc9297826ec9776" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <img type="1" typeName="Image" time="0" x="0" y="0" width="30" height="44" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="afdf0f48cd1634dde2609651efd7b616" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btnNum2>
+        <btnNum3 type="1" typeName="Button" time="0" x="181" y="-132" width="173" height="116" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9e1b3a1bbe163f24bfc9297826ec9776" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <img type="1" typeName="Image" time="0" x="0" y="0" width="30" height="45" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="aaf878348b0ba803f9748503208f9202" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btnNum3>
+        <btnNum4 type="1" typeName="Button" time="0" x="-181" y="-8" width="173" height="116" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9e1b3a1bbe163f24bfc9297826ec9776" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <img type="1" typeName="Image" time="0" x="0" y="0" width="33" height="44" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="7aa49b4b82c7c9e7a8e7d603022cd514" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btnNum4>
+        <btnNum5 type="1" typeName="Button" time="0" x="0" y="-8" width="173" height="116" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9e1b3a1bbe163f24bfc9297826ec9776" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <img type="1" typeName="Image" time="0" x="0" y="0" width="29" height="44" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="82446c8c85e0a383033fa5c7838ee773" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btnNum5>
+        <btnNum6 type="1" typeName="Button" time="0" x="181" y="-8" width="173" height="116" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9e1b3a1bbe163f24bfc9297826ec9776" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <img type="1" typeName="Image" time="0" x="0" y="0" width="31" height="45" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="11b2f1772d38bb9a6d1fba78a0954807" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btnNum6>
+        <btnNum7 type="1" typeName="Button" time="0" x="-181" y="116" width="173" height="116" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9e1b3a1bbe163f24bfc9297826ec9776" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <img type="1" typeName="Image" time="0" x="0" y="0" width="31" height="43" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="4c2fdf4bc08f2ad0e2a21af2456d88d8" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btnNum7>
+        <btnNum8 type="1" typeName="Button" time="0" x="0" y="116" width="173" height="116" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9e1b3a1bbe163f24bfc9297826ec9776" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <img type="1" typeName="Image" time="0" x="0" y="0" width="30" height="45" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="a3b934cc6be27322a03955c3c1332234" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btnNum8>
+        <btnNum9 type="1" typeName="Button" time="0" x="181" y="116" width="173" height="116" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9e1b3a1bbe163f24bfc9297826ec9776" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <img type="1" typeName="Image" time="0" x="0" y="0" width="31" height="45" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="87bc01e5153c32537ca6d20b7a4a2eac" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btnNum9>
+        <btnNum0 type="1" typeName="Button" time="0" x="-181" y="240" width="173" height="116" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9e1b3a1bbe163f24bfc9297826ec9776" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <img type="1" typeName="Image" time="0" x="0" y="0" width="32" height="45" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="eb758a436650fa4b332d385fd11a61ea" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btnNum0>
+        <btnNumC type="1" typeName="Button" time="0" x="0" y="240" width="173" height="116" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9e1b3a1bbe163f24bfc9297826ec9776" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <img type="1" typeName="Image" time="0" x="0" y="0" width="57" height="32" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="48126deb1abe15a25cc78739e76f0df4" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btnNumC>
+        <btnNumD type="1" typeName="Button" time="0" x="181" y="240" width="173" height="116" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9e1b3a1bbe163f24bfc9297826ec9776" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <img type="1" typeName="Image" time="0" x="0" y="0" width="51" height="28" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="8f46a43ebf7399d59ee338b00d0dc4db" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btnNumD>
+      </viewBtn>
+    </btn_bg>
+    <btn_confirm type="1" typeName="Button" time="0" x="0" y="424" width="262" height="91" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="7c106df8853f81736a34a8c7ae432ca5" file2="" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+      <text_enterRoom type="4" typeName="Text" time="0" x="0" y="0" width="182" height="51" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="44" textAlign="0" color="0xFFFFFF" string="进入房间" colorA="1"/>
+    </btn_confirm>
+    <btn_close type="1" typeName="Button" time="0" x="319" y="-490" width="73" height="74" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="54c13ab428bb78bd6c227abbf3c3e263" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+  </img_popuBg>
+</root>

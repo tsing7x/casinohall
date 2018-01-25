@@ -1,0 +1,33 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <img_guang type="1" typeName="Image" time="0" x="0" y="0" width="720" height="1081" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="6e32c5a1e7fc88b7a18c4bef3a4c3d00" packFile="" gridLeft="10" gridRight="10" gridTop="10" gridBottom="10"/>
+  <view_wheel type="0" typeName="View" time="0" x="0" y="0" width="584" height="584" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0">
+    <img_bg type="1" typeName="Image" time="0" x="0" y="0" width="673" height="672" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="2c27b3fee91aad47c6edc31a82343f06" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <img_wheel type="1" typeName="Image" time="0" x="0" y="0" width="584" height="584" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="b1b2e808f914113ceab5adb7cc336bc4" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <view_reward type="0" typeName="View" time="0" x="0" y="0" width="584" height="584" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0"/>
+    </img_wheel>
+    <img_select type="1" typeName="Image" time="0" x="0" y="-18" width="185" height="322" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="f280556d26d3a9dbdccb729d7b739b38" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <btn_confirm type="1" typeName="Button" time="0" x="0" y="-16" width="210" height="243" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="062f20d84c3cd87dbf75002a9ad165c3" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <img_btn type="1" typeName="Image" time="0" x="0" y="0" width="210" height="243" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="87de9cbb65997ce854ebb3e55fe470f4" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      <view_normal type="1" typeName="Image" time="0" x="0" y="14" width="114" height="94" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9a0edc7634dfc4237426a9df4e19464f" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      <view_vip type="0" typeName="View" time="0" x="0" y="0" width="210" height="243" visible="false" fillParentWidth="true" fillParentHeight="true" nodeAlign="0">
+        <img_price type="1" typeName="Image" time="0" x="0" y="91" width="128" height="54" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="383cd03280f076af0b4671eeb50cc0ed" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <text_tip type="4" typeName="Text" time="0" x="0" y="50" width="114.3" height="35" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" fontName="" fontSize="28" textAlign="0" color="0xFFFFFF" string="每日一次"/>
+      </view_vip>
+    </btn_confirm>
+    <img_title type="1" typeName="Image" time="0" x="0" y="-311" width="403" height="117" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9d10e842c93137cd3f18372289bbd3a3" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <btn_close type="1" typeName="Button" time="0" x="571" y="-57" width="71" height="72" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="2b3b3c24c37215e8d2d5d35253311512" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+    <img_btn_disnable type="1" typeName="Image" time="0" x="0" y="-16" width="210" height="243" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="ed60798bcbcc21d05832f6b130e6a1c4" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+  </view_wheel>
+  <view_tip_vip type="0" typeName="View" time="0" x="0" y="158" width="100" height="100" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="5">
+    <Image19 type="1" typeName="Image" time="0" x="0" y="0" width="599" height="111" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="50f3333794657505386ad01dbd5c9f71" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <text_vip_tip type="4" typeName="Text" time="0" x="0" y="0" width="120" height="37.5" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="30" textAlign="0" color="0xFFFFFF" string="转盘奖励" colorA="1">
+      <text_vip_level type="4" typeName="Text" time="0" x="-88" y="0" width="79" height="37.5" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="30" textAlign="7" color="0x00ffff" string="VIP 1:" colorA="1"/>
+      <text_vip_add type="4" typeName="Text" time="0" x="-86" y="0" width="78.35" height="37.5" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3" fontName="" fontSize="30" textAlign="7" color="0x00ffff" string="+20%" colorA="1"/>
+    </text_vip_tip>
+  </view_tip_vip>
+  <btn_shadow type="1" typeName="Button" time="0" x="71" y="1061" width="720" height="1280" visible="false" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" file="304f9053424bfe5d36de2ec200dfbbdc" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <Image24 type="1" typeName="Image" time="0" x="0" y="0" width="720" height="467" visible="true" fillParentWidth="true" fillParentHeight="false" nodeAlign="0" file="9aa98af3b48fc10657ec63981c2faef6" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <result_text type="4" typeName="Text" time="0" x="0" y="-170" width="366" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="42" textAlign="0" color="0x49dfff" string="恭喜你获得30K筹码" colorA="1"/>
+    <icon type="1" typeName="Image" time="0" x="0" y="0" width="243" height="247" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9de24eab703d10f5fc5faa43a66ef77d" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+  </btn_shadow>
+</root>

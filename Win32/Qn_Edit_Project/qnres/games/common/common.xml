@@ -1,0 +1,35 @@
+<item label="common" compress="0" asset="games/common" isDirectory="true">
+  <item atlasType="0" compress="0" key="00490cbd52c067f54f0fb914f5036d92" label="btn_detail" asset="games/common/btn_detail.png"/>
+  <item atlasType="0" compress="0" key="03f6ed50df188f4148d57cb42ef59532" label="img_counter_2" asset="games/common/img_counter_2.png"/>
+  <item atlasType="0" compress="0" key="05b3ee74aae22bda50afb8e054073827" label="img_sitdown" asset="games/common/img_sitdown.png"/>
+  <item atlasType="0" compress="0" key="11105b2f5fa148df7b1e91770597fb0d" label="img_chip_bg" asset="games/common/img_chip_bg.png"/>
+  <item atlasType="0" compress="0" key="38a4c64f6786092a8399802c70b424c4" label="img_pointer" asset="games/common/img_pointer.png"/>
+  <item atlasType="0" compress="0" key="38fedb6e9c01538b63fda96f697c7135" label="tag_win2" asset="games/common/tag_win2.png"/>
+  <item atlasType="0" compress="0" key="3e5778755029a5a58fbb6b506f3c93b0" label="btn_chat" asset="games/common/btn_chat.png"/>
+  <item atlasType="0" compress="0" key="481a5fb98409227a65d2d336f3370128" label="img_clockBg" asset="games/common/img_clockBg.png"/>
+  <item atlasType="0" compress="0" key="489495e91577c8c181e3d7594a6aba98" label="img_cardDealer_card" asset="games/common/img_cardDealer_card.png"/>
+  <item atlasType="0" compress="0" key="4c2c4b40ec4619772a34b542d5c8facc" label="img_battry_bg" asset="games/common/img_battry_bg.png"/>
+  <item atlasType="0" compress="0" key="513a771b9e81d5035afd83f2dc6232e5" label="tag_banker" asset="games/common/tag_banker.png"/>
+  <item atlasType="0" compress="0" key="524d642ddfd5e39ab12ae7cf9f84dfc8" label="img_headInfo_bg" asset="games/common/img_headInfo_bg.png"/>
+  <item atlasType="0" compress="0" key="5c4270a5645ca6220833865b95c3035a" label="img_waitNextRound_bg" asset="games/common/img_waitNextRound_bg.png"/>
+  <item atlasType="0" compress="0" key="72370e39521f36535b3bdbad117eda88" label="WiFi" asset="games/common/WiFi.png"/>
+  <item atlasType="0" compress="0" key="75ced87a0e98cd70bda8483774d044da" label="img_counter" asset="games/common/img_counter.png"/>
+  <item atlasType="0" compress="0" key="83ef858bb49b033aa3ca16d60a20c0c6" label="btn_face" asset="games/common/btn_face.png"/>
+  <item atlasType="0" compress="0" key="8b7d05cb016b438c1c6d9b40a3746542" label="img_gift" asset="games/common/img_gift.png"/>
+  <item atlasType="0" compress="0" key="a3bd65f8bbd5eaec4b84d761ea98c79b" label="img_headBg" asset="games/common/img_headBg.png"/>
+  <item atlasType="0" compress="0" key="a47e3c81eb2fff935d5321574db1ee41" label="img_tableChip" asset="games/common/img_tableChip.png"/>
+  <item atlasType="0" compress="0" key="b8e58fe616c7dee51105f2d5eae88605" label="img_cardDealer_up" asset="games/common/img_cardDealer_up.png"/>
+  <item atlasType="0" compress="0" key="c25327e18d95f4ff4ea783e705507e24" label="btn_help" asset="games/common/btn_help.png"/>
+  <item atlasType="0" compress="0" key="c5f017b3e919aeaf8bfca3cc511180ef" label="img_fee" asset="games/common/img_fee.png"/>
+  <item atlasType="0" compress="0" key="c952b9e3c03ca4d05bdcdd9aae92a75b" label="img_cardDealer_down" asset="games/common/img_cardDealer_down.png"/>
+  <item atlasType="0" compress="0" key="caa94c18c4a2c7a06497aabb35d1fef2" label="img_roomCard" asset="games/common/img_roomCard.png"/>
+  <item atlasType="0" compress="0" key="cd0fbcbb6346e00acc8c44d49da5979b" label="tag_gift" asset="games/common/tag_gift.png"/>
+  <item atlasType="0" compress="0" key="d15fdb99b1a4295c078f46fae6e238c1" label="head_mask" asset="games/common/head_mask.png"/>
+  <item atlasType="0" compress="0" key="d41728cb20ec7f8b3805262f37ffdba1" label="img_battry" asset="games/common/img_battry.png"/>
+  <item atlasType="0" compress="0" key="d59c9e8363f3c3c8e580e1714a3117e9" label="btn_feedback" asset="games/common/btn_feedback.png"/>
+  <item atlasType="0" compress="0" key="d624e8390c87e03c12c9bb98cfc62aea" label="btn_addchip" asset="games/common/btn_addchip.png"/>
+  <item atlasType="0" compress="0" key="e5eba3ab1a0c66b2be5ed2587df8e45d" label="img_broadcast_bg" asset="games/common/img_broadcast_bg.png"/>
+  <item atlasType="0" compress="0" key="effca3b987a7fe2de7e10f206829fd56" label="tag_win" asset="games/common/tag_win.png"/>
+  <item atlasType="0" compress="0" key="fe5b1576602aecdbab894d4acfb6ea0e" label="btn_back" asset="games/common/btn_back.png"/>
+  <item atlasType="0" compress="0" key="ff4ebbe9086063201bc6cdae5dd29198" label="dealer" asset="games/common/dealer.png"/>
+</item>

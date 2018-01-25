@@ -1,0 +1,13 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="0" isGenerateLocal="true">
+  <img_popuBg type="1" typeName="Image" time="0" x="0" y="0" width="676" height="472" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="ec996085542463294b700f69d24a2278" packFile="" gridLeft="50" gridRight="50" gridTop="50" gridBottom="50">
+    <text_title type="4" typeName="Text" time="0" x="-2" y="57" width="176" height="51" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" fontName="" fontSize="44" textAlign="1" color="0xFFFFFF" string="弹窗标题" colorA="1"/>
+    <btn_left type="1" typeName="Button" time="0" x="-160" y="132" width="241" height="104" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="5099f42efce070e834dff1bea7511cbd" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+      <text_left type="4" typeName="Text" time="0" x="0" y="0" width="100" height="57" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="50" textAlign="0" color="0xFFFFFF" string="取消" colorA="1"/>
+    </btn_left>
+    <btn_right type="1" typeName="Button" time="0" x="162" y="132" width="241" height="104" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="7c106df8853f81736a34a8c7ae432ca5" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20" file2="">
+      <text_right type="4" typeName="Text" time="0" x="0" y="0" width="100" height="57" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="50" textAlign="0" color="0xFFFFFF" string="确定"/>
+    </btn_right>
+    <btn_close type="1" typeName="Button" time="0" x="618" y="-7" width="60" height="63" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="54c13ab428bb78bd6c227abbf3c3e263" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+    <text_content type="5" typeName="TextView" time="0" x="2" y="-39" width="577" height="165" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="36" textAlign="0" color="0x33ff00" string="弹窗内容" colorA="1"/>
+  </img_popuBg>
+</root>

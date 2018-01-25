@@ -1,0 +1,5 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="104" height="84" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" isGenerateLocal="true">
+  <friHeadImg type="1" typeName="Image" time="0" x="0" y="0" width="84" height="84" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="be79e70e349fc4de5e15ed40383c1b33" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+  <hallInlineImg type="1" typeName="Image" time="0" x="55" y="0" width="18" height="18" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="2fc2b55f7485594151c29c8ed3b36b18" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+  <hallOfflineImg type="1" typeName="Image" time="0" x="55" y="0" width="18" height="18" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="c67a620ff68be3731b6c54cfd43dbc4c" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+</root>

@@ -1,0 +1,44 @@
+local changeNickPopu=
+{
+	name="changeNickPopu",type=0,typeName="View",time=0,x=0,y=0,width=720,height=1280,visible=1,fillParentWidth=1,fillParentHeight=1,nodeAlign=kAlignCenter,
+	{
+		name="img_bgPanel",type=1,typeName="Image",time=0,x=0,y=0,width=720,height=441,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="popu/v210/bg_small.png",
+		{
+			name="img_decBgTitle",type=1,typeName="Image",time=0,x=0,y=-191,width=527,height=74,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="popu/v210/img_title_2.png",
+			{
+				name="img_dscTitle",type=1,typeName="Image",time=0,x=0,y=-3,width=183,height=51,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="language/thai/popu/usrInfo/usrInfo_dscTitleNameSexChange.png"
+			}
+		},
+		{
+			name="btn_close",type=1,typeName="Button",time=0,x=613,y=-29,width=113,height=110,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,file="popu/v210/closebtn_ .png"
+		},
+		{
+			name="img_bgUsrNameEtv",type=1,typeName="Image",time=0,x=0,y=-84,width=565,height=82,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="popu/usrInfo/usrInfo_bgEdtInputLayer.png",
+			{
+				name="etv_usrNameAlert",type=7,typeName="EditTextView",time=0,x=0,y=0,width=552,height=72,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=26,textAlign=kAlignLeft,colorRed=187,colorGreen=186,colorBlue=186,colorA=1
+			}
+		},
+		{
+			name="rdBtnGp_usrSexSel",type=0,typeName="RadioButtonGroup",time=0,x=0,y=10,width=570,height=60,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,stageW=0,
+			{
+				name="rdBtn_usrSex1",type=0,typeName="RadioButton",time=0,x=56,y=0,width=54,height=54,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft,file="popu/usrInfo/usrInfo_rdBtnSexUnSel.png",file2="popu/usrInfo/usrInfo_rdBtnSexSel.png"
+			},
+			{
+				name="rdBtn_usrSex2",type=0,typeName="RadioButton",time=0,x=0,y=0,width=54,height=54,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignRight,file="popu/usrInfo/usrInfo_rdBtnSexUnSel.png",file2="popu/usrInfo/usrInfo_rdBtnSexSel.png"
+			}
+		},
+		{
+			name="img_icFemale",type=1,typeName="Image",time=0,x=200,y=9,width=41,height=41,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="popu/usrInfo/usrInfo_icFemale.png"
+		},
+		{
+			name="img_icMale",type=1,typeName="Image",time=0,x=-260,y=9,width=41,height=41,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="popu/usrInfo/usrInfo_icMale.png"
+		},
+		{
+			name="btn_commit",type=1,typeName="Button",time=0,x=0,y=64,width=252,height=84,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignBottom,file="popu/v210/btn_green.png",gridLeft=35,gridRight=35,gridTop=30,gridBottom=30,
+			{
+				name="txt_action",type=4,typeName="Text",time=0,x=0,y=0,width=240,height=76,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=36,textAlign=kAlignCenter,colorRed=255,colorGreen=255,colorBlue=255,string=[[Action]],colorA=1
+			}
+		}
+	}
+}
+return changeNickPopu;

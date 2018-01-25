@@ -1,0 +1,4 @@
+<item label="login" compress="0" asset="language/english/login" isDirectory="true">
+  <item atlasType="0" compress="0" key="0d16df5dc387107b9f999a4e4826e70a" label="btn_login_vistor" asset="language/english/login/btn_login_vistor.png"/>
+  <item atlasType="0" compress="0" key="9f17cdc7ee5c8fa4ce15939915f85683" label="btn_login_fb" asset="language/english/login/btn_login_fb.png"/>
+</item>

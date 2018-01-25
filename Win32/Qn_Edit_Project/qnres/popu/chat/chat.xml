@@ -1,0 +1,8 @@
+<item label="chat" compress="0" asset="popu/chat" isDirectory="true">
+  <item atlasType="0" compress="0" key="0aed3510ac2d50b014b6c471e78b49ad" label="frame_head" asset="popu/chat/frame_head.png"/>
+  <item atlasType="0" compress="0" key="36cb407b46cf5b1892531a2dbfa7ec0b" label="input_bg" asset="popu/chat/input_bg.png" grid="20,20,20,20"/>
+  <item atlasType="0" compress="0" key="6033d0ea918561da3a3ad2fcbe01b4a4" label="mask" asset="popu/chat/mask.png"/>
+  <item atlasType="0" compress="0" key="d68d5f31486b3abcc8543cb8621ff41f" label="frame_other" asset="popu/chat/frame_other.png" grid="20,10,40,10"/>
+  <item atlasType="0" compress="0" key="dccaf2cf7944310417bfc4473cc0af8a" label="word_bg" asset="popu/chat/word_bg.png" grid="10,10,10,10"/>
+  <item atlasType="0" compress="0" key="f1fd1d51ef9ab5d377ce1942fae2c16a" label="btn_send" asset="popu/chat/btn_send.png"/>
+</item>

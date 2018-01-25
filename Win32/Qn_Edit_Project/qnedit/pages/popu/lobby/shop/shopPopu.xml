@@ -1,0 +1,57 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <img_popuBg type="1" typeName="Image" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="585cef51f9b008922fbd1001582739e2" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+    <view_top type="0" typeName="View" time="0" x="0" y="0" width="720" height="81" visible="true" fillParentWidth="true" fillParentHeight="false" nodeAlign="1">
+      <Image40 type="1" typeName="Image" time="0" x="0" y="60" width="720" height="82" visible="false" fillParentWidth="true" fillParentHeight="false" nodeAlign="1" file="282eefc2294754b7f3d0f39642df557b" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      <topbarBg type="1" typeName="Image" time="0" x="0" y="0" width="720" height="81" visible="true" fillParentWidth="true" fillParentHeight="false" nodeAlign="8" file="989945256b590edec2eaa737fb306d03" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      <topCardView type="0" typeName="View" time="0" x="15" y="0" width="198" height="42" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3">
+        <Image34 type="1" typeName="Image" time="0" x="0" y="0" width="198" height="42" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="a79817790e98af1ae29be6f11122728e" packFile="" gridLeft="0" gridRight="22" gridTop="0" gridBottom="0"/>
+        <Image35 type="1" typeName="Image" time="0" x="-35" y="0" width="70" height="68" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="9fc8ecd5703709da546c49359d017b3c" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <addCardBtn type="1" typeName="Button" time="0" x="0" y="0" width="233" height="57" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3" file="062f20d84c3cd87dbf75002a9ad165c3" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <text_cardNum type="4" typeName="Text" time="0" x="0" y="0" width="120" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="0" color="0xFFFFFF" string="520" colorA="1"/>
+      </topCardView>
+      <topChipView type="0" typeName="View" time="0" x="260" y="0" width="216" height="42" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3">
+        <Image38 type="1" typeName="Image" time="0" x="0" y="0" width="216" height="42" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="a79817790e98af1ae29be6f11122728e" packFile="" gridLeft="0" gridRight="22" gridTop="0" gridBottom="0"/>
+        <Image39 type="1" typeName="Image" time="0" x="-35" y="0" width="70" height="68" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="4f96b3af610311787e14607295026503" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <text_chipNum type="4" typeName="Text" time="0" x="0" y="0" width="150" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="0" color="0xFFFFFF" string="9,999"/>
+        <addChipBtn type="1" typeName="Button" time="0" x="0" y="0" width="251" height="57" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3" file="062f20d84c3cd87dbf75002a9ad165c3" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      </topChipView>
+      <btn_back type="1" typeName="Button" time="0" x="15" y="0" width="70" height="70" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="d2ddd5d0897c7190c3a5aa0f6a31ba32" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+    </view_top>
+    <Image43 type="1" typeName="Image" time="0" x="0" y="0" width="712" height="1075" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" file="936532570e786ff73b62001cf33d151e" packFile="" gridLeft="21" gridRight="21" gridTop="23" gridBottom="23"/>
+    <view_chip type="0" typeName="View" time="0" x="0" y="0" width="720" height="947" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5"/>
+    <view_prop type="0" typeName="View" time="0" x="0" y="0" width="720" height="947" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="5"/>
+    <view_cash type="0" typeName="View" time="0" x="0" y="0" width="720" height="947" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="5"/>
+    <view_record type="0" typeName="View" time="0" x="0" y="0" width="720" height="947" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="5">
+      <view_list type="0" typeName="View" time="0" x="0" y="0" width="700" height="936" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1"/>
+      <text_record_empty type="5" typeName="TextView" time="0" x="0" y="200" width="720" height="500" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" fontName="" fontSize="28" textAlign="1" color="0x4d4d4d" string="TextView" colorA="1"/>
+    </view_record>
+    <img_titleBg type="1" typeName="Image" time="0" x="0" y="255" width="690" height="78" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="ba658a618a5f3152f820c7f60bd6bc49" packFile="" gridLeft="41" gridRight="41" gridTop="0" gridBottom="0">
+      <btn_chip type="1" typeName="Button" time="0" x="-255" y="0" width="170" height="78" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="304f9053424bfe5d36de2ec200dfbbdc" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+        <Image33 type="1" typeName="Image" time="0" x="0" y="-1" width="111" height="32" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="565a1225b0095127a0c95319e4ba669a" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <img_select type="1" typeName="Image" time="0" x="0" y="1" width="168" height="64" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="3b87ac1a5f63c74fb3c54c33198d13e4" packFile="" gridLeft="40" gridRight="40" gridTop="0" gridBottom="0">
+          <Image34 type="1" typeName="Image" time="0" x="0" y="-2" width="111" height="32" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="39086243cecf14523338e154aa5f0efb" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </img_select>
+      </btn_chip>
+      <btn_prop type="1" typeName="Button" time="0" x="-85" y="0" width="170" height="78" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="304f9053424bfe5d36de2ec200dfbbdc" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+        <Image35 type="1" typeName="Image" time="0" x="0" y="-1" width="111" height="32" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="623700f7b6e7d54db1c0fdaf2ccf8c58" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <img_select type="1" typeName="Image" time="0" x="0" y="1" width="168" height="64" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="3b87ac1a5f63c74fb3c54c33198d13e4" packFile="" gridLeft="40" gridRight="40" gridTop="0" gridBottom="0">
+          <Image36 type="1" typeName="Image" time="0" x="0" y="-2" width="111" height="32" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9f48a411bdb4f1dbfe7bd0dd30aeacb2" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </img_select>
+      </btn_prop>
+      <btn_cash type="1" typeName="Button" time="0" x="85" y="0" width="170" height="78" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="304f9053424bfe5d36de2ec200dfbbdc" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+        <Image37 type="1" typeName="Image" time="0" x="0" y="-5" width="111" height="32" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="a9dc4ec4c4e3a51be0268565a7e4c535" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <img_select type="1" typeName="Image" time="0" x="0" y="1" width="168" height="64" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="3b87ac1a5f63c74fb3c54c33198d13e4" packFile="" gridLeft="40" gridRight="40" gridTop="0" gridBottom="0">
+          <Image38 type="1" typeName="Image" time="0" x="0" y="-6" width="111" height="32" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="2a29c131452cf6a8b401944f25e5685f" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </img_select>
+      </btn_cash>
+      <btn_record type="1" typeName="Button" time="0" x="255" y="0" width="170" height="78" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="304f9053424bfe5d36de2ec200dfbbdc" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+        <Image37 type="1" typeName="Image" time="0" x="0" y="-4" width="111" height="32" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="396533a339045bbeacf9e464c97da9d6" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <img_select type="1" typeName="Image" time="0" x="0" y="1" width="168" height="64" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="3b87ac1a5f63c74fb3c54c33198d13e4" packFile="" gridLeft="40" gridRight="40" gridTop="0" gridBottom="0">
+          <Image38 type="1" typeName="Image" time="0" x="0" y="-5" width="111" height="32" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="0c8978bbf725635d1ab72283aa2f52bf" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </img_select>
+      </btn_record>
+    </img_titleBg>
+    <Image41 type="1" typeName="Image" time="0" x="0" y="90" width="720" height="170" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="368a9f35ee7a93fc97b58608a64bbf10" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <Image42 type="1" typeName="Image" time="0" x="0" y="95" width="348" height="130" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="2cdb53f838b4e72993efc99e319cf9ac" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+  </img_popuBg>
+</root>

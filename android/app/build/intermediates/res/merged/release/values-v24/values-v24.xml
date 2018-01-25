@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/F:/gitWork/CasinoHall/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v24/values-v24.xml -->
+    <eat-comment/>
+    <style name="TextAppearance.AppCompat.Notification.Info.Media"/>
+    <style name="TextAppearance.AppCompat.Notification.Media"/>
+    <style name="TextAppearance.AppCompat.Notification.Time.Media"/>
+    <style name="TextAppearance.AppCompat.Notification.Title.Media"/>
+</resources>

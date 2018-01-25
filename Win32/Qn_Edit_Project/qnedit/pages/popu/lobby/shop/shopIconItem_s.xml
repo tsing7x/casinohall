@@ -1,0 +1,6 @@
+<root type="0" typeName="View" time="0" x="0" y="-565" width="150" height="150" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" isGenerateLocal="true">
+  <View4 type="0" typeName="View" time="0" x="0" y="0" width="150" height="150" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0">
+    <img_icon type="1" typeName="Image" time="0" x="0" y="5" width="108" height="89" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="f222ca9de5b18f5ab53223684030420e" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <text_num type="4" typeName="Text" time="0" x="0" y="0" width="43.35" height="26.65" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" fontName="" fontSize="24" textAlign="0" color="0xFFFFFF"/>
+  </View4>
+</root>

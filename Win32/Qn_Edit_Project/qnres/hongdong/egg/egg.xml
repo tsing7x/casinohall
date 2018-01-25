@@ -1,0 +1,4 @@
+<item label="egg" compress="0" asset="hongdong/egg" isDirectory="true">
+  <item atlasType="0" compress="0" key="ba0552631b4872a60c916ed45f8ef4a2" label="hddj_egg_icon" asset="hongdong/egg/hddj_egg_icon.png"/>
+  <item atlasType="0" compress="0" key="bc090997a0540daee69043ee534779d0" label="hddj_egg" asset="hongdong/egg/hddj_egg.png"/>
+</item>

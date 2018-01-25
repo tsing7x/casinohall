@@ -1,0 +1,35 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <img_bgPanel type="1" typeName="Image" time="0" x="0" y="0" width="720" height="568" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="cffa498c3ee4dda94b30408de2fce068" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <btn_close type="1" typeName="Button" time="0" x="307" y="-40" width="113" height="110" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="8a2a7be9e4e6f64d500f3c375eee9614" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+    <vb_mainTab type="0" typeName="View" time="0" x="0" y="72" width="628" height="78" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1">
+      <img_bgMainTab type="1" typeName="Image" time="0" x="0" y="0" width="620" height="70" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="2d4b4108db7411d15b74a23969b1176b" packFile="" gridLeft="40" gridRight="40" gridTop="0" gridBottom="0">
+        <img_tabSelHili type="1" typeName="Image" time="0" x="-154" y="0" width="296" height="64" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="3b87ac1a5f63c74fb3c54c33198d13e4" packFile="" gridLeft="40" gridRight="40" gridTop="0" gridBottom="0"/>
+        <btn_tabIdx1 type="1" typeName="Button" time="0" x="0" y="0" width="318" height="64" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="062f20d84c3cd87dbf75002a9ad165c3" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+          <img_dscTabSel type="1" typeName="Image" time="0" x="0" y="0" width="130" height="36" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="4bb5f2489755c78da6f3963f2e3fa557" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+          <img_dscTabUnsel type="1" typeName="Image" time="0" x="0" y="0" width="126" height="34" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="1cdbae834f5d76a0ad3ee8f4e48a9747" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btn_tabIdx1>
+        <btn_tabIdx2 type="1" typeName="Button" time="0" x="0" y="0" width="318" height="64" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3" file="062f20d84c3cd87dbf75002a9ad165c3" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+          <img_dscTabSel type="1" typeName="Image" time="0" x="0" y="0" width="172" height="36" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="2a6391cdf48055b1cefa8dd44e1fa16f" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+          <img_dscTabUnsel type="1" typeName="Image" time="0" x="0" y="0" width="168" height="34" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="04f35980da6dad6426c71b379d1d8916" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        </btn_tabIdx2>
+      </img_bgMainTab>
+    </vb_mainTab>
+    <vb_mainContPage type="0" typeName="View" time="0" x="0" y="45" width="648" height="370" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5">
+      <vb_pageIdx1 type="0" typeName="View" time="0" x="0" y="0" width="648" height="370" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5">
+        <img_bgSuonaMsgInput type="1" typeName="Image" time="0" x="0" y="0" width="628" height="184" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="554dbc2353fabfc9ab3e61837bf7b251" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+          <etv_suonaMsgCont type="7" typeName="EditTextView" time="0" x="0" y="0" width="610" height="172" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="26" textAlign="8" color="0xFFFFFF" colorA="1"/>
+        </img_bgSuonaMsgInput>
+        <tv_suonaUseTip type="5" typeName="TextView" time="0" x="0" y="41" width="634" height="62" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="22" textAlign="8" color="0x3b59a6" string="Suona Use Tip" colorA="1"/>
+        <btn_suonaSend type="1" typeName="Button" time="0" x="0" y="18" width="250" height="80" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" file="2e8a0f66b1a42d9176c7cd0801bc26c5" packFile="" gridLeft="35" gridRight="35" gridTop="30" gridBottom="30" file2="">
+          <img_dscSend type="1" typeName="Image" time="0" x="0" y="-5" width="52" height="44" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="b6685aadcae259bede432512c692acf1" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+          <img_bgSuonaCount type="1" typeName="Image" time="0" x="-9" y="-8" width="44" height="46" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="48d9afc70314c4498a48c8c667d79ab6" packFile="" gridLeft="20" gridRight="23" gridTop="20" gridBottom="25">
+            <txt_suonaCount type="4" typeName="Text" time="0" x="0" y="-4" width="12" height="27" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="0" color="0xFFFFFF" string="0" colorA="1"/>
+          </img_bgSuonaCount>
+        </btn_suonaSend>
+      </vb_pageIdx1>
+      <vb_pageIdx2 type="0" typeName="View" time="0" x="0" y="0" width="648" height="370" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="5">
+        <img_bgMsgRec type="1" typeName="Image" time="0" x="0" y="0" width="626" height="320" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="554dbc2353fabfc9ab3e61837bf7b251" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20"/>
+      </vb_pageIdx2>
+    </vb_mainContPage>
+  </img_bgPanel>
+</root>

@@ -1,0 +1,20 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <img_popuBg type="1" typeName="Image" time="0" x="0" y="0" width="676" height="592" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="16292be0d295a909e03c8b35a7ae8734" packFile="" gridLeft="10" gridRight="10" gridTop="10" gridBottom="10">
+    <img_title type="1" typeName="Image" time="0" x="0" y="-38" width="495" height="110" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="88c2a6ba7e616caef706c26dd620bb60" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <text_title type="4" typeName="Text" time="0" x="0" y="-4" width="340" height="57" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="50" textAlign="1" color="0x006666" string="Find new version" colorA="1"/>
+    </img_title>
+    <btn_cancel type="1" typeName="Button" time="0" x="64" y="439" width="241" height="104" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="5099f42efce070e834dff1bea7511cbd" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+      <text_cancel type="4" typeName="Text" time="0" x="0" y="4" width="200" height="57" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="50" textAlign="0" color="0xFFFFFF" string="下次更新" colorA="1"/>
+    </btn_cancel>
+    <btn_confirm type="1" typeName="Button" time="0" x="377" y="439" width="241" height="104" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="7c106df8853f81736a34a8c7ae432ca5" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+      <text_confirm type="4" typeName="Text" time="0" x="0" y="4" width="200" height="57" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="50" textAlign="0" color="0xFFFFFF" string="立即更新"/>
+    </btn_confirm>
+    <view_content type="0" typeName="View" time="0" x="0" y="160" width="580" height="320" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5">
+      <view_updateInfo type="0" typeName="ScrollView" time="0" x="0" y="0" width="580" height="220" visible="true" fillParentWidth="true" fillParentHeight="false" nodeAlign="5"/>
+      <text_version type="4" typeName="Text" time="0" x="0" y="0" width="250" height="31.65" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="26" textAlign="7" color="0xFFFFFF" string="更新版本: 1.0.2" colorA="1"/>
+      <text_size_tip type="4" typeName="Text" time="0" x="0" y="40" width="111.65" height="31.65" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="26" textAlign="7" color="0xFFFFFF" string="更新大小:" colorA="1">
+        <text_size type="4" typeName="Text" time="0" x="120" y="0" width="50" height="31.65" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="26" textAlign="7" color="0x00ffff" string="10M" colorA="1"/>
+      </text_size_tip>
+    </view_content>
+  </img_popuBg>
+</root>

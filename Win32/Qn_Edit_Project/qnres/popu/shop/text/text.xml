@@ -1,0 +1,24 @@
+<item label="text" compress="0" asset="popu/shop/text" isDirectory="true">
+  <item atlasType="0" compress="0" key="08104fb4dad92d00e3d1279b4534a89d" label="shangxin1" asset="popu/shop/text/shangxin1.png"/>
+  <item atlasType="0" compress="0" key="0c8978bbf725635d1ab72283aa2f52bf" label="buyRecord1" asset="popu/shop/text/buyRecord1.png"/>
+  <item atlasType="0" compress="0" key="16f0800cfd22366cde77f3cf1b7d2b99" label="liwu2" asset="popu/shop/text/liwu2.png"/>
+  <item atlasType="0" compress="0" key="222f6750db6e690aabad35dfc5d99769" label="remen1" asset="popu/shop/text/remen1.png"/>
+  <item atlasType="0" compress="0" key="23520bda154df77e75b3e5c538e0e6d6" label="jieqi2" asset="popu/shop/text/jieqi2.png"/>
+  <item atlasType="0" compress="0" key="2a29c131452cf6a8b401944f25e5685f" label="buyRoomCard1" asset="popu/shop/text/buyRoomCard1.png"/>
+  <item atlasType="0" compress="0" key="2df25cb7546b42174dcac01abbed9b8d" label="vip1" asset="popu/shop/text/vip1.png"/>
+  <item atlasType="0" compress="0" key="2f56a9a66487d111d71590f7cd9bdf9f" label="gongneng2" asset="popu/shop/text/gongneng2.png"/>
+  <item atlasType="0" compress="0" key="39086243cecf14523338e154aa5f0efb" label="buyChip1" asset="popu/shop/text/buyChip1.png"/>
+  <item atlasType="0" compress="0" key="396533a339045bbeacf9e464c97da9d6" label="buyRecord2" asset="popu/shop/text/buyRecord2.png"/>
+  <item atlasType="0" compress="0" key="565a1225b0095127a0c95319e4ba669a" label="buyChip2" asset="popu/shop/text/buyChip2.png"/>
+  <item atlasType="0" compress="0" key="6165d8d2de879370915a8b61e940c386" label="jieqi1" asset="popu/shop/text/jieqi1.png"/>
+  <item atlasType="0" compress="0" key="623700f7b6e7d54db1c0fdaf2ccf8c58" label="prop2" asset="popu/shop/text/prop2.png"/>
+  <item atlasType="0" compress="0" key="975b011e27405f67875ea8e06d215bdf" label="liwu1" asset="popu/shop/text/liwu1.png"/>
+  <item atlasType="0" compress="0" key="9a1c5a29fcc2c7a948c01d3af0e8a6f1" label="gexing1" asset="popu/shop/text/gexing1.png"/>
+  <item atlasType="0" compress="0" key="9f48a411bdb4f1dbfe7bd0dd30aeacb2" label="prop1" asset="popu/shop/text/prop1.png"/>
+  <item atlasType="0" compress="0" key="a9dc4ec4c4e3a51be0268565a7e4c535" label="buyRoomCard2" asset="popu/shop/text/buyRoomCard2.png"/>
+  <item atlasType="0" compress="0" key="d3918070afa3372453d469fb036f90f2" label="remen2" asset="popu/shop/text/remen2.png"/>
+  <item atlasType="0" compress="0" key="d5e7b24b26676966aee7fc3e38078fc4" label="shangxin2" asset="popu/shop/text/shangxin2.png"/>
+  <item atlasType="0" compress="0" key="e1a73e423e0db9eb93afbe5dc708e6b4" label="gongneng1" asset="popu/shop/text/gongneng1.png"/>
+  <item atlasType="0" compress="0" key="eb9005cc1a49d72029628f213fb6145b" label="gexing2" asset="popu/shop/text/gexing2.png"/>
+  <item atlasType="0" compress="0" key="f85cadf2fec03c23d3c3e144ef7164b3" label="vip2" asset="popu/shop/text/vip2.png"/>
+</item>

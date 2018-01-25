@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AF-Android-SDK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/AF-Android-SDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

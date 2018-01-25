@@ -1,0 +1,18 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="false">
+  <img_bg type="1" typeName="Image" time="108906194" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="2" file="a0a783f0cca0ff0f7547ed3a23a47adf" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <text_tip type="4" typeName="Text" time="0" x="0" y="10" width="412.5" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" fontName="" fontSize="30" textAlign="5" color="0xFFFFFF" string="fackbook登录，账户资产更安全" colorA="1"/>
+  </img_bg>
+  <view_loading type="0" typeName="View" time="0" x="0" y="0" width="720" height="400" visible="true" fillParentWidth="true" fillParentHeight="false" nodeAlign="5" isLock="0">
+    <img_loading_tip type="1" typeName="Image" time="0" x="0" y="58" width="90" height="90" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="b8e66ab161e7721f8a29792342493737" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <img_loading_tip13 type="1" typeName="Image" time="0" x="0" y="87" width="38" height="36" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="c14d33b949b125a4ec905bf819392f9e" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <text_loading_tip type="4" typeName="Text" time="0" x="14" y="173" width="240" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" fontName="" fontSize="30" textAlign="5" color="0xFFFFFF" string="正在努力加载中…"/>
+  </view_loading>
+  <view_update type="0" typeName="View" time="0" x="0" y="0" width="720" height="400" visible="false" fillParentWidth="true" fillParentHeight="false" nodeAlign="5">
+    <progress_bg type="1" typeName="Image" time="0" x="0" y="167" width="600" height="16" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" file="9bf0eda1cce69a16020a44d94a5fe888" packFile="" gridLeft="6" gridRight="6" gridTop="0" gridBottom="0">
+      <progress_fg type="1" typeName="Image" time="0" x="0" y="0" width="100" height="12" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="d5ee0a1ad5d123c1186badfe44131712" packFile="" gridLeft="6" gridRight="6" gridTop="0" gridBottom="0"/>
+    </progress_bg>
+    <text_progress type="4" typeName="Text" time="0" x="0" y="121" width="55" height="34" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" fontName="" fontSize="30" textAlign="1" color="0x00ffff" string="70%" colorA="1"/>
+    <text_loadtip type="4" typeName="Text" time="0" x="-179" y="200" width="120" height="34" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" fontName="" fontSize="30" textAlign="5" color="0xFFFFFF" string="正在下载" colorA="1"/>
+    <text_speed type="4" typeName="Text" time="0" x="187" y="200" width="120" height="34" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" fontName="" fontSize="30" textAlign="5" color="0xFFFFFF" string="58kb/s"/>
+  </view_update>
+</root>

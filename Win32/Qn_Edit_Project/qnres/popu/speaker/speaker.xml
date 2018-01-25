@@ -1,0 +1,4 @@
+<item label="speaker" compress="0" asset="popu/speaker" isDirectory="true">
+  <item atlasType="0" compress="0" key="473af27e9dda1f4d348d3c431434ce6d" label="suona_bgSuonaMsgRec" asset="popu/speaker/suona_bgSuonaMsgRec.png"/>
+  <item atlasType="0" compress="0" key="48d9afc70314c4498a48c8c667d79ab6" label="suona_bgSuonaCount" asset="popu/speaker/suona_bgSuonaCount.png" grid="20,23,20,25"/>
+</item>

@@ -1,0 +1,1 @@
+return require("app.games.pokdeng.chipGame.version")

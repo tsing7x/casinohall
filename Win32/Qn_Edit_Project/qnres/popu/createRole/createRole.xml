@@ -1,0 +1,9 @@
+<item label="createRole" compress="0" asset="popu/createRole" isDirectory="true">
+  <item atlasType="0" compress="0" key="2dc7429b49f6c35273b0654ed37d6098" label="img_woman_normal" asset="popu/createRole/img_woman_normal.png"/>
+  <item atlasType="0" compress="0" key="6c6f78ba75fc15386b5414b9cc23b67f" label="img_woman_select" asset="popu/createRole/img_woman_select.png"/>
+  <item atlasType="0" compress="0" key="6febf18713b14e9796f970d659c0955c" label="img_man_select" asset="popu/createRole/img_man_select.png"/>
+  <item atlasType="0" compress="0" key="79e179dd42835c71af6bac5e8529ba6d" label="img_title" asset="popu/createRole/img_title.png"/>
+  <item atlasType="0" compress="0" key="bc1b9fc721fc9570b55a45a457f7c012" label="img_inputBg" asset="popu/createRole/img_inputBg.png" grid="10,10,10,10"/>
+  <item atlasType="0" compress="0" key="d67ae07ad62a176acc23c027aaa935b5" label="img_random" asset="popu/createRole/img_random.png"/>
+  <item atlasType="0" compress="0" key="f5c126a24fe98643eb94b4b779c62a59" label="img_man_normal" asset="popu/createRole/img_man_normal.png"/>
+</item>

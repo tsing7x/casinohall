@@ -1,0 +1,13 @@
+<item label="cardNum" compress="0" asset="popu/createRoom/cardNum" isDirectory="true">
+  <item atlasType="0" compress="0" key="16b3e1955218ebcd78c6e1e17f1a1931" label="7" asset="popu/createRoom/cardNum/7.png"/>
+  <item atlasType="0" compress="0" key="2016f69719c234f1c544e76c65b48946" label="9" asset="popu/createRoom/cardNum/9.png"/>
+  <item atlasType="0" compress="0" key="7abde805443a70e0e3771ca45f271120" label="5" asset="popu/createRoom/cardNum/5.png"/>
+  <item atlasType="0" compress="0" key="7b5c320f72e8849b479e693f604df6be" label="6" asset="popu/createRoom/cardNum/6.png"/>
+  <item atlasType="0" compress="0" key="8bd13154d1437d21fea80d2a3ba22928" label="0" asset="popu/createRoom/cardNum/0.png"/>
+  <item atlasType="0" compress="0" key="9c0a93c9c4c1eb37dde23b57beabb9d5" label="1" asset="popu/createRoom/cardNum/1.png"/>
+  <item atlasType="0" compress="0" key="a77e2baa8595084656b4bf733821e1ff" label="3" asset="popu/createRoom/cardNum/3.png"/>
+  <item atlasType="0" compress="0" key="a9d81c061c676471c3de9b27c021b9b6" label="x" asset="popu/createRoom/cardNum/x.png"/>
+  <item atlasType="0" compress="0" key="d3c655b6222e61d1445eb612b13ed442" label="8" asset="popu/createRoom/cardNum/8.png"/>
+  <item atlasType="0" compress="0" key="d95c071d4426fb200689c46e5c96af1c" label="4" asset="popu/createRoom/cardNum/4.png"/>
+  <item atlasType="0" compress="0" key="e96361f9475b246d66967f2c4c2f63f6" label="2" asset="popu/createRoom/cardNum/2.png"/>
+</item>

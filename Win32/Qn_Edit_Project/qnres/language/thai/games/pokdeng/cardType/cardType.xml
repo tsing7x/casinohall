@@ -1,0 +1,19 @@
+<item label="cardType" compress="0" asset="language/thai/games/pokdeng/cardType" isDirectory="true">
+  <item atlasType="0" compress="0" key="00c4321b34cc833bb1f66a9cf8e3fded" label="5" asset="language/thai/games/pokdeng/cardType/5.png"/>
+  <item atlasType="0" compress="0" key="05fa8a30332aaa4a80a3d11bb183d019" label="4" asset="language/thai/games/pokdeng/cardType/4.png"/>
+  <item atlasType="0" compress="0" key="274a670de93d92873d1a980fea8114c7" label="7" asset="language/thai/games/pokdeng/cardType/7.png"/>
+  <item atlasType="0" compress="0" key="3b0510fef0ded09cf0dbb46f9b46eaed" label="6" asset="language/thai/games/pokdeng/cardType/6.png"/>
+  <item atlasType="0" compress="0" key="47b048e4da83f418cf81547fadb0db97" label="tag_threeKind" asset="language/thai/games/pokdeng/cardType/tag_threeKind.png"/>
+  <item atlasType="0" compress="0" key="4e8c488bd92c0ae9584371c6314d40cb" label="tag_straight" asset="language/thai/games/pokdeng/cardType/tag_straight.png"/>
+  <item atlasType="0" compress="0" key="5a939230016c5993aee1ed0837eb1382" label="tag_straightFlush" asset="language/thai/games/pokdeng/cardType/tag_straightFlush.png"/>
+  <item atlasType="0" compress="0" key="5eb666131d0be1237af55dfe9aca9a76" label="ear_2" asset="language/thai/games/pokdeng/cardType/ear_2.png"/>
+  <item atlasType="0" compress="0" key="64023046fa01d28127cb3640e1e2e190" label="2" asset="language/thai/games/pokdeng/cardType/2.png"/>
+  <item atlasType="0" compress="0" key="66e4e2a2f29a5760322609aff1b52518" label="0" asset="language/thai/games/pokdeng/cardType/0.png"/>
+  <item atlasType="0" compress="0" key="95030ac713bec5ee8dfa24858dd3a77d" label="ear_1" asset="language/thai/games/pokdeng/cardType/ear_1.png"/>
+  <item atlasType="0" compress="0" key="9f38d43f12e3f9f7fb87a7f64f301a3d" label="1" asset="language/thai/games/pokdeng/cardType/1.png"/>
+  <item atlasType="0" compress="0" key="a9794f3333933607dcbcf72967fa15a5" label="tag_threeYellow" asset="language/thai/games/pokdeng/cardType/tag_threeYellow.png"/>
+  <item atlasType="0" compress="0" key="b9193b8f93bcd267afef347ba83fd1ae" label="pokdeng_9" asset="language/thai/games/pokdeng/cardType/pokdeng_9.png"/>
+  <item atlasType="0" compress="0" key="c11d12f6aa189a3cdf26a9dea7485d0e" label="3" asset="language/thai/games/pokdeng/cardType/3.png"/>
+  <item atlasType="0" compress="0" key="cac99653d27d7cd50ffcee1f492e4a31" label="pokdeng_8" asset="language/thai/games/pokdeng/cardType/pokdeng_8.png"/>
+  <item atlasType="0" compress="0" key="e17399c04ec735086bb6babcab3ee053" label="tag_point" asset="language/thai/games/pokdeng/cardType/tag_point.png"/>
+</item>

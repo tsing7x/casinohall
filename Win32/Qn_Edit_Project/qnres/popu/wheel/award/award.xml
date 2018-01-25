@@ -1,0 +1,8 @@
+<item label="award" compress="0" asset="popu/wheel/award" isDirectory="true">
+  <item atlasType="0" compress="0" key="071c9975d799558757e1ec7abbe7582e" label="award_4" asset="popu/wheel/award/award_4.png"/>
+  <item atlasType="0" compress="0" key="2110cd9425303ba035676fa28f7cd97b" label="award_3" asset="popu/wheel/award/award_3.png"/>
+  <item atlasType="0" compress="0" key="66ea2d16630edaddebe8ad2e0d1c788b" label="award_5" asset="popu/wheel/award/award_5.png"/>
+  <item atlasType="0" compress="0" key="76ef85eadf220dd61f71952577fb8ed9" label="award_2" asset="popu/wheel/award/award_2.png"/>
+  <item atlasType="0" compress="0" key="9de24eab703d10f5fc5faa43a66ef77d" label="award_max" asset="popu/wheel/award/award_max.png"/>
+  <item atlasType="0" compress="0" key="a54285af5dd0ff8f703fb762afc57fb0" label="award_1" asset="popu/wheel/award/award_1.png"/>
+</item>

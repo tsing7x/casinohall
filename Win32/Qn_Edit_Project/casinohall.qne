@@ -1,0 +1,11 @@
+<project version="1.0" name="casinohall" key="" isNewUI="false">
+  <imageFromPath>../Resource/images</imageFromPath>
+  <pageFromPath>../Resource/editor</pageFromPath>
+  <scriptFromPath>../Resource/scripts</scriptFromPath>
+  <pageLuaToPath>../Resource/scripts/app/view</pageLuaToPath>
+  <qnCreatePath>../Resource/scripts</qnCreatePath>
+  <resPath>../Resource</resPath>
+  <swfFromPath>../Resource/swf</swfFromPath>
+  <viewWidth>720</viewWidth>
+  <viewHeight>1280</viewHeight>
+</project>

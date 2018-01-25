@@ -1,0 +1,5 @@
+<item label="animation" compress="0" asset="animation" isDirectory="true">
+  <item atlasType="0" compress="0" key="01d173d6a9315188a5b72deee3e2b366" label="alarmNoticeBg" asset="animation/alarmNoticeBg.png"/>
+  <item atlasType="0" compress="0" key="0b230d881df71fa9d75f490b3a51c349" label="laba2" asset="animation/laba2.png"/>
+  <item atlasType="0" compress="0" key="556e19a4a1a339e2a5b2874d0567e438" label="laba" asset="animation/laba.png"/>
+</item>

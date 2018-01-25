@@ -1,0 +1,11 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="700" height="155" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" isGenerateLocal="true">
+  <Image3 type="1" typeName="Image" time="0" x="0" y="0" width="676" height="145" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="212e4fc0498954634d943a74de69a9bd" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <text_time type="4" typeName="Text" time="0" x="230" y="70" width="120" height="50" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="24" textAlign="7" color="0x575252" string="2017-01-01" colorA="1"/>
+    <text_shop type="4" typeName="Text" time="0" x="230" y="20" width="77.15" height="50" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="26" textAlign="7" color="0xfae9ce" colorA="1"/>
+    <text_num type="4" typeName="Text" time="0" x="350" y="20" width="100" height="50" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="26" textAlign="7" color="0x37c2f0" string="x1" colorA="1"/>
+    <View9 type="0" typeName="View" time="0" x="2" y="0" width="160" height="136" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+      <img_icon type="1" typeName="Image" time="0" x="0" y="0" width="105" height="105" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="72b44e1a610c615edf83cf6a694fd6e5" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </View9>
+  </Image3>
+  <status type="1" typeName="Image" time="0" x="5" y="2" width="169" height="122" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="2" file="b15f85c720870c2c5723c2b93d21f39e" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+</root>

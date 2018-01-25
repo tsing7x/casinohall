@@ -1,0 +1,8 @@
+<root type="0" typeName="View" time="0" x="100" y="100" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <img_bg type="1" typeName="Image" time="0" x="0" y="0" width="184" height="236" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="1e34cf9e8357af1fcd5b683f8168edd4" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <img_btype type="1" typeName="Image" time="0" x="0" y="0" width="184" height="236" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="54ba65c668ca5ff4d4946f2a9f0e895a" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <img_stype type="1" typeName="Image" time="0" x="2" y="68" width="60" height="60" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="acd174253378f43b1db0c1101ddd4aec" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <img_value type="1" typeName="Image" time="0" x="3" y="10" width="60" height="60" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="b47e3ddd5e659396edf8aa77a14eb42c" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <img_back type="1" typeName="Image" time="0" x="0" y="0" width="184" height="236" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="57f5e583653927e16defda2ba5573166" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+  </img_bg>
+</root>

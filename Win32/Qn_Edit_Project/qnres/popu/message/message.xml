@@ -1,0 +1,5 @@
+<item label="message" compress="0" asset="popu/message" isDirectory="true">
+  <item atlasType="0" compress="0" key="417074cbe93b3d2a38712c9d309fcc2f" label="msg_icChip" asset="popu/message/msg_icChip.png"/>
+  <item atlasType="0" compress="0" key="80dd205493cb2821233b51930e0b58b4" label="msg_bgItem" asset="popu/message/msg_bgItem.png"/>
+  <item atlasType="0" compress="0" key="daa64960ed9d7517cf75fa76610f7c5d" label="msg_icMail" asset="popu/message/msg_icMail.png"/>
+</item>

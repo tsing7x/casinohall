@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="500"
+    android:fromXDelta="0.0%"
+    android:fromYDelta="0.0%"
+    android:toXDelta="6%"
+    android:toYDelta="0.0%" 
+    android:repeatMode="reverse"
+    android:repeatCount="infinite"
+    />
+<!-- From: file:/F:/gitWork/CasinoHall/android/app/src/main/res/anim/loading_gril_translate.xml -->

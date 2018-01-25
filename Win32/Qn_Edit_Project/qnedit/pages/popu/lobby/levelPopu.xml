@@ -1,0 +1,34 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <img_popuBg type="1" typeName="Image" time="0" x="0" y="0" width="679" height="859" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9d35d4eff17393a161c70f7f05763341" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <btn_close type="1" typeName="Button" time="0" x="614" y="-7" width="73" height="74" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="54c13ab428bb78bd6c227abbf3c3e263" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <title_bg type="1" typeName="Image" time="0" x="0" y="16" width="462" height="78" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="0955816cde24299006678b90f398faf7" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <img_title type="1" typeName="Image" time="0" x="0" y="0" width="260" height="48" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="843fe73b4b6d3c148ab72fa1892bcc13" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </title_bg>
+    <text_line1 type="4" typeName="Text" time="0" x="40" y="130" width="192" height="34.45" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="30" textAlign="7" color="0xffe1d4" colorA="1" string="0"/>
+    <view_line2 type="0" typeName="View" time="0" x="40" y="180" width="600" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+      <View8 type="0" typeName="View" time="0" x="0" y="0" width="30" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7">
+        <Image9 type="1" typeName="Image" time="0" x="0" y="0" width="10" height="10" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9842cbf31cfb9701dc3bf16ca8ecf7a7" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      </View8>
+      <text_1 type="4" typeName="Text" time="0" x="0" y="0" width="14.55" height="33" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="28" textAlign="7" color="0xf4ccbc" string="0" colorA="1"/>
+      <text_2 type="4" typeName="Text" time="0" x="0" y="0" width="14.55" height="33" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="28" textAlign="7" color="0x62cf1c" string="0" colorA="1"/>
+      <text_3 type="4" typeName="Text" time="0" x="0" y="0" width="14.55" height="33" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="28" textAlign="7" color="0xf4ccbc" string="0" colorA="1"/>
+      <text_4 type="4" typeName="Text" time="0" x="0" y="0" width="14.55" height="33" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="28" textAlign="7" color="0x62cf1c" string="0" colorA="1"/>
+    </view_line2>
+    <text_line3 type="4" typeName="Text" time="0" x="70" y="220" width="550" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="24" textAlign="7" color="0xee9a7a" string="0" colorA="1"/>
+    <view_line4 type="0" typeName="View" time="0" x="40" y="270" width="580" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+      <View8 type="0" typeName="View" time="0" x="0" y="0" width="30" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7">
+        <Image9 type="1" typeName="Image" time="0" x="0" y="0" width="10" height="10" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="9842cbf31cfb9701dc3bf16ca8ecf7a7" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      </View8>
+      <text_1 type="4" typeName="Text" time="0" x="30" y="0" width="14.55" height="33" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="28" textAlign="7" color="0xf4ccbc" string="0" colorA="1"/>
+    </view_line4>
+    <text_line5 type="4" typeName="Text" time="0" x="40" y="340" width="192" height="34.45" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="30" textAlign="7" color="0xffe1d4" colorA="1" string="0"/>
+    <view_level type="0" typeName="View" time="0" x="40" y="390" width="600" height="430" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+      <image type="1" typeName="Image" time="0" x="0" y="0" width="600" height="430" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="06d7e332a37ef7ab38d5c623b73c8901" packFile="" gridLeft="10" gridRight="10" gridTop="10" gridBottom="10" isLock="1"/>
+      <levelListView type="0" typeName="ListView" time="0" x="2" y="33" width="596" height="396" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8"/>
+      <Image26 type="1" typeName="Image" time="0" x="108" y="2" width="2" height="427" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="214839a1b4f14b84709e45eb32a6fc46" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      <level_title type="4" typeName="Text" time="0" x="2" y="2" width="107" height="29" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="24" textAlign="0" color="0xd78667" string="0" colorA="1"/>
+      <exp_title type="4" typeName="Text" time="0" x="111" y="2" width="487" height="29" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="24" textAlign="0" color="0xd78667" string="0" colorA="1"/>
+      <Image27 type="1" typeName="Image" time="0" x="2" y="31" width="596" height="2" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="214839a1b4f14b84709e45eb32a6fc46" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </view_level>
+  </img_popuBg>
+</root>

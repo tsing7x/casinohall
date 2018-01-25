@@ -1,0 +1,13 @@
+<item label="userInfo" compress="1" asset="room/userInfo" isDirectory="true">
+  <item atlasType="0" compress="0" key="112411505ca311196e0f90335b91187a" label="progress_bg" asset="room/userInfo/progress_bg.png"/>
+  <item atlasType="3" compress="1" key="11407fdf63c13e9ccbd910bd881a6250" label="img_popuBg" asset="room/userInfo/img_popuBg.png"/>
+  <item atlasType="3" compress="1" key="2a229ebdeb46bd44de00210744ddad47" label="btn_addfriend" asset="room/userInfo/btn_addfriend.png"/>
+  <item atlasType="3" compress="1" key="387ce63e90c3e3f51f2bfad1d262f786" label="img_notAddFriend" asset="room/userInfo/img_notAddFriend.png"/>
+  <item atlasType="3" compress="1" key="6a91cacdb53c8cdd84d5255834236836" label="img_propBg" asset="room/userInfo/img_propBg.png"/>
+  <item atlasType="0" compress="0" key="767de43b7d909822a85abfaaeb41e956" label="btn_delete" asset="room/userInfo/btn_delete.png"/>
+  <item atlasType="3" compress="1" key="88f04238db4fa681492113e2166b705d" label="img_headBg" asset="room/userInfo/img_headBg.png"/>
+  <item atlasType="3" compress="0" key="936ff8c93c9b29287061283fcd9b9ce8" label="img_goldCoin" asset="room/userInfo/img_goldCoin.png"/>
+  <item atlasType="0" compress="0" key="c0cd2d03b8abc068b9841175abf2151b" label="progress_fg" asset="room/userInfo/progress_fg.png"/>
+  <item atlasType="3" compress="1" key="d362f7bdb1660a1ad5d1c627c22b5b2b" label="img_female" asset="room/userInfo/img_female.png"/>
+  <item atlasType="3" compress="1" key="de76c95ffa67ce28810e57a591027b65" label="img_male" asset="room/userInfo/img_male.png"/>
+</item>

@@ -1,0 +1,19 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <img_popuBg type="1" typeName="Image" time="0" x="19" y="350" width="680" height="597" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="0022859c33527ce12cec5bd853818ac9" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+    <btn_close type="1" typeName="Button" time="0" x="-4" y="-7" width="62" height="62" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="2" file="54c13ab428bb78bd6c227abbf3c3e263" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <img_itemBg type="1" typeName="Image" time="0" x="40" y="118" width="602" height="326" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="3fc2a1b65bde581ed379e7cf04888e85" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+      <img_elephant type="1" typeName="Image" time="0" x="-8" y="-18" width="354" height="350" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="329e6c46e517cc3aa0dee3bf3484d06a" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      <tv_content01 type="5" typeName="TextView" time="0" x="323" y="80" width="218" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="28" textAlign="7" color="0xe1926f" string="สินทรัพย์มีไม่พอค่ะ:" colorA="1"/>
+      <tv_content02 type="5" typeName="TextView" time="0" x="321" y="75" width="263" height="240" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="24" textAlign="7" color="0xe1926f" string="ชิปของคุณมีน้อยกว่าชิปเดิมพันต่ำสุดของห้อง กรุณาเลือกห้องเดิมพันที่ต่ำกว่าค่ะ" colorA="1"/>
+    </img_itemBg>
+    <title_bg type="1" typeName="Image" time="0" x="0" y="17" width="462" height="78" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="0955816cde24299006678b90f398faf7" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <img_title type="1" typeName="Image" time="0" x="0" y="0" width="358" height="64" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="457a1cd6c8f3b45ee3b57509212581d4" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </title_bg>
+    <btn_cancel type="1" typeName="Button" time="0" x="61" y="462" width="266" height="96" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="291f57203a53d845db466a452f9587a5" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <tv_cancel type="4" typeName="Text" time="0" x="0" y="0" width="113" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="46" textAlign="0" color="0xFFFFFF" string="ยกเลิก" colorA="1"/>
+    </btn_cancel>
+    <btn_confirm type="1" typeName="Button" time="0" x="353" y="465" width="266" height="93" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="e8eb3c57b22810a8f87a9bb5ff5d2a0b" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <tv_confirm type="4" typeName="Text" time="0" x="0" y="0" width="102" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="46" textAlign="0" color="0xFFFFFF" string="ยืนยัน"/>
+    </btn_confirm>
+  </img_popuBg>
+</root>

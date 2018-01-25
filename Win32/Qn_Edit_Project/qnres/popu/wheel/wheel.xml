@@ -1,0 +1,15 @@
+<item label="wheel" compress="0" asset="popu/wheel" isDirectory="true">
+  <item atlasType="0" compress="0" key="2b3b3c24c37215e8d2d5d35253311512" label="btn_close" asset="popu/wheel/btn_close.png"/>
+  <item atlasType="0" compress="0" key="2c27b3fee91aad47c6edc31a82343f06" label="img_bg" asset="popu/wheel/img_bg.png"/>
+  <item atlasType="0" compress="0" key="383cd03280f076af0b4671eeb50cc0ed" label="img_price" asset="popu/wheel/img_price.png"/>
+  <item atlasType="0" compress="0" key="4a806e6b90bf6132f3b616b8f672dc2e" label="result_" asset="popu/wheel/result_.png"/>
+  <item atlasType="0" compress="0" key="50f3333794657505386ad01dbd5c9f71" label="img_vipTip" asset="popu/wheel/img_vipTip.png"/>
+  <item atlasType="0" compress="0" key="6e32c5a1e7fc88b7a18c4bef3a4c3d00" label="img_guang" asset="popu/wheel/img_guang.png"/>
+  <item atlasType="0" compress="0" key="87de9cbb65997ce854ebb3e55fe470f4" label="img_btn" asset="popu/wheel/img_btn.png"/>
+  <item atlasType="0" compress="0" key="9a0edc7634dfc4237426a9df4e19464f" label="img_go" asset="popu/wheel/img_go.png"/>
+  <item atlasType="0" compress="0" key="9aa98af3b48fc10657ec63981c2faef6" label="result_bg" asset="popu/wheel/result_bg.png"/>
+  <item atlasType="0" compress="0" key="9d10e842c93137cd3f18372289bbd3a3" label="img_title" asset="popu/wheel/img_title.png"/>
+  <item atlasType="0" compress="0" key="b1b2e808f914113ceab5adb7cc336bc4" label="img_wheel" asset="popu/wheel/img_wheel.png"/>
+  <item atlasType="0" compress="0" key="ed60798bcbcc21d05832f6b130e6a1c4" label="img_btn_2" asset="popu/wheel/img_btn_2.png"/>
+  <item atlasType="0" compress="0" key="f280556d26d3a9dbdccb729d7b739b38" label="img_select" asset="popu/wheel/img_select.png"/>
+</item>

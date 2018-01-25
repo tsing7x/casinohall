@@ -1,0 +1,35 @@
+<item label="popu" compress="0" asset="popu" isDirectory="true">
+  <item atlasType="0" compress="0" key="0022859c33527ce12cec5bd853818ac9" label="bg_superBig" asset="popu/bg_superBig.png" grid="20,20,20,20"/>
+  <item atlasType="0" compress="0" key="064e034806959be7f63c8ddb2a581ace" label="btn_red" asset="popu/btn_red.png"/>
+  <item atlasType="0" compress="0" key="0955816cde24299006678b90f398faf7" label="img_title_2" asset="popu/img_title_2.png"/>
+  <item atlasType="0" compress="0" key="0e5752114d1282a519e3b2883e14c7c0" label="frame" asset="popu/frame.png" grid="10,10,10,10"/>
+  <item atlasType="0" compress="0" key="16292be0d295a909e03c8b35a7ae8734" label="bg_middle" asset="popu/bg_middle.png"/>
+  <item atlasType="0" compress="0" key="18de1422e2acc7a740ad577486aa101c" label="room_card_bg" asset="popu/room_card_bg.png"/>
+  <item atlasType="0" compress="0" key="1ec92b2f0f3bbf339c70a19687de5921" label="icon_roomcard" asset="popu/icon_roomcard.png"/>
+  <item atlasType="0" compress="0" key="2460f35b27edc01064371d8ddef906fb" label="hall_buy_btn" asset="popu/hall_buy_btn.png"/>
+  <item atlasType="0" compress="0" key="2d4b4108db7411d15b74a23969b1176b" label="tab_bg" asset="popu/tab_bg.png" grid="40,40,0,0"/>
+  <item atlasType="0" compress="0" key="3b87ac1a5f63c74fb3c54c33198d13e4" label="tab_select" asset="popu/tab_select.png" grid="40,40,0,0"/>
+  <item atlasType="0" compress="0" key="4125abaaed8a4bb81fffa74fff51796a" label="btn_rightAnglGrey" asset="popu/btn_rightAnglGrey.png"/>
+  <item atlasType="0" compress="0" key="4e64898e6008920d9b60f2845af63955" label="bigFrame" asset="popu/bigFrame.png"/>
+  <item atlasType="0" compress="0" key="5099f42efce070e834dff1bea7511cbd" label="btn_blue" asset="popu/btn_blue.png"/>
+  <item atlasType="0" compress="0" key="54c13ab428bb78bd6c227abbf3c3e263" label="closebtn_ " asset="popu/closebtn_ .png"/>
+  <item atlasType="0" compress="0" key="585cef51f9b008922fbd1001582739e2" label="bg_full" asset="popu/bg_full.png"/>
+  <item atlasType="0" compress="0" key="709062890526db913618dc9724ca1021" label="bg_create_room" asset="popu/bg_create_room.png"/>
+  <item atlasType="0" compress="0" key="7c106df8853f81736a34a8c7ae432ca5" label="btn_green" asset="popu/btn_green.png" grid="20,20,20,20"/>
+  <item atlasType="0" compress="0" key="7d2cce0e328dbb2c3369b8a3c2907b07" label="btn_rightAnglYellow" asset="popu/btn_rightAnglYellow.png"/>
+  <item atlasType="0" compress="0" key="82982f26647891957167f85ff43096a4" label="btn_rightAnglGreen" asset="popu/btn_rightAnglGreen.png"/>
+  <item atlasType="0" compress="0" key="88c2a6ba7e616caef706c26dd620bb60" label="img_title" asset="popu/img_title.png"/>
+  <item atlasType="0" compress="0" key="989945256b590edec2eaa737fb306d03" label="topbar_2_bg" asset="popu/topbar_2_bg.png"/>
+  <item atlasType="0" compress="0" key="996d427b42d73df726c4cc3ff616ee0c" label="midFrame" asset="popu/midFrame.png"/>
+  <item atlasType="0" compress="0" key="9d35d4eff17393a161c70f7f05763341" label="bg_big" asset="popu/bg_big.png"/>
+  <item atlasType="0" compress="0" key="a79817790e98af1ae29be6f11122728e" label="chip_bg" asset="popu/chip_bg.png"/>
+  <item atlasType="0" compress="0" key="b9aa9d4fb9a151d568f5609f68e8b246" label="mid2Frame" asset="popu/mid2Frame.png"/>
+  <item atlasType="0" compress="0" key="cb74c3b9c68d40dbf1249a99b2ea2151" label="img_select" asset="popu/img_select.png"/>
+  <item atlasType="0" compress="0" key="d2ddd5d0897c7190c3a5aa0f6a31ba32" label="btn_back" asset="popu/btn_back.png"/>
+  <item atlasType="0" compress="0" key="d97577d32b7c18946f5b73401512959c" label="topbar_bg" asset="popu/topbar_bg.png"/>
+  <item atlasType="0" compress="0" key="ddb6296e5a1141347d5e9eb2d7f1dc07" label="icon_chip" asset="popu/icon_chip.png"/>
+  <item atlasType="0" compress="0" key="e5df13b1c72f5ddab69d974023292b65" label="btn_yellow_s" asset="popu/btn_yellow_s.png"/>
+  <item atlasType="0" compress="0" key="ec996085542463294b700f69d24a2278" label="bg_small" asset="popu/bg_small.png" grid="50,50,50,50"/>
+  <item atlasType="0" compress="0" key="f029ff6207ff0f2676563fd926e51570" label="btn_green_s" asset="popu/btn_green_s.png"/>
+  <item atlasType="0" compress="0" key="f1e610a9ff4342fe7d6d29be35ba61ab" label="text_search" asset="popu/text_search.png"/>
+</item>

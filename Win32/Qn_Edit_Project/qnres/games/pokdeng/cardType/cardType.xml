@@ -1,0 +1,27 @@
+<item label="cardType" compress="0" asset="games/pokdeng/cardType" isDirectory="true">
+  <item atlasType="0" compress="0" key="01b47a33c59cf69f66a9fd5a1fef746e" label="x5" asset="games/pokdeng/cardType/x5.png"/>
+  <item atlasType="0" compress="0" key="05501d4d58fdb0699c9bb707bd0de168" label="pokdeng_8" asset="games/pokdeng/cardType/pokdeng_8.png"/>
+  <item atlasType="0" compress="0" key="066dce6957eec1458dfc6f59c37ff88e" label="4" asset="games/pokdeng/cardType/4.png"/>
+  <item atlasType="0" compress="0" key="0b304d5249e7fc25dc691a121afa0d28" label="ear_2" asset="games/pokdeng/cardType/ear_2.png"/>
+  <item atlasType="0" compress="0" key="110874b5eab73c9cbd4fc50efd9450a2" label="0" asset="games/pokdeng/cardType/0.png"/>
+  <item atlasType="0" compress="0" key="29edbbf7eed76bdfc9dccea389289930" label="tag_straightFlush" asset="games/pokdeng/cardType/tag_straightFlush.png"/>
+  <item atlasType="0" compress="0" key="43b99a9b87b8ea3d13b76b2f75ebb7a7" label="5" asset="games/pokdeng/cardType/5.png"/>
+  <item atlasType="0" compress="0" key="5598b3f876273d8e26ca5cc9621720b1" label="tag_straight" asset="games/pokdeng/cardType/tag_straight.png"/>
+  <item atlasType="0" compress="0" key="6238cb875233bd1c73db1aaafe580f9b" label="9" asset="games/pokdeng/cardType/9.png"/>
+  <item atlasType="0" compress="0" key="6a1c2bc9d13729654b70fe9708aef795" label="7" asset="games/pokdeng/cardType/7.png"/>
+  <item atlasType="0" compress="0" key="7480a81bd4cf0159be7c13c3567c8d28" label="bg_3" asset="games/pokdeng/cardType/bg_3.png"/>
+  <item atlasType="0" compress="0" key="8bc30f21035b0db87aa3fd731e9a28c3" label="pokdeng_9" asset="games/pokdeng/cardType/pokdeng_9.png"/>
+  <item atlasType="0" compress="0" key="8bec256eb84d7c6b17b4d892a3ec4519" label="tag_threeKind" asset="games/pokdeng/cardType/tag_threeKind.png"/>
+  <item atlasType="0" compress="0" key="8e247c7fe8e9c08a006d1fc50fa1b2b4" label="tag_point" asset="games/pokdeng/cardType/tag_point.png"/>
+  <item atlasType="0" compress="0" key="91a841874107308ef0c8b11162f9139b" label="8" asset="games/pokdeng/cardType/8.png"/>
+  <item atlasType="0" compress="0" key="adc3e513c17f5e92f537a9b99fb0821a" label="6" asset="games/pokdeng/cardType/6.png"/>
+  <item atlasType="0" compress="0" key="afe2103a1f1542e2d31ee32c45d41be2" label="1" asset="games/pokdeng/cardType/1.png"/>
+  <item atlasType="0" compress="0" key="b082ef72eadecffe912d4de0b3e18424" label="2" asset="games/pokdeng/cardType/2.png"/>
+  <item atlasType="0" compress="0" key="b17fc2278eafe38bc0238aa077eaf69b" label="tag_threeYellow" asset="games/pokdeng/cardType/tag_threeYellow.png"/>
+  <item atlasType="0" compress="0" key="be4ad4906b661cff1d29ef99e0c86db9" label="bg_1" asset="games/pokdeng/cardType/bg_1.png"/>
+  <item atlasType="0" compress="0" key="d92e4450adb8416542270803d8308534" label="ear_1" asset="games/pokdeng/cardType/ear_1.png"/>
+  <item atlasType="0" compress="0" key="e325fc57c6ec1c038f02154fac265fd0" label="bg_2" asset="games/pokdeng/cardType/bg_2.png"/>
+  <item atlasType="0" compress="0" key="f48857a3945c002779141eb532354e46" label="x2" asset="games/pokdeng/cardType/x2.png"/>
+  <item atlasType="0" compress="0" key="f5dc63cb75c135df60c21a1a6bd5cea0" label="3" asset="games/pokdeng/cardType/3.png"/>
+  <item atlasType="0" compress="0" key="ffa7d1df2816f29a244de08a8030999a" label="x3" asset="games/pokdeng/cardType/x3.png"/>
+</item>

@@ -1,0 +1,4 @@
+<item label="dailyTask" compress="0" asset="popu/dailyTask" isDirectory="true">
+  <item atlasType="0" compress="0" key="87a9f15eebae32e8540fcc155cab734a" label="dTask_icWin1st" asset="popu/dailyTask/dTask_icWin1st.png"/>
+  <item atlasType="0" compress="0" key="8838d8fc0839c232f92dd2da8a16e332" label="dTask_bgListItem" asset="popu/dailyTask/dTask_bgListItem.png"/>
+</item>

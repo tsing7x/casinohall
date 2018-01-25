@@ -1,0 +1,17 @@
+<root type="0" typeName="View" time="0" x="-55" y="0" width="610" height="93" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" isGenerateLocal="true">
+  <Image2 type="1" typeName="Image" time="0" x="0" y="0" width="610" height="93" visible="true" fillParentWidth="true" fillParentHeight="false" nodeAlign="1" file="109edc340215583925f7e8d8c7dcfa25" packFile="" gridLeft="5" gridRight="5" gridTop="5" gridBottom="5">
+    <Image3 type="1" typeName="Image" time="0" x="15" y="0" width="46" height="34" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="73a099fda12ba40e5654243eef307057" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <view_content type="0" typeName="View" time="0" x="70" y="0" width="380" height="80" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7">
+      <text_content type="5" typeName="TextView" time="0" x="0" y="2" width="380" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" fontName="" fontSize="26" textAlign="7" color="0xa0522e" colorA="1" string="MsgCont"/>
+      <img_rewardBg type="1" typeName="Image" time="0" x="0" y="45" width="320" height="34" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="8f9548ab603993afb81c408a6c3ac4ad" packFile="" gridLeft="25" gridRight="25" gridTop="0" gridBottom="0">
+        <text_rewardName type="4" typeName="Text" time="0" x="5" y="0" width="12.85" height="28" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="26" textAlign="7" color="0x19ccff" colorA="1"/>
+        <img_chip type="1" typeName="Image" time="0" x="0" y="0" width="28" height="28" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="dc642e2891c9c1be753656ac7205d13d" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <text_rewardNum type="4" typeName="Text" time="0" x="0" y="0" width="12.85" height="28" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="26" textAlign="7" color="0x19ccff" colorA="1"/>
+      </img_rewardBg>
+    </view_content>
+    <btn_itemEvt type="1" typeName="Button" time="0" x="0" y="0" width="610" height="93" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="304f9053424bfe5d36de2ec200dfbbdc" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <btn_confirm type="1" typeName="Button" time="0" x="10" y="0" width="130" height="54" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3" file="5099f42efce070e834dff1bea7511cbd" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+      <text_btn type="4" typeName="Text" time="0" x="0" y="0" width="85" height="36" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="32" textAlign="7" color="0xFFFFFF" colorA="1" string="Action"/>
+    </btn_confirm>
+  </Image2>
+</root>

@@ -1,0 +1,4 @@
+<item label="award" compress="0" asset="language/english/popu/wheel/award" isDirectory="true">
+  <item atlasType="0" compress="0" key="3511e5f81633e628ad2e4b7aec5b002a" label="award_5" asset="language/english/popu/wheel/award/award_5.png"/>
+  <item atlasType="0" compress="0" key="e637d676d75260489ccaef209e18fa62" label="award_4" asset="language/english/popu/wheel/award/award_4.png"/>
+</item>

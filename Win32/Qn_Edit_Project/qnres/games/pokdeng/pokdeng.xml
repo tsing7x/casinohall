@@ -1,0 +1,8 @@
+<item label="pokdeng" compress="0" asset="games/pokdeng" isDirectory="true">
+  <item atlasType="0" compress="0" key="37aaff21faca3c45f418745cef813269" label="room_table" asset="games/pokdeng/room_table.png"/>
+  <item atlasType="0" compress="0" key="3ce23ef572b53e2d7c693381ae21a3ae" label="btn_up_banker" asset="games/pokdeng/btn_up_banker.png"/>
+  <item atlasType="0" compress="0" key="41033d41f32c0d39b170fe530e86b47f" label="room_bg" asset="games/pokdeng/room_bg.png"/>
+  <item atlasType="0" compress="0" key="697bac8b577bbd3fd5b03d8bc9cc25e6" label="roomItemBg" asset="games/pokdeng/roomItemBg.png" grid="20,20,20,20"/>
+  <item atlasType="0" compress="0" key="c0616197988f3048a5bd112571525ba0" label="btn_down_banker" asset="games/pokdeng/btn_down_banker.png"/>
+  <item atlasType="0" compress="0" key="f189feef2defa1b8098763c6b9a17c3e" label="ogo" asset="games/pokdeng/ogo.png"/>
+</item>

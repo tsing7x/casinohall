@@ -1,0 +1,9 @@
+<item label="libEffect" compress="0" asset="libEffect" isDirectory="true">
+  <item atlasType="0" compress="0" key="1f1e1a451719e88ebe814c8542965f67" label="noise2dstd" asset="libEffect/noise2dstd.png"/>
+  <item atlasType="0" compress="0" key="21112cd644d159242a6d3b1f9c5c05f6" label="whiteSampler" asset="libEffect/whiteSampler.png"/>
+  <item atlasType="0" compress="0" key="6569a863dd7eea3e96a3bd3d818370e6" label="noise01" asset="libEffect/noise01.png"/>
+  <item atlasType="0" compress="0" key="88a36ef3f1ed2b636c488a3508ef20a0" label="ice" asset="libEffect/ice.png"/>
+  <item atlasType="0" compress="0" key="a848cb7d2a80c12f0b8c0c51ceb664a5" label="fire01" asset="libEffect/fire01.png"/>
+  <item atlasType="0" compress="0" key="ad7624040fd57625181eed21c4611e4c" label="ice" asset="libEffect/ice.jpg"/>
+  <item atlasType="0" compress="0" key="c586fc2f53a8a770e5af0d0ce849f95a" label="alpha01" asset="libEffect/alpha01.png"/>
+</item>

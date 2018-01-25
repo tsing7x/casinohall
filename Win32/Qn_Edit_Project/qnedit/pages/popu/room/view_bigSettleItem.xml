@@ -1,0 +1,15 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="0" isGenerateLocal="true">
+  <view_prefeb type="0" typeName="View" time="0" x="0" y="0" width="610" height="95" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8">
+    <itemBg type="1" typeName="Image" time="0" x="0" y="0" width="610" height="-1" visible="true" fillParentWidth="true" fillParentHeight="false" nodeAlign="1" file="304f9053424bfe5d36de2ec200dfbbdc" packFile="" gridLeft="20" gridRight="20" gridTop="0" gridBottom="0"/>
+    <view_rank type="0" typeName="View" time="0" x="72" y="0" width="1" height="1" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7">
+      <img_rank type="1" typeName="Image" time="0" x="0" y="0" width="94" height="64" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="847a629020904a65c82d19e80433f3b8" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+        <text_rank type="4" typeName="Text" time="0" x="0" y="0" width="100" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="32" textAlign="0" color="0x7d979c" colorA="1"/>
+      </img_rank>
+    </view_rank>
+    <view_head type="0" typeName="View" time="0" x="142" y="0" width="82" height="82" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7"/>
+    <text_name type="4" typeName="Text" time="0" x="246" y="0" width="145" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="28" textAlign="0" color="0x545454" string="Text" colorA="1"/>
+    <tag_chip type="1" typeName="Image" time="0" x="408" y="0" width="29" height="31" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="a47e3c81eb2fff935d5321574db1ee41" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <text_turn type="4" typeName="Text" time="0" x="30" y="0" width="100" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="3" fontName="" fontSize="24" textAlign="7" color="0xFFFFFF" string="Text" colorA="1"/>
+    <img_divide type="1" typeName="Image" time="0" x="0" y="0" width="626" height="4" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="5" file="f012ef43af7b0cd2d90362d35fceb980" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+  </view_prefeb>
+</root>

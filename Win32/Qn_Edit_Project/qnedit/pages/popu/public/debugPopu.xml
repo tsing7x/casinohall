@@ -1,0 +1,11 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="8" isGenerateLocal="true">
+  <img_popuBg type="1" typeName="Image" time="0" x="0" y="0" width="600" height="400" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" file="0d02760df54c084b8fc17ba9bf776a4a" packFile="" gridLeft="10" gridRight="10" gridTop="10" gridBottom="10">
+    <img_inputBg type="1" typeName="Image" time="0" x="0" y="0" width="600" height="400" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="0d02760df54c084b8fc17ba9bf776a4a" packFile="" gridLeft="10" gridRight="10" gridTop="10" gridBottom="10">
+      <edit_text type="7" typeName="EditTextView" time="0" x="0" y="0" width="600" height="400" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="0" fontName="" fontSize="24" textAlign="8" color="0xFFFFFF" colorA="1" string="AlarmTip.play(&quot;运行调试代码&quot;)"/>
+    </img_inputBg>
+    <btn_execute type="1" typeName="Button" time="0" x="-3" y="406" width="80" height="40" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="5099f42efce070e834dff1bea7511cbd" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2="">
+      <Text4 type="4" typeName="Text" time="0" x="0" y="0" width="100" height="100" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="24" textAlign="0" color="0xFFFFFF" colorA="1" string="执行"/>
+    </btn_execute>
+    <btn_close type="1" typeName="Button" time="0" x="566" y="-22" width="50" height="50" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="54c13ab428bb78bd6c227abbf3c3e263" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0" file2=""/>
+  </img_popuBg>
+</root>

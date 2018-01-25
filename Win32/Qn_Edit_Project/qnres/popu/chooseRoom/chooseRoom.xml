@@ -1,0 +1,30 @@
+<item label="chooseRoom" compress="0" asset="popu/chooseRoom" isDirectory="true">
+  <item atlasType="0" compress="0" key="0d292d70a4a00edd6e7774a98cad04d6" label="img_num_1" asset="popu/chooseRoom/img_num_1.png"/>
+  <item atlasType="0" compress="0" key="0d95ee1f48e66bde6af1b0f588d4e6e0" label="img_poker_room5" asset="popu/chooseRoom/img_poker_room5.png"/>
+  <item atlasType="0" compress="0" key="0ee681a7b4e71be27bd9f38ecdedc570" label="img_online_icon" asset="popu/chooseRoom/img_online_icon.png"/>
+  <item atlasType="0" compress="0" key="11c99a55d554f203b6272a284994b919" label="img_online_frame" asset="popu/chooseRoom/img_online_frame.png"/>
+  <item atlasType="0" compress="0" key="154485c0982fefdae23388afa8009a79" label="img_num_k" asset="popu/chooseRoom/img_num_k.png"/>
+  <item atlasType="0" compress="0" key="17f6576a9fa1f9fdb65e5801234a4b19" label="img_num_0" asset="popu/chooseRoom/img_num_0.png"/>
+  <item atlasType="0" compress="0" key="1a358c71db5d4e8ab4eaa1392a21f674" label="img_num_2" asset="popu/chooseRoom/img_num_2.png"/>
+  <item atlasType="0" compress="0" key="1cc5ae3b5fff96ac091601614b02489d" label="img_find_room_txt" asset="popu/chooseRoom/img_find_room_txt.png"/>
+  <item atlasType="0" compress="0" key="1d21856726c1931ac161838755bcb473" label="img_num_9" asset="popu/chooseRoom/img_num_9.png"/>
+  <item atlasType="0" compress="0" key="23845b4cd6e375f905333fbf24190059" label="img_qucik_start_txt" asset="popu/chooseRoom/img_qucik_start_txt.png"/>
+  <item atlasType="0" compress="0" key="26717e5ead759c339a39eae11d3eb1c6" label="img_poker_room2" asset="popu/chooseRoom/img_poker_room2.png"/>
+  <item atlasType="0" compress="0" key="359e90ede582a8e5b09b50d4022c473b" label="img_poker_room4" asset="popu/chooseRoom/img_poker_room4.png"/>
+  <item atlasType="0" compress="0" key="4465d668106c66465f685a194b424f89" label="img_create_room_txt" asset="popu/chooseRoom/img_create_room_txt.png"/>
+  <item atlasType="0" compress="0" key="4726ec39d3aed8b52105fea0f7692ebb" label="img_num_8" asset="popu/chooseRoom/img_num_8.png"/>
+  <item atlasType="0" compress="0" key="4d42a4fcca6ede3a6b55b5ebd9049976" label="img_num_6" asset="popu/chooseRoom/img_num_6.png"/>
+  <item atlasType="0" compress="0" key="5fbbcca3dd6d9763a82b60f7371250b9" label="img_num_7" asset="popu/chooseRoom/img_num_7.png"/>
+  <item atlasType="0" compress="0" key="79ceff3afeb67044a39cc4176efba969" label="img_find_room" asset="popu/chooseRoom/img_find_room.png"/>
+  <item atlasType="0" compress="0" key="86c11648a0d4356039aef8d495ec1ac2" label="img_num_3" asset="popu/chooseRoom/img_num_3.png"/>
+  <item atlasType="0" compress="0" key="8fb4b93d41d9bb76fc0bb47bd08023e0" label="img_poker_room3" asset="popu/chooseRoom/img_poker_room3.png"/>
+  <item atlasType="0" compress="0" key="a529143e504fdf815a9f7176817ec555" label="img_head_bg" asset="popu/chooseRoom/img_head_bg.png"/>
+  <item atlasType="0" compress="0" key="b7cb0c45bcc26a247a8bd05cc9d2bd8a" label="img_poker_room1" asset="popu/chooseRoom/img_poker_room1.png"/>
+  <item atlasType="0" compress="0" key="ba7bb7dd997a8334509691864bdadabb" label="img_bottom_bar" asset="popu/chooseRoom/img_bottom_bar.png"/>
+  <item atlasType="0" compress="0" key="d331ae5ac253844bcc8f16920ff7d455" label="img_qucik_start_btn" asset="popu/chooseRoom/img_qucik_start_btn.png"/>
+  <item atlasType="0" compress="0" key="d5f746a1fb63763869b73baf0b5d3fdc" label="img_num_4" asset="popu/chooseRoom/img_num_4.png"/>
+  <item atlasType="0" compress="0" key="d91912323ac6034ca5f6df52e9851e9f" label="img_poker_room6" asset="popu/chooseRoom/img_poker_room6.png"/>
+  <item atlasType="0" compress="0" key="dc660f0a433ac48087a2ba2cedca6892" label="img_ret" asset="popu/chooseRoom/img_ret.png"/>
+  <item atlasType="0" compress="0" key="fd9c5dddec7ad6fa12b37b2bcfcf28f7" label="img_create_room" asset="popu/chooseRoom/img_create_room.png"/>
+  <item atlasType="0" compress="0" key="fdb4e648879302c1a46711b824f49e87" label="img_num_5" asset="popu/chooseRoom/img_num_5.png"/>
+</item>

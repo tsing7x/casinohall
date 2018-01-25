@@ -1,0 +1,12 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="6" isGenerateLocal="true">
+  <bg_item type="1" typeName="Image" time="0" x="0" y="0" width="614" height="144" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="6" file="8838d8fc0839c232f92dd2da8a16e332" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+    <ic_task type="1" typeName="Image" time="0" x="-13" y="0" width="150" height="142" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="87a9f15eebae32e8540fcc155cab734a" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <txt_taskName type="4" typeName="Text" time="0" x="128" y="-42" width="102" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="22" textAlign="7" color="0xffd2a7" colorA="1" string="Task Name"/>
+    <tv_rewDsc type="5" typeName="TextView" time="0" x="128" y="0" width="280" height="53" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="22" textAlign="8" color="0xffd2a7" string="Reward Dsc" colorA="1"/>
+    <txt_target type="4" typeName="Text" time="0" x="128" y="41" width="250" height="30" visible="false" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="22" textAlign="7" color="0xffd2a7" string="Task Target Dsc" colorA="1"/>
+    <txt_taskProgress type="4" typeName="Text" time="0" x="262" y="-42" width="129" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="7" fontName="" fontSize="22" textAlign="7" color="0x30d1ff" string="(Progress Info)" colorA="1"/>
+    <btn_itemAction type="1" typeName="Button" time="0" x="200" y="0" width="172" height="74" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="4125abaaed8a4bb81fffa74fff51796a" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+      <txt_btnAction type="4" typeName="Text" time="0" x="0" y="0" width="166" height="68" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" fontName="" fontSize="28" textAlign="0" color="0xFFFFFF" string="Action" colorA="1"/>
+    </btn_itemAction>
+  </bg_item>
+</root>

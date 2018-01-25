@@ -1,0 +1,31 @@
+<root type="0" typeName="View" time="0" x="0" y="0" width="720" height="1280" visible="true" fillParentWidth="true" fillParentHeight="true" nodeAlign="0" isGenerateLocal="true" stageH="0">
+  <img_popuBg type="1" typeName="Image" time="0" x="0" y="0" width="720" height="1051" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="4e64898e6008920d9b60f2845af63955" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20">
+    <img_title type="1" typeName="Image" time="0" x="0" y="-6" width="527" height="74" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="0955816cde24299006678b90f398faf7" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <Image19 type="1" typeName="Image" time="0" x="0" y="-5" width="96" height="52" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="da596b84fa591c6f4e0e85e6b42c6cd5" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </img_title>
+    <btn_close type="1" typeName="Button" time="0" x="607" y="-23" width="113" height="110" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8" file="54c13ab428bb78bd6c227abbf3c3e263" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <view_btnTab type="0" typeName="View" time="0" x="0" y="90" width="626" height="70" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1">
+      <tab_bg type="1" typeName="Image" time="0" x="0" y="0" width="626" height="74" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="2d4b4108db7411d15b74a23969b1176b" packFile="" gridLeft="40" gridRight="40" gridTop="0" gridBottom="0"/>
+      <img_tabSelect type="0" typeName="View" time="0" x="0" y="0" width="313" height="70" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0">
+        <img_tabSelect2 type="1" typeName="Image" time="0" x="0" y="2" width="308" height="64" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="3b87ac1a5f63c74fb3c54c33198d13e4" packFile="" gridLeft="40" gridRight="40" gridTop="0" gridBottom="0"/>
+      </img_tabSelect>
+      <btn_friendList type="1" typeName="Button" time="0" x="-156" y="0" width="313" height="70" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="304f9053424bfe5d36de2ec200dfbbdc" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+        <img_normal type="1" typeName="Image" time="0" x="0" y="0" width="188" height="42" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="f7fb9447629daa6f571e414926a41371" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <img_select type="1" typeName="Image" time="0" x="0" y="0" width="188" height="40" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="dae475b9a3e2a2966d30ebcfe3ecf9a5" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      </btn_friendList>
+      <btn_addFriend type="1" typeName="Button" time="0" x="156" y="0" width="313" height="70" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="304f9053424bfe5d36de2ec200dfbbdc" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+        <img_normal type="1" typeName="Image" time="0" x="0" y="0" width="132" height="38" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="2c62d765c825d6369cfb470919c732c1" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+        <img_select type="1" typeName="Image" time="0" x="0" y="0" width="132" height="36" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="d68a436ae06e9a4c65f72e4df34290a8" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+      </btn_addFriend>
+    </view_btnTab>
+    <Image14 type="1" typeName="Image" time="0" x="0" y="190" width="626" height="662" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="554dbc2353fabfc9ab3e61837bf7b251" packFile="" gridLeft="20" gridRight="20" gridTop="20" gridBottom="20"/>
+    <view_sub type="0" typeName="View" time="0" x="0" y="190" width="626" height="660" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1">
+      <view_friend_list type="0" typeName="View" time="0" x="0" y="0" width="626" height="660" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8"/>
+      <view_friend_add type="0" typeName="View" time="0" x="0" y="0" width="626" height="660" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="8"/>
+    </view_sub>
+    <Image22 type="1" typeName="Image" time="0" x="0" y="821" width="624" height="30" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="4acb0043c25ce7fe01b1489dd4a8045c" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    <btn_invite_more type="1" typeName="Button" time="0" x="0" y="886" width="262" height="91" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="1" file="b149fbf8e12277eeacf69454d66f0f1f" file2="" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0">
+      <Image24 type="1" typeName="Image" time="0" x="0" y="-10" width="168" height="54" visible="true" fillParentWidth="false" fillParentHeight="false" nodeAlign="0" file="efe1450f0ffba07514ac36aef59d87a8" packFile="" gridLeft="0" gridRight="0" gridTop="0" gridBottom="0"/>
+    </btn_invite_more>
+  </img_popuBg>
+</root>

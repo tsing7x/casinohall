@@ -1,0 +1,17 @@
+<item label="fbinvite" compress="0" asset="popu/fbinvite" isDirectory="true">
+  <item atlasType="0" compress="0" key="07c0aace31dac3dabae4a4060573902d" label="invite" asset="popu/fbinvite/invite.png"/>
+  <item atlasType="0" compress="0" key="2def456589499e46292afba369208623" label="text_select_all" asset="popu/fbinvite/text_select_all.png"/>
+  <item atlasType="0" compress="0" key="2f60a7d9bb9568b93f96809ed0796909" label="frame_bg" asset="popu/fbinvite/frame_bg.png"/>
+  <item atlasType="0" compress="0" key="329ff9d6b2e973e3120949ecb5436890" label="btn_send" asset="popu/fbinvite/btn_send.png"/>
+  <item atlasType="0" compress="0" key="37c2c03ca2a4a50cfcd8b237be33aa6d" label="text_invite2" asset="popu/fbinvite/text_invite2.png"/>
+  <item atlasType="0" compress="0" key="4b0479e6d9ebf9bcefef7cb3102cd491" label="text_callback1" asset="popu/fbinvite/text_callback1.png"/>
+  <item atlasType="0" compress="0" key="4d9bfc59f42e7137c53bf9043afea53d" label="text_callback2" asset="popu/fbinvite/text_callback2.png"/>
+  <item atlasType="0" compress="0" key="7de10be0eb76e3edc538b037c452cfa6" label="search_bg" asset="popu/fbinvite/search_bg.png" grid="35,35,0,0"/>
+  <item atlasType="0" compress="0" key="8809c88f937690cca2e1d8de055b28e6" label="icon_select" asset="popu/fbinvite/icon_select.png"/>
+  <item atlasType="0" compress="0" key="940b350c06a5dfd154302d3c456ff26b" label="recall" asset="popu/fbinvite/recall.png"/>
+  <item atlasType="0" compress="0" key="968fdb96db5dbb6169fe64c9a94160c9" label="head_mask" asset="popu/fbinvite/head_mask.png"/>
+  <item atlasType="0" compress="0" key="a91de470197c5056924ea0b2930428ce" label="selectAll" asset="popu/fbinvite/selectAll.png"/>
+  <item atlasType="0" compress="0" key="af75cf38ad67081d573852c72d7f0865" label="text_invite1" asset="popu/fbinvite/text_invite1.png"/>
+  <item atlasType="0" compress="0" key="c2cdc29be22d49266fd40ee8743f2a0a" label="selectAll_bg" asset="popu/fbinvite/selectAll_bg.png"/>
+  <item atlasType="0" compress="0" key="e740bc9b2510db45263028f9a1b14cd6" label="text_title" asset="popu/fbinvite/text_title.png"/>
+</item>

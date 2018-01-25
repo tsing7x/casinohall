@@ -1,0 +1,41 @@
+loadLayout=
+{
+	name="loadLayout",type=0,typeName="View",time=0,x=0,y=0,width=720,height=1280,visible=1,fillParentWidth=1,fillParentHeight=1,nodeAlign=kAlignTopLeft,
+	{
+		name="img_bg",type=1,typeName="Image",time=108906194,x=0,y=0,width=720,height=1280,visible=1,fillParentWidth=1,fillParentHeight=1,nodeAlign=kAlignTopRight,file="login/img_bg.png",
+		{
+			name="text_tip",type=4,typeName="Text",time=0,x=0,y=10,width=412.5,height=100,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignBottom,fontSize=30,textAlign=kAlignBottom,colorRed=255,colorGreen=255,colorBlue=255,string=[[fackbook登录，账户资产更安全]],colorA=1
+		}
+	},
+	{
+		name="view_loading",type=0,typeName="View",time=0,x=0,y=0,width=720,height=400,visible=1,fillParentWidth=1,fillParentHeight=0,nodeAlign=kAlignBottom,
+		{
+			name="img_loading_tip",type=1,typeName="Image",time=0,x=0,y=58,width=90,height=90,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTop,file="login/img_loading_1.png"
+		},
+		{
+			name="img_loading_tip13",type=1,typeName="Image",time=0,x=0,y=87,width=38,height=36,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTop,file="login/img_loading_2.png"
+		},
+		{
+			name="text_loading_tip",type=4,typeName="Text",time=0,x=14,y=173,width=240,height=100,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignBottom,fontSize=30,textAlign=kAlignBottom,colorRed=255,colorGreen=255,colorBlue=255,string=[[正在努力加载中…]]
+		}
+	},
+	{
+		name="view_update",type=0,typeName="View",time=0,x=0,y=0,width=720,height=400,visible=0,fillParentWidth=1,fillParentHeight=0,nodeAlign=kAlignBottom,
+		{
+			name="progress_bg",type=1,typeName="Image",time=0,x=0,y=167,width=600,height=16,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignBottom,file="login/img_progress_bg.png",gridLeft=3,gridRight=3,gridTop=3,gridBottom=3,
+			{
+				name="progress_fg",type=1,typeName="Image",time=0,x=0,y=0,width=100,height=12,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft,file="login/img_progress_fg.png",gridLeft=3,gridRight=3,gridTop=3,gridBottom=3
+			}
+		},
+		{
+			name="text_progress",type=4,typeName="Text",time=0,x=0,y=121,width=55,height=34,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignBottom,fontSize=30,textAlign=kAlignTop,colorRed=255,colorGreen=255,colorBlue=0,string=[[70%]],colorA=1
+		},
+		{
+			name="text_loadtip",type=4,typeName="Text",time=0,x=-179,y=200,width=120,height=34,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignBottom,fontSize=30,textAlign=kAlignBottom,colorRed=255,colorGreen=255,colorBlue=255,string=[[正在下载]],colorA=1
+		},
+		{
+			name="text_speed",type=4,typeName="Text",time=0,x=187,y=200,width=120,height=34,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignBottom,fontSize=30,textAlign=kAlignBottom,colorRed=255,colorGreen=255,colorBlue=255,string=[[58kb/s]]
+		}
+	}
+}
+return loadLayout;
